@@ -257,7 +257,7 @@
 				<seg>Date Time Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Valeur de date de format</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -689,7 +689,7 @@
 				<seg>Fit To Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Etiré en largeur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1257,7 +1257,7 @@
 				<seg>Vertical Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position verticale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1961,7 +1961,7 @@
 				<seg>Image and text relation:</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg>Relation image-texte :</seg>
+				<seg>Relation image-texte:</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2017,7 +2017,7 @@
 				<seg>Task Result</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Resultat de la tâche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2025,7 +2025,7 @@
 				<seg>Custom Button Index</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Index bouton client</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2033,7 +2033,7 @@
 				<seg>Max Days</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Max. de jours</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2041,7 +2041,7 @@
 				<seg>Custom</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Client</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2049,7 +2049,7 @@
 				<seg>Symbol Content Relation</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Relation contenu de symbole</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2057,7 +2057,7 @@
 				<seg>Spacing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Espacement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2065,7 +2065,7 @@
 				<seg>Image Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plan d'image</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2073,7 +2073,7 @@
 				<seg>Meta Image</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Meta-image</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2081,7 +2081,7 @@
 				<seg>Begin Value</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Valeur de départ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2089,7 +2089,7 @@
 				<seg>End Value</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Valeur finale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2097,7 +2097,7 @@
 				<seg>Tell me what you want to do</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Dites-moi ce que vous voulez faire</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2105,7 +2105,7 @@
 				<seg>Selected Index</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Index sélectionné</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2113,7 +2113,7 @@
 				<seg>Show Symbol</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montre symbole</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2121,7 +2121,7 @@
 				<seg>Checked</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Vérifié</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2129,7 +2129,7 @@
 				<seg>Background Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur de l'arrière-fond</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2137,7 +2137,7 @@
 				<seg>Points</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Points</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2145,7 +2145,7 @@
 				<seg>Position X</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2153,7 +2153,7 @@
 				<seg>Position Y</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Posttion Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2161,7 +2161,7 @@
 				<seg>Intensity</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Intensité</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2169,7 +2169,7 @@
 				<seg>Shape</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Forme</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2177,7 +2177,7 @@
 				<seg>Mapping Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de mappage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2185,7 +2185,7 @@
 				<seg>Gradient Stops</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Stop de gradient</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2193,7 +2193,7 @@
 				<seg>Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2201,7 +2201,7 @@
 				<seg>Center X</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Centre X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2209,7 +2209,7 @@
 				<seg>Center Y</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Centre Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2217,7 +2217,7 @@
 				<seg>Focus Factor X</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Facteur focus X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2225,7 +2225,7 @@
 				<seg>Focus Factor Y</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Facteur focus Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2233,7 +2233,7 @@
 				<seg>Center And Focus</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Centre et focus</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2241,7 +2241,7 @@
 				<seg>Center</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>centre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2249,7 +2249,7 @@
 				<seg>Focus Factor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Facteur de focus</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2257,7 +2257,7 @@
 				<seg>Color Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage couleur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2265,7 +2265,7 @@
 				<seg>Stock Gradient Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage du gradient de stock</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2273,7 +2273,7 @@
 				<seg>Linear Gradient Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage du gradient linéaire</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2281,7 +2281,7 @@
 				<seg>Radial Gradient Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage du gradient radial</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2289,7 +2289,7 @@
 				<seg>Advanced Gradient Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage gradient avancé</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2297,7 +2297,7 @@
 				<seg>Hatch Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage hâchures</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2305,7 +2305,7 @@
 				<seg>Image Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage image</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2313,7 +2313,7 @@
 				<seg>Foreground Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur de premier plan</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2321,7 +2321,7 @@
 				<seg>Colors</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2329,7 +2329,7 @@
 				<seg>Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plan de texture</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2337,7 +2337,7 @@
 				<seg>Begin Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur de début</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2345,7 +2345,7 @@
 				<seg>End Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur de fin</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2353,7 +2353,7 @@
 				<seg>Variant</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Variante</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2361,7 +2361,7 @@
 				<seg>Style and Variant</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Style et variante</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2369,7 +2369,7 @@
 				<seg>Horizontal Alignment</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Alignement horizontal</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2377,7 +2377,7 @@
 				<seg>Tile Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode tuile</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2385,7 +2385,7 @@
 				<seg>Vertical Alignment</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Alignement vertical</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2393,7 +2393,7 @@
 				<seg>Align Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plan de texture aligné</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2401,7 +2401,7 @@
 				<seg>Fixed Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plan de texture fixé</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2409,7 +2409,7 @@
 				<seg>Fit And Align Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ajustement et alignement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2417,7 +2417,7 @@
 				<seg>Stretch Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plan d'étirement de texture</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2425,7 +2425,7 @@
 				<seg>Stretch X Align Y Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plan étire X aligne Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2433,7 +2433,7 @@
 				<seg>Stretch Y Align X Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plan étire Y aligne X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2441,7 +2441,7 @@
 				<seg>Tile Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plan de texture tuilée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2449,7 +2449,7 @@
 				<seg>Flip X</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Inverser X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2457,7 +2457,7 @@
 				<seg>Flip Y</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Inverser Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2465,7 +2465,7 @@
 				<seg>Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2473,7 +2473,7 @@
 				<seg>Rasterization Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de tramage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2481,7 +2481,7 @@
 				<seg>Offset X</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Offset X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2489,7 +2489,7 @@
 				<seg>Offset Y</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Offset Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2497,7 +2497,7 @@
 				<seg>Scale Pin Point</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Echelle de point d'attache</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2505,7 +2505,7 @@
 				<seg>Scale</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Echelle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2513,7 +2513,7 @@
 				<seg>Fade Length</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Longueur transformation graduelle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2521,7 +2521,7 @@
 				<seg>Use Fill And Stroke Alpha</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Utiliser alpha trait et remplissage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2529,7 +2529,7 @@
 				<seg>Apply To Filling</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Appliquer au remplissage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2537,7 +2537,7 @@
 				<seg>Apply To Outline</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Appliauer au contour</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2545,7 +2545,7 @@
 				<seg>Dash Style</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Style du tiret</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2553,7 +2553,7 @@
 				<seg>Start Cap</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Longueur du tiret</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2561,7 +2561,7 @@
 				<seg>End Cap</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fin de haut</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2569,7 +2569,7 @@
 				<seg>Dash Cap</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>tiret haut</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2577,7 +2577,7 @@
 				<seg>Line Join</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Jointure de ligne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2585,7 +2585,7 @@
 				<seg>Miter Limit</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>limite d'onglet</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2593,7 +2593,7 @@
 				<seg>Dash Pattern</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Motif de tiret</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2601,7 +2601,7 @@
 				<seg>Caps</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Chapeaux</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2609,7 +2609,7 @@
 				<seg>Line Joins</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Joindre ligne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2617,7 +2617,7 @@
 				<seg>Thickness</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Epaisseur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2625,7 +2625,7 @@
 				<seg>Base Unit</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Unité de base</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2633,7 +2633,7 @@
 				<seg>Scroll By Default</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Défilement à défaut</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2641,7 +2641,7 @@
 				<seg>Zoom To Mouse Cursor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Zoomer au curseur de la souris</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2649,7 +2649,7 @@
 				<seg>Allow Anchor Scrolling</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise ancre défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2657,7 +2657,7 @@
 				<seg>Allow Wheel Scrolling</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autoriser défilement de la roue</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2665,7 +2665,7 @@
 				<seg>Allow Wheel Zooming</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise le défilement de la roue</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2673,7 +2673,7 @@
 				<seg>Deactive Delay</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Désactiver le délai</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2681,7 +2681,7 @@
 				<seg>Activate Delay</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Activer le délai</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2689,7 +2689,7 @@
 				<seg>Time</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Temps</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2697,7 +2697,7 @@
 				<seg>Unit Scroll Distance</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Unité distance de défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2705,7 +2705,7 @@
 				<seg>No Scroll Distance</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pas de distance de défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2713,7 +2713,7 @@
 				<seg>Toggle Scroll Zoom Modifier Key</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Basculer la clé de modification du zoom</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2721,7 +2721,7 @@
 				<seg>Flip Scroll Direction Modifier Key</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Soulever la clé de modification de direction du zoom</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2729,7 +2729,7 @@
 				<seg>Default Scroll Vertical</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Défilement vertical par défaut</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2737,7 +2737,7 @@
 				<seg>Toggle Checked On Click</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Basculer le click de vérification</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2745,7 +2745,7 @@
 				<seg>Main Menu</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Menu principal</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2753,7 +2753,7 @@
 				<seg>Document</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Document</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2761,7 +2761,7 @@
 				<seg>Read Only</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Lecture seule</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2769,7 +2769,7 @@
 				<seg>Save Changes</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Sauvegarder les modifications</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2777,7 +2777,7 @@
 				<seg>Do you want to save the changes?</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Voulez-vous sauvegarder les modifications</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2793,7 +2793,7 @@
 				<seg>Error message: {0}</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Message d'erreur : {0}</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2801,7 +2801,7 @@
 				<seg>Load from file failed</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Echec de chargement du fichier</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2809,7 +2809,7 @@
 				<seg>Load from stream failed</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Echec de chargement du flux</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2817,7 +2817,7 @@
 				<seg>Visible Headers Count</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Décompte des entêtes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2825,7 +2825,7 @@
 				<seg>Headers Padding</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage des entêtes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2833,7 +2833,7 @@
 				<seg>Headers Spacing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Espacement des entêtes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2841,7 +2841,7 @@
 				<seg>Icons Padding</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Espacement intérieur des icones</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2849,7 +2849,7 @@
 				<seg>Icons Spacing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Espacement des icones</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2857,7 +2857,7 @@
 				<seg>Show More Buttons</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer plus de boutons</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2865,7 +2865,7 @@
 				<seg>Show Fewer Buttons</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer moins de boutons</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2873,7 +2873,7 @@
 				<seg>Navigation Pane Options</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Options du volet de navigation</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2881,7 +2881,7 @@
 				<seg>Add or Remove Buttons</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ajouter ou supprimer des boutons</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2889,7 +2889,7 @@
 				<seg>Icon</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Icone</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2897,7 +2897,7 @@
 				<seg>Initial State</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Etat initial</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2905,7 +2905,7 @@
 				<seg>Current State</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Etat courant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2913,7 +2913,7 @@
 				<seg>Small Widgets Per Column</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Petits widgets par colonne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2921,7 +2921,7 @@
 				<seg>Collapse To Medium</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Réduire à moyen</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2929,7 +2929,7 @@
 				<seg>Collapse To Small</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Réduire à petit</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2937,7 +2937,7 @@
 				<seg>Max Lanes</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Lignes maximums</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2945,7 +2945,7 @@
 				<seg>Expanded</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Expansé</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2953,7 +2953,7 @@
 				<seg>Large Image</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Image large</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2961,7 +2961,7 @@
 				<seg>Small Image</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Petite image</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2969,7 +2969,7 @@
 				<seg>Image Text Spacing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Espacement du texte à l'image</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2977,7 +2977,7 @@
 				<seg>Minimum Column Count</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nombre minimum de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2985,7 +2985,7 @@
 				<seg>Maximum Column Count</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nombre maximum de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2993,7 +2993,7 @@
 				<seg>Column Count Step</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Saut de nombre de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3001,7 +3001,7 @@
 				<seg>Minimum Popup Column Count</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nombre minimum de colonnes en popup</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3009,7 +3009,7 @@
 				<seg>Is Last Widget On Lane</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Dernier widget de la ligne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3017,7 +3017,7 @@
 				<seg>Select Predefined</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Sélection prédéfinie</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3025,7 +3025,7 @@
 				<seg>Border and Thickness Editor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Editeur de bordure et d'épaisseur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3033,7 +3033,7 @@
 				<seg>Margins</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Marges</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3041,7 +3041,7 @@
 				<seg>Delay</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Délai</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3049,7 +3049,7 @@
 				<seg>Interval</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Intervalle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3057,7 +3057,7 @@
 				<seg>Fill Rule</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Règle de remplissage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3065,7 +3065,7 @@
 				<seg>Polyline</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ligne multiple</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3073,7 +3073,7 @@
 				<seg>Start Point</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Point de départ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3081,7 +3081,7 @@
 				<seg>End Point</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Poit d'arrivée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3089,7 +3089,7 @@
 				<seg>Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Rectangle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3097,7 +3097,7 @@
 				<seg>Outer Color 1</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur extérieure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3105,7 +3105,7 @@
 				<seg>Middle Color 1</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur médiane 1</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3113,7 +3113,7 @@
 				<seg>Inner Color 1</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur 1 d'intérieur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3121,7 +3121,7 @@
 				<seg>Outer Color 2</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur extérieure 2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3129,7 +3129,7 @@
 				<seg>Middle Color 2</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur médiane 2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3137,7 +3137,7 @@
 				<seg>Inner Color 2</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur intérieure 2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3145,7 +3145,7 @@
 				<seg>Six Colors Border Corner</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Coin de bordure à six couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3153,7 +3153,7 @@
 				<seg>Outer Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur extérieure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3161,7 +3161,7 @@
 				<seg>Middle Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur médiane</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3169,7 +3169,7 @@
 				<seg>Inner Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur intérieure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3177,7 +3177,7 @@
 				<seg>Three Colors Border Side</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Côté de bordure à trois couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3185,7 +3185,7 @@
 				<seg>OK</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>OK</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3201,7 +3201,7 @@
 				<seg>Abort</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Interrompre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3209,7 +3209,7 @@
 				<seg>Retry</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Réessayer</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3217,7 +3217,7 @@
 				<seg>Ignore</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ignorer</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3241,7 +3241,7 @@
 				<seg>Size Max Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur maximum</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3249,7 +3249,7 @@
 				<seg>Size Min Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur minimum</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3257,7 +3257,7 @@
 				<seg>Size Max Height</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Hauteur maximum</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3265,7 +3265,7 @@
 				<seg>Size Min Height</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Hauteur minimum</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3273,7 +3273,7 @@
 				<seg>Size Step</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille d'écart</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3281,7 +3281,7 @@
 				<seg>Clip Rect</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Clip Rect</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3289,7 +3289,7 @@
 				<seg>All Images</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Toutes les images</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3297,7 +3297,7 @@
 				<seg>Windows Metafile</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Métafichier fenêtre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3305,7 +3305,7 @@
 				<seg>Enhanced Windows Metafile</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Métafichier fenêtre renforcée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3313,7 +3313,7 @@
 				<seg>Color Scheme</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Schéma de couleur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3321,7 +3321,7 @@
 				<seg>Window X</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fenêtre X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3329,7 +3329,7 @@
 				<seg>Window Y</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fenêtre Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3337,7 +3337,7 @@
 				<seg>Window Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur de fenêtre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3345,7 +3345,7 @@
 				<seg>Window Height</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Hauteur de fenêtre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3353,7 +3353,7 @@
 				<seg>Window Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage de l'arrière-plan de la fenêtre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3361,7 +3361,7 @@
 				<seg>Preview Border</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Aperçu de bordure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3369,7 +3369,7 @@
 				<seg>Preview Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Epaisseur bordure d'aperçu</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3377,7 +3377,7 @@
 				<seg>Blink Interval</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Intervalle de clignotement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3385,7 +3385,7 @@
 				<seg>Gripper Extent Percent</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pourcentage d'extension de préhension</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3393,7 +3393,7 @@
 				<seg>Gripper Max Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille de préhension maximum</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3401,7 +3401,7 @@
 				<seg>Update While Dragging</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mettre à jour pendant glissement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3409,7 +3409,7 @@
 				<seg>Gripper Extent Limit</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Limite de l'extension de préhension</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3417,7 +3417,7 @@
 				<seg>Base Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur de base</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3425,7 +3425,7 @@
 				<seg>Selected Value</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Valeur sélectionnée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3433,7 +3433,7 @@
 				<seg>Value Selector Extend Percent</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pourcentage de valeur du sélecteur d'extension</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3441,7 +3441,7 @@
 				<seg>Hue Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position de teinte</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3449,7 +3449,7 @@
 				<seg>Selected Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur sélectionnée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3457,7 +3457,7 @@
 				<seg>SB Selector Radius Percent</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pourcentage de rayon du sélecteur SB</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3465,7 +3465,7 @@
 				<seg>Search String</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Chaîne à rechercher</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3473,7 +3473,7 @@
 				<seg>Case Sensitive</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Sensible à la casse</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3481,7 +3481,7 @@
 				<seg>String Match Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de comparaison de chaînes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3489,7 +3489,7 @@
 				<seg>Auto Complete Factory</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Complétion automatique usine</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3497,7 +3497,7 @@
 				<seg>Uni Size Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de taille unique</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3505,7 +3505,7 @@
 				<seg>Group</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Groupe</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3513,7 +3513,7 @@
 				<seg>Click Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de click</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3521,7 +3521,7 @@
 				<seg>Close Button First</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fermer le bouton d'abord</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3529,7 +3529,7 @@
 				<seg>Close Button Spacing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fermer l'espace de bouton</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3537,7 +3537,7 @@
 				<seg>Inverted</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Inverser</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3545,7 +3545,7 @@
 				<seg>Zoom Out</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Eteindre le zoom</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3553,7 +3553,7 @@
 				<seg>Zoom In</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Allumer le zoom</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3561,7 +3561,7 @@
 				<seg>Preview Margins Percent</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Aperçu du pourcentage de marge</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3569,7 +3569,7 @@
 				<seg>Label Style</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Style d'étiquette</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3577,7 +3577,7 @@
 				<seg>Rim Width Percent</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pourcentage de largeur de bordure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3585,7 +3585,7 @@
 				<seg>Screen Resolution</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Résolution d'écran</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3593,7 +3593,7 @@
 				<seg>Screen Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille d'écran</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3601,7 +3601,7 @@
 				<seg>Work Area</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Zone de travail</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3609,7 +3609,7 @@
 				<seg>Command Name</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nom de commande</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3617,7 +3617,7 @@
 				<seg>Command Parameter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Paramètre de cpmmande</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3625,7 +3625,7 @@
 				<seg>Show Tooltip</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer info-bulle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3633,7 +3633,7 @@
 				<seg>Update Interval</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Intervalle de mise à jour</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3641,7 +3641,7 @@
 				<seg>Type Name</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nom de type</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3649,7 +3649,7 @@
 				<seg>Predefined Cursor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Curseur prédéfini</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3657,7 +3657,7 @@
 				<seg>Use Native If Possible</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Unitliser natif si possible</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3665,7 +3665,7 @@
 				<seg>Conditions</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Condition</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3673,7 +3673,7 @@
 				<seg>Specificity Rank</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Rang de spécificité</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3681,7 +3681,7 @@
 				<seg>Target Schema Name</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nom du schéma cible</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3689,7 +3689,7 @@
 				<seg>User Class</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Classe d'utilisateur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3697,7 +3697,7 @@
 				<seg>User Id</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Id d'utilisateur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3705,7 +3705,7 @@
 				<seg>Property Name</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nom de propriété</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3713,7 +3713,7 @@
 				<seg>Four Colors Border Corner</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Coin de bordure quatre couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3721,7 +3721,7 @@
 				<seg>Diagonal Split</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Division diagonale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3729,7 +3729,7 @@
 				<seg>Two Colors Border Corner</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Coin de bordure à deux couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3737,7 +3737,7 @@
 				<seg>Outer Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Trait extérieur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3745,7 +3745,7 @@
 				<seg>Middle Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Trait médian</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3753,7 +3753,7 @@
 				<seg>Inner Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Trait intérieur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3761,7 +3761,7 @@
 				<seg>Inner X Radius</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Rayon intérieur X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3769,7 +3769,7 @@
 				<seg>Inner Y Radius</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Rayon intérieur Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3777,7 +3777,7 @@
 				<seg>Outer X Radius</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Rayon extérieur X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3785,7 +3785,7 @@
 				<seg>Outer Y Radius</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Rayon extérieur Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3793,7 +3793,7 @@
 				<seg>Outline</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ligne extérieure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3801,7 +3801,7 @@
 				<seg>Border Corner</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Coin bordure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3809,7 +3809,7 @@
 				<seg>Border Side</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Côté bordure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3817,7 +3817,7 @@
 				<seg>Two Colors Border Side</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Côté vordure deux couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3825,7 +3825,7 @@
 				<seg>Focus Frame Decorator</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Décorateur de cadre de focus</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3833,7 +3833,7 @@
 				<seg>Arrow Direction</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Direction de flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3841,7 +3841,7 @@
 				<seg>Selected Date Year</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Année date sélectionnée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3849,7 +3849,7 @@
 				<seg>Is From Prev Month</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est du mois précédent</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3857,7 +3857,7 @@
 				<seg>Is From Next Month</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est du mois suivant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3865,7 +3865,7 @@
 				<seg>Is Today</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>est aujourd'hui</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3873,7 +3873,7 @@
 				<seg>View Range</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Afficher la gamme</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3881,7 +3881,7 @@
 				<seg>Selected Date</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Date sélectionnée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3889,7 +3889,7 @@
 				<seg>Current Date</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Date courante</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3897,7 +3897,7 @@
 				<seg>Header Format String</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Chaîne de format d'en-tête</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3905,7 +3905,7 @@
 				<seg>Month Format Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de format du mois</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3913,7 +3913,7 @@
 				<seg>Day Of Week Format Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de format du jour de la semaine</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3921,7 +3921,7 @@
 				<seg>Highlight Today</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Surligner aujourd'hui</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3929,7 +3929,7 @@
 				<seg>Date</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Date</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3937,7 +3937,7 @@
 				<seg>Selected Date Month</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mois de la date sélectionnée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3945,7 +3945,7 @@
 				<seg>Shadow Style Editor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Editeur du style d'ombre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3953,7 +3953,7 @@
 				<seg>Stroke Style Editor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Editeur du style de traits</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3961,7 +3961,7 @@
 				<seg>Has Automatic Button</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>A un bouton automatique</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3969,7 +3969,7 @@
 				<seg>Has None Button</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>N'a pas de bouton</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3977,7 +3977,7 @@
 				<seg>More Options Image</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Image multi-option</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3985,7 +3985,7 @@
 				<seg>Automatic</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Automatique</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3993,7 +3993,7 @@
 				<seg>Preview</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Aperçu</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4001,7 +4001,7 @@
 				<seg>Fill Pattern</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Patron de remplissage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4009,7 +4009,7 @@
 				<seg>Fill Style Editor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Editeur de style de remplissage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4017,7 +4017,7 @@
 				<seg>Has Today Button</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>A bouton d'aujourd'hui</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4025,7 +4025,7 @@
 				<seg>Hour</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Heure</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4033,7 +4033,7 @@
 				<seg>Minute</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Minute</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4041,7 +4041,7 @@
 				<seg>Second</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Seconde</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4049,7 +4049,7 @@
 				<seg>Today</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Aujourd'hui</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4057,7 +4057,7 @@
 				<seg>Next Position Stamp</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Marque de la position suivante</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4065,7 +4065,7 @@
 				<seg>Toggle Popup On Click</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Basculer click d'apparition de popup</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4073,7 +4073,7 @@
 				<seg>Enabled</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Activé</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4081,7 +4081,7 @@
 				<seg>Is Disabled</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Désactivé</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4089,7 +4089,7 @@
 				<seg>Allow Focus</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise focus</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4097,7 +4097,7 @@
 				<seg>Allow Mouse Capture</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise capture par souris&gt;</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4105,7 +4105,7 @@
 				<seg>Allow Touch Capture</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise capture en tappotant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4113,7 +4113,7 @@
 				<seg>Allow Drop</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise largage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4121,7 +4121,7 @@
 				<seg>Tab Stop</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Stop tabulateur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4129,7 +4129,7 @@
 				<seg>Tab Index</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Indice de tabulateur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4137,7 +4137,7 @@
 				<seg>Tooltip</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Info-bulle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4145,7 +4145,7 @@
 				<seg>Cursor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Curseur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4153,7 +4153,7 @@
 				<seg>Interactor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Interacteur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4161,7 +4161,7 @@
 				<seg>Commander</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Commandant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4169,7 +4169,7 @@
 				<seg>Interaction</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Interaction</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4177,7 +4177,7 @@
 				<seg>Tabs</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Tabs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4185,7 +4185,7 @@
 				<seg>Cursor and Tooltip</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Curseur et info-bulle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4193,7 +4193,7 @@
 				<seg>Show Caret</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer crochets</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4201,7 +4201,7 @@
 				<seg>Allow Context Popup</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autoriser popup contextuel</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4209,7 +4209,7 @@
 				<seg>Hint</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Référence</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4217,7 +4217,7 @@
 				<seg>Hint Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage référence</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4225,7 +4225,7 @@
 				<seg>Selection Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage de l'arrière-plan de sélection</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4233,7 +4233,7 @@
 				<seg>Selection Text Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage texte de sélection</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4241,7 +4241,7 @@
 				<seg>Text Align</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Justification du texte</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4249,7 +4249,7 @@
 				<seg>Always Show Selection</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Toujours montrer la sélection</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4257,7 +4257,7 @@
 				<seg>Always Show Caret</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Toujours montrer le pointeur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4265,7 +4265,7 @@
 				<seg>Select All On Focus</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Sélectionner le tout sur le focus</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4273,7 +4273,7 @@
 				<seg>Multiline</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Multiligne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4281,7 +4281,7 @@
 				<seg>Word Wrap</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Découpage par mot</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4289,7 +4289,7 @@
 				<seg>Accepts Tab</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Accepter Tab</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4297,7 +4297,7 @@
 				<seg>Accepts Enter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Accepter saisie</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4305,7 +4305,7 @@
 				<seg>Password Char</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Caractères de mots de passe</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4313,7 +4313,7 @@
 				<seg>Character Casing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Casse des caractères</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4321,7 +4321,7 @@
 				<seg>Direction</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Direction</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4329,7 +4329,7 @@
 				<seg>Cut</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couper</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4337,7 +4337,7 @@
 				<seg>Copy</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Copier</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4345,7 +4345,7 @@
 				<seg>Paste</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Coller</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4353,7 +4353,7 @@
 				<seg>Top Left Symbol</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Symbole en haut à gauche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4361,7 +4361,7 @@
 				<seg>Bottom Right Symbol</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Symbole en bas à droite</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4369,7 +4369,7 @@
 				<seg>Lane Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position de ligne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4377,7 +4377,7 @@
 				<seg>Fill Lane</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ligne de remplissage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4385,7 +4385,7 @@
 				<seg>Stack Fill Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mde de remplissage de la pile</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4393,7 +4393,7 @@
 				<seg>Stack Fit Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode d'adaptation de la pile</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4401,7 +4401,7 @@
 				<seg>Wrappable</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>sécable</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4409,7 +4409,7 @@
 				<seg>Has Hidden Items</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>A des items cachés</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4417,7 +4417,7 @@
 				<seg>Allow Float</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise à flotter</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4425,7 +4425,7 @@
 				<seg>Allow Dock</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise à placer</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4433,7 +4433,7 @@
 				<seg>Allow Close</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise à fermer</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4441,7 +4441,7 @@
 				<seg>Reopen Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de réouverture</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4449,7 +4449,7 @@
 				<seg>Floating Anchor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ancrage de flottaison</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4457,7 +4457,7 @@
 				<seg>Floating Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4465,7 +4465,7 @@
 				<seg>Refloat Location</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Localisation de reflottaison</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4473,7 +4473,7 @@
 				<seg>Redock Lane Ref</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Réf ligne de redockage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4481,7 +4481,7 @@
 				<seg>Redock Lane Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position ligne de</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4489,7 +4489,7 @@
 				<seg>Has Opened Popup</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>a ouvert des bomo</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4497,7 +4497,7 @@
 				<seg>Open Popups On Mouse In</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ouvrir Popup a l'entrée de la dourio</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4505,7 +4505,7 @@
 				<seg>Close Popups On Mouse Out</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fermer Popup à la sortie de la souris</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4513,7 +4513,7 @@
 				<seg>Add or Remove Items</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ajoute ou enlève Items</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4529,7 +4529,7 @@
 				<seg>Insert Lane Area</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Insérer zone de ligne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4537,7 +4537,7 @@
 				<seg>Float Area</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Zone de flottement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4545,7 +4545,7 @@
 				<seg>Dock Area</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Zone de dock</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4553,7 +4553,7 @@
 				<seg>Color Index</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Indice de couleur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4561,7 +4561,7 @@
 				<seg>Show Transparency Picker</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer piqueur de transparence</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4569,7 +4569,7 @@
 				<seg>Web Safe</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Sauvegarde web</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4577,7 +4577,7 @@
 				<seg>Named</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nommé</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4585,7 +4585,7 @@
 				<seg>RGB</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>RGB</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4593,7 +4593,7 @@
 				<seg>R:</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>R:</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4601,7 +4601,7 @@
 				<seg>G:</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>G:</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4609,7 +4609,7 @@
 				<seg>B:</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>B:</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4617,7 +4617,7 @@
 				<seg>HSB</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>HSB</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4625,7 +4625,7 @@
 				<seg>H:</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>H:</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4633,7 +4633,7 @@
 				<seg>S:</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>S:</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4641,7 +4641,7 @@
 				<seg>HTML:</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>HTML:</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4649,7 +4649,7 @@
 				<seg>Opacity: {0}%</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Opacité</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4657,7 +4657,7 @@
 				<seg>Column Count</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Compte de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4665,7 +4665,7 @@
 				<seg>Horizontal Spacing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Espacement horizontal</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4673,7 +4673,7 @@
 				<seg>Vertical Spacing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Espacement vertical</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4681,7 +4681,7 @@
 				<seg>Cyclic Keyboard Navigation</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Navigation clavier cyclique</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4689,7 +4689,7 @@
 				<seg>Palette</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Palette</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4697,7 +4697,7 @@
 				<seg>Preview Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille précédente</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4705,7 +4705,7 @@
 				<seg>Preview Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Trait précédent</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4713,7 +4713,7 @@
 				<seg>Preview Margins</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Marges précédentes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4721,7 +4721,7 @@
 				<seg>Has More Colors Button</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>A plusieurs boutons de couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4729,7 +4729,7 @@
 				<seg>More Colors</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Plus de couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4737,7 +4737,7 @@
 				<seg>Drop Down Button Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position bouton de largage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4745,7 +4745,7 @@
 				<seg>Small Change</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Changement réduit</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4753,7 +4753,7 @@
 				<seg>Large Change</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Large chargement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4761,7 +4761,7 @@
 				<seg>Snapping Step</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pas d'enclenchement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4769,7 +4769,7 @@
 				<seg>Ticks Placement</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Placement des ticks</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4801,7 +4801,7 @@
 				<seg>Ticks</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Longueur de Ticks</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4809,7 +4809,7 @@
 				<seg>Default Size Measure Value</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Valeur de taille par défaut</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4817,7 +4817,7 @@
 				<seg>Selected Path</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Chemin sélectionné</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4825,7 +4825,7 @@
 				<seg>Is Mouse Over Symbol</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Symbole passage de souris</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4833,7 +4833,7 @@
 				<seg>Gridlines Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Trait de grille</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4841,7 +4841,7 @@
 				<seg>Split Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode séparation</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4849,7 +4849,7 @@
 				<seg>Split Offset</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Décalage de division</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4857,7 +4857,7 @@
 				<seg>Split Factor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Facteur de division</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4865,7 +4865,7 @@
 				<seg>Resize Step</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pas de redimensionnement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4873,7 +4873,7 @@
 				<seg>Resize While Dragging</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Redimensionner pendant traction</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4889,7 +4889,7 @@
 				<seg>Is Popup Opened</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Popup ouverte</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4897,7 +4897,7 @@
 				<seg>Popup X Resize</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Redimensionner Popup X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4905,7 +4905,7 @@
 				<seg>Popup Y Resize</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Redimensionner Popup Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4913,7 +4913,7 @@
 				<seg>Popup X Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position Popup X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4921,7 +4921,7 @@
 				<seg>Popup Y Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position Popup Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4929,7 +4929,7 @@
 				<seg>Popup Open Delay</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Délai d'ouverture Popup</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4937,7 +4937,7 @@
 				<seg>Popup Close Delay</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Délai de fermeture Popup</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4945,7 +4945,7 @@
 				<seg>Max Popup Height</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Hauteur maximum Popup</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4953,7 +4953,7 @@
 				<seg>Max Popup Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur maximum Popup</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4961,7 +4961,7 @@
 				<seg>Headers Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position des titres</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4969,7 +4969,7 @@
 				<seg>Headers Alignment</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Alignement des titres</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4977,7 +4977,7 @@
 				<seg>Headers Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode des titres</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4985,7 +4985,7 @@
 				<seg>Size To Selected Page</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille des pages sélectionnées</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4993,7 +4993,7 @@
 				<seg>Size To Headers</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille jusqu'aux titres</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5001,7 +5001,7 @@
 				<seg>Select Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Sélectionner couleur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5009,7 +5009,7 @@
 				<seg>Current Color</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Couleur actuelle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5017,7 +5017,7 @@
 				<seg>New</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Nouveau</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5025,7 +5025,7 @@
 				<seg>Current</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Courant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5033,7 +5033,7 @@
 				<seg>Headers Column Separator Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position du séparateur des titres de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5041,7 +5041,7 @@
 				<seg>Headers Column Fill</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Remplissage des titres de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5049,7 +5049,7 @@
 				<seg>Min Headers Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur minimum des titres de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5057,7 +5057,7 @@
 				<seg>Max Headers Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur maximum des titres de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5065,7 +5065,7 @@
 				<seg>Preferred Headers Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur préférée des titres de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5073,7 +5073,7 @@
 				<seg>Desired Headers Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur désirée des titres de colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5081,7 +5081,7 @@
 				<seg>Min Contents Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur minimum du contenu des colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5089,7 +5089,7 @@
 				<seg>Max Contents Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur maximum du contenu des colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5097,7 +5097,7 @@
 				<seg>Preferred Contents Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur préférée du contenu des colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5105,7 +5105,7 @@
 				<seg>Desired Contents Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur désirée du contenu des colonnes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5113,7 +5113,7 @@
 				<seg>Min Shortcuts Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur minimum des des colonnes de raccourcis</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5121,7 +5121,7 @@
 				<seg>Max Shortcuts Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur maximum des colonnes de raccourcis</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5129,7 +5129,7 @@
 				<seg>Preferred Shortcuts Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur préférée des colonnes de raccourcis</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5137,7 +5137,7 @@
 				<seg>Desired Shortcuts Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur désirée des colonnes de raccourcis</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5145,7 +5145,7 @@
 				<seg>Min Symbols Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur minimum de colomnes de symboles</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5153,7 +5153,7 @@
 				<seg>Max Symbols Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur maximum de colomnes de symboles</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5161,7 +5161,7 @@
 				<seg>Preferred Symbols Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur préférée de la colonne de symboles</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5169,7 +5169,7 @@
 				<seg>Desired Symbols Column Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur désirée de la colonne de symboles</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5177,7 +5177,7 @@
 				<seg>Has Child Menu Items</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>A des items de menu enfant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5185,7 +5185,7 @@
 				<seg>Close On Click</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fermer d'un click</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5193,7 +5193,7 @@
 				<seg>Header Content Relation</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Relation entre contenus de titres</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5201,7 +5201,7 @@
 				<seg>Viewport Origin X</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>X d'Origine du Port de vue</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5209,7 +5209,7 @@
 				<seg>Viewport Origin Y</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Y d'Origine du Port de vue</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5217,7 +5217,7 @@
 				<seg>Viewport Origin Snap To Pixel</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Enclenchement du pixel du Port de vue d'origine</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5225,7 +5225,7 @@
 				<seg>H Scroll Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5233,7 +5233,7 @@
 				<seg>V Scroll Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode V de défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5241,7 +5241,7 @@
 				<seg>No Scroll H Align</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pas d'alignement H du défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5249,7 +5249,7 @@
 				<seg>No Scroll V Align</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pas d'alignement V du défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5257,7 +5257,7 @@
 				<seg>Small H Scroll Change</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Faible changement H du défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5265,7 +5265,7 @@
 				<seg>Small V Scroll Change</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Faible changement V du défilement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5273,7 +5273,7 @@
 				<seg>Is Scrolling</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est en train de défiler</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5281,7 +5281,7 @@
 				<seg>Text Alignment</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Justification du texte</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5289,7 +5289,7 @@
 				<seg>Text Wrap Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de séparation du texte</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5297,7 +5297,7 @@
 				<seg>Selection</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Sélection</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5305,7 +5305,7 @@
 				<seg>Content</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Contenu</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5313,7 +5313,7 @@
 				<seg>Close On Mouse Down</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fermer en faisant descendre la souris</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5321,7 +5321,7 @@
 				<seg>Show On Disabled</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer déconnection</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5329,7 +5329,7 @@
 				<seg>Show Duration</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer la durée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5337,7 +5337,7 @@
 				<seg>First Show Delay</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Délai initial pour afficher</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5345,7 +5345,7 @@
 				<seg>Next Show Delay</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Délai avant prochain affichage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5353,7 +5353,7 @@
 				<seg>Follow Mouse</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Siuvez la souris</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5361,7 +5361,7 @@
 				<seg>Hot Spot Padding</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ecart du point chaud</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5369,7 +5369,7 @@
 				<seg>Lane Fill Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de remplissage de la ligne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5377,7 +5377,7 @@
 				<seg>Fill Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de remplissage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5385,7 +5385,7 @@
 				<seg>Fit Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode d'ajustement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5393,7 +5393,7 @@
 				<seg>Uniform Widths</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeurs uniformes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5401,7 +5401,7 @@
 				<seg>Uniform Heights</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Hauteurs uniformes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5409,7 +5409,7 @@
 				<seg>Visible Index</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Indice visible</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5417,7 +5417,7 @@
 				<seg>Size To Visible</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille du visible</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5425,7 +5425,7 @@
 				<seg>Integral V Scroll</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Défilement intégral V</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5433,7 +5433,7 @@
 				<seg>Is Opened</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est ouvert</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5441,7 +5441,7 @@
 				<seg>Is Active</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est actif</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5449,7 +5449,7 @@
 				<seg>Is Closing</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>En fermeture</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5457,7 +5457,7 @@
 				<seg>Is Minimized</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est minimisé</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5465,7 +5465,7 @@
 				<seg>Is Maximized</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est maximisé</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5473,7 +5473,7 @@
 				<seg>Is Resized</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mesures rétablies</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5481,7 +5481,7 @@
 				<seg>Is Dragged</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est tracté</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5489,7 +5489,7 @@
 				<seg>Is Frame Active</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Est cadre actif</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5497,7 +5497,7 @@
 				<seg>Start Position</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Position de départ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5505,7 +5505,7 @@
 				<seg>Modal</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Modal</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5513,7 +5513,7 @@
 				<seg>Frame Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Epaisseur de la bordure du cadre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5521,7 +5521,7 @@
 				<seg>Frame Border</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Bordure du cadre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5529,7 +5529,7 @@
 				<seg>Show In Taskbar</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montre dans la barre des tâches</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5537,7 +5537,7 @@
 				<seg>Resize Frame Thickness</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Redimensionner l'épaisseur du cadre.</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5545,7 +5545,7 @@
 				<seg>Resize Corner Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Redimensionne les coins du cadre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5553,7 +5553,7 @@
 				<seg>Show Title Bar</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Affiche la barre des titres la</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5561,7 +5561,7 @@
 				<seg>Show Control Box</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Affiche la Box de contrôle</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5569,7 +5569,7 @@
 				<seg>Allow X Resize</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise le redimensionnement de X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5577,7 +5577,7 @@
 				<seg>Allow Y Resize</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise le redimensionnement de Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5585,7 +5585,7 @@
 				<seg>Allow Minimize</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise diminution</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5593,7 +5593,7 @@
 				<seg>Allow Maximize</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Autorise maximisation</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5601,7 +5601,7 @@
 				<seg>Activate On Open</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Active en ouvrant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5609,7 +5609,7 @@
 				<seg>Activate Owner Frame On Activate</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Active le cadre propriétaire à l'activation</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5617,7 +5617,7 @@
 				<seg>Activate Owner On Close</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Active propriétaire en fermant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5625,7 +5625,7 @@
 				<seg>Remove From Parent On Close</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Enlève du parent en fermant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7473,7 +7473,7 @@
 				<seg>X2</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>X2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7481,7 +7481,7 @@
 				<seg>Y2</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Y2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -10497,7 +10497,7 @@
 				<seg>AaBbCc</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>AaBbCc</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24841,7 +24841,7 @@
 				<seg>A</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>A</seg>
 			</tuv>
 		</tu>
 		<tu>
