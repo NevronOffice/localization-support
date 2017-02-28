@@ -809,7 +809,7 @@
 				<seg>Selected Bounds</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>所选边界</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -817,7 +817,7 @@
 				<seg>Document Bounds</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>文档边界</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -825,7 +825,7 @@
 				<seg>Selection Bounds</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>选择区边界</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1289,7 +1289,7 @@
 				<seg>Developer Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>开发者模式</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2793,7 +2793,7 @@
 				<seg>Error message: {0}</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>错误消息: {0}</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2801,7 +2801,7 @@
 				<seg>Load from file failed</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>从文件加载失败</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2809,7 +2809,7 @@
 				<seg>Load from stream failed</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>从流加载失败</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12065,7 +12065,7 @@
 				<seg>Show Back Button</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>显示后退按钮</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12073,7 +12073,7 @@
 				<seg>Templates path '{0}' does not exist.</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>模版路径'{0}'不存在.</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12081,7 +12081,7 @@
 				<seg>Templates path does not exist</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>模版路径不存在</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12161,7 +12161,7 @@
 				<seg>MyDraw XML Drawing Template</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>MyDraw XML绘图模版</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12313,7 +12313,7 @@
 				<seg>Edit Print Layout</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>编辑打印布局</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12321,7 +12321,7 @@
 				<seg>Edit Line Jumps</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>编辑跨线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12329,7 +12329,7 @@
 				<seg>Edit Drawing Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>编辑绘图设置</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12369,7 +12369,7 @@
 				<seg>Finished searching. A total of " + replaceCount.ToString() + " replacements were made.</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>已完成搜索. 总共有" + replaceCount.ToString() + "处做了替换.</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12377,7 +12377,7 @@
 				<seg>Finished searching. The search item was not found.</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>已完成搜索. 不过未找到搜索条目.</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12385,7 +12385,7 @@
 				<seg>Continue from</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>继续, 其位置为</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12393,7 +12393,7 @@
 				<seg>begin</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>开始</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12401,7 +12401,7 @@
 				<seg>end</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>结束</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12433,7 +12433,7 @@
 				<seg>Increase Font Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>增大字体大小</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12585,7 +12585,7 @@
 				<seg>Search In</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>搜索</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12633,7 +12633,7 @@
 				<seg>Modify Control Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>修改控制点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12697,7 +12697,7 @@
 				<seg>MyDraw Binary Drawing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>MyDraw二进制绘图</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12713,7 +12713,7 @@
 				<seg>MyDraw XML Drawing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>MyDraw XML绘图</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13361,7 +13361,7 @@
 				<seg>Degree</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>度</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13369,7 +13369,7 @@
 				<seg>First Weight</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>净重</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13377,7 +13377,7 @@
 				<seg>Last Weight</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>毛重</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13385,7 +13385,7 @@
 				<seg>Control Points</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>控制点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13393,7 +13393,7 @@
 				<seg>Knots</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>节点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13401,7 +13401,7 @@
 				<seg>Reposition Text</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复位文本</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13409,7 +13409,7 @@
 				<seg>Flow Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>流类型</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13417,7 +13417,7 @@
 				<seg>Gateway Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>门类型</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13625,7 +13625,7 @@
 				<seg>Font Style Bold</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>字体样式 - 粗体</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13633,7 +13633,7 @@
 				<seg>Font Style Italic</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>字体样式 - 斜体</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13641,7 +13641,7 @@
 				<seg>Font Style Underline</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>字体样式 - 下划线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13649,7 +13649,7 @@
 				<seg>Font Style Strikethrough</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>字体样式 - 删除线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14537,7 +14537,7 @@
 				<seg>Create horizontal guideline</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>创建水平辅助线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14545,7 +14545,7 @@
 				<seg>Create vertical guideline</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>创建垂直辅助线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14553,7 +14553,7 @@
 				<seg>Create 1D Shape</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>创建一维形状</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14561,7 +14561,7 @@
 				<seg>Create 2D Shape</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>创建二维形状</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14569,7 +14569,7 @@
 				<seg>Create page item</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>创建页面条目</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14601,7 +14601,7 @@
 				<seg>Outer Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>外矩形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14609,7 +14609,7 @@
 				<seg>Annotation Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>注释形状</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14649,7 +14649,7 @@
 				<seg>Callout Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>调出形状</seg>
+				<seg>引线式注记形状</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14769,7 +14769,7 @@
 				<seg>Simple Arrow</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>简单箭头</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14777,7 +14777,7 @@
 				<seg>Simple Double Arrow</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>简单双箭头</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15881,7 +15881,7 @@
 				<seg>Gateway</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>门</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15937,7 +15937,7 @@
 				<seg>Data Object</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>数据对象</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16009,7 +16009,7 @@
 				<seg>Message Flow</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>消息流</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16017,7 +16017,7 @@
 				<seg>Sequence Flow</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>顺序流</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16025,7 +16025,7 @@
 				<seg>Association</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>联合</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16033,7 +16033,7 @@
 				<seg>Data Store</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>数据存储</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16105,7 +16105,7 @@
 				<seg>Mid Elbow Box</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>中部弯头框</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16401,7 +16401,7 @@
 				<seg>Bus</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>总线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16409,7 +16409,7 @@
 				<seg>Comm Link</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>公共链接</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22129,7 +22129,7 @@
 				<seg>Five Ruled Column</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>正五棱柱</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22137,7 +22137,7 @@
 				<seg>Info Line</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>信息线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22145,7 +22145,7 @@
 				<seg>Break Line</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>分隔线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22153,7 +22153,7 @@
 				<seg>Section 1</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>章节 1</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22161,7 +22161,7 @@
 				<seg>Section 2</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>章节 2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22169,7 +22169,7 @@
 				<seg>Section 3</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>章节 3</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22177,7 +22177,7 @@
 				<seg>Reference Plane Site</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照平面场地</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22185,7 +22185,7 @@
 				<seg>Reference Plane 1</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照平面 1</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22193,7 +22193,7 @@
 				<seg>Reference Plane 2</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照平面 2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22201,7 +22201,7 @@
 				<seg>Benchmark</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>基准</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22209,7 +22209,7 @@
 				<seg>Level</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>级别</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22217,7 +22217,7 @@
 				<seg>Datum</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>基准</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22225,7 +22225,7 @@
 				<seg>Ceiling</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>上限</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22233,7 +22233,7 @@
 				<seg>North Arrow 1</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>指北针 1</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22241,7 +22241,7 @@
 				<seg>North Arrow 2</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>指北针 2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22249,7 +22249,7 @@
 				<seg>North Arrow 3</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>指北针 3</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22257,7 +22257,7 @@
 				<seg>North Arrow 4</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>指北针 4</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22265,7 +22265,7 @@
 				<seg>North Arrow 5</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>指北针 5</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22273,7 +22273,7 @@
 				<seg>Revision Cloud</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>修订云形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22281,7 +22281,7 @@
 				<seg>Scale Symbol</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>比例尺符号</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22289,7 +22289,7 @@
 				<seg>Note Symbol</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>注释符号</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22297,7 +22297,7 @@
 				<seg>Reference Triangle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照三角形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22305,7 +22305,7 @@
 				<seg>Reference Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照矩形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22313,7 +22313,7 @@
 				<seg>Reference Hexagon</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照六边形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22321,7 +22321,7 @@
 				<seg>Reference Oval</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照椭圆</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22329,7 +22329,7 @@
 				<seg>Reference Circle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照圆</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22337,7 +22337,7 @@
 				<seg>Reference Callout 1</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照引线式注记 1</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22345,7 +22345,7 @@
 				<seg>Reference Callout 2</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>参照引线式注记 2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22353,7 +22353,7 @@
 				<seg>Vertical Oposite</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>垂直相对</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22361,7 +22361,7 @@
 				<seg>Reposition Extension Line</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复位延长线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22369,7 +22369,7 @@
 				<seg>Resize Circle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>调整圆大小</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22377,7 +22377,7 @@
 				<seg>Reposition Bend</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复位弯曲</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24513,7 +24513,7 @@
 				<seg>Layout Bounds</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>布局边界</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24609,7 +24609,7 @@
 				<seg>Figure Options</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>图选项</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25249,7 +25249,7 @@
 				<seg>Close Figure</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>关闭图</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25921,7 +25921,7 @@
 				<seg>Text Align Justify</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>文本两端对齐</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25929,7 +25929,7 @@
 				<seg>Text Superscript</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>文本上标</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25937,7 +25937,7 @@
 				<seg>Text Subscript</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>文本下标</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25977,7 +25977,7 @@
 				<seg>Decrease Font Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>减小字体大小</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25985,7 +25985,7 @@
 				<seg>ClearTextFormatting</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>清除文本格式</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26281,7 +26281,7 @@
 				<seg>Rectangle Tool</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>长方形工具</seg>
+				<seg>矩形工具</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26329,7 +26329,7 @@
 				<seg>Nurbs Tool</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>NURBS工具</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26401,7 +26401,7 @@
 				<seg>Line Jumps</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>跨线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26521,7 +26521,7 @@
 				<seg>Exclusive Data</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>独占数据</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26529,7 +26529,7 @@
 				<seg>Exclusive Data (With Marker)</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>独占数据 (带标记)</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26537,7 +26537,7 @@
 				<seg>Exclusive Event</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>独占事件</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26545,7 +26545,7 @@
 				<seg>Exclusive Event (Instantiate)</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>独占事件 (实例化)</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26553,7 +26553,7 @@
 				<seg>Parallel Data Event (Instantiate)</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>并行数据事件 (实例化)</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26561,7 +26561,7 @@
 				<seg>Inclusive</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>包含</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26569,7 +26569,7 @@
 				<seg>Parallel</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>并行</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26577,7 +26577,7 @@
 				<seg>Complex</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复杂</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26585,7 +26585,7 @@
 				<seg>Meassage Flow</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>消息流</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27217,7 +27217,7 @@
 				<seg>Search</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>搜索</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27393,7 +27393,7 @@
 				<seg>Select Document</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>选择文档</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28705,7 +28705,7 @@
 				<seg>Clear Formatting</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>清除格式</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28721,7 +28721,7 @@
 				<seg>Change Font Size To Inlines</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>更改字体大小给内联</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28737,7 +28737,7 @@
 				<seg>Insert Barcode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>插入条码</seg>
 			</tuv>
 		</tu>
 		<tu>
