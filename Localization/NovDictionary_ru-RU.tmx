@@ -2881,7 +2881,7 @@
 				<seg>Add or Remove Buttons</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Добавить или удалить кнопки</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3289,7 +3289,7 @@
 				<seg>All Images</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Все изображения</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9625,7 +9625,7 @@
 				<seg>Absolute Inflate</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Абсолютная надуть</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -10617,7 +10617,7 @@
 				<seg>Add Filter</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Добавить фильтр</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -10817,7 +10817,7 @@
 				<seg>&lt;None&gt;</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>&lt;Нет&gt;</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11217,7 +11217,7 @@
 				<seg>Allow Delete Rows</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить удаление строк</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11225,7 +11225,7 @@
 				<seg>Allow Edit</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить редактирование</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11497,7 +11497,7 @@
 				<seg>Allow Filter</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить фильтр</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11521,7 +11521,7 @@
 				<seg>Allow Format</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить формат</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11537,7 +11537,7 @@
 				<seg>Allow Resize</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить изменение размера</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12985,7 +12985,7 @@
 				<seg>Activation Pass</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Процесс активации</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15961,7 +15961,7 @@
 				<seg>Ad Hoc</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Ад хок</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26681,7 +26681,7 @@
 				<seg>Zooming</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Изменение масштаба</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26817,7 +26817,7 @@
 				<seg>Allow Resize X</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить изменение размера X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26825,7 +26825,7 @@
 				<seg>Allow Resize Y</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить изменение размера Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26841,7 +26841,7 @@
 				<seg>Allow Move X</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить перемещение X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26849,7 +26849,7 @@
 				<seg>Allow Move Y</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить перемещение Y</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27065,7 +27065,7 @@
 				<seg>Allow Select</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разрешить выбор</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27737,7 +27737,7 @@
 				<seg>{0} - due in {1}</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>{0} - из-за в {1}</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28145,7 +28145,7 @@
 				<seg>Yearly</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Ежегодно</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28369,7 +28369,7 @@
 				<seg>Absolute</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Абсолютное</seg>
 			</tuv>
 		</tu>
 		<tu>
