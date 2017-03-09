@@ -6689,7 +6689,7 @@
 				<seg>Square</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Квадрат</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6697,7 +6697,7 @@
 				<seg>Triangle</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Треугольник</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8137,7 +8137,7 @@
 				<seg>Arrowhead Shape</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигура наконечника</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8321,7 +8321,7 @@
 				<seg>Candle Shape</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигура свечи</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12097,7 +12097,7 @@
 				<seg>Blank Drawing</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Пустой чертеж</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12105,7 +12105,7 @@
 				<seg>New from Existing...</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Новое из существующих...</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12257,7 +12257,7 @@
 				<seg>Accessible Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Доступные формы</seg>
+				<seg>Доступные фигуры</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12417,7 +12417,7 @@
 				<seg>Apply Geometry Formatting</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Применить форматирование геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12433,7 +12433,7 @@
 				<seg>Increase Font Size</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Увеличить размер шрифта</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12441,7 +12441,7 @@
 				<seg>Apply Text Formatting</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Применить форматирование текста</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12489,7 +12489,7 @@
 				<seg>SHAPE WIDTH</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>ШИРИНА ФИГУРЫ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12553,7 +12553,7 @@
 				<seg>MOUSE X</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>МЫШЬ X</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12641,7 +12641,7 @@
 				<seg>Rotate Shape</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Повернуть фигуру</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13825,7 +13825,7 @@
 				<seg>Connector Shape</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигура соединитель</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14609,7 +14609,7 @@
 				<seg>Annotation Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигуры примечания</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14617,7 +14617,7 @@
 				<seg>Arrow Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Формы стрелки</seg>
+				<seg>Фигуры стрелки</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14641,7 +14641,7 @@
 				<seg>Business Process Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигуры бизнес-процессов</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14649,7 +14649,7 @@
 				<seg>Callout Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигуры выноски</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14657,7 +14657,7 @@
 				<seg>Connector Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигуры соединитель</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14665,7 +14665,7 @@
 				<seg>Country Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигуры страны</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14737,7 +14737,7 @@
 				<seg>SDL Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Фигуры SDL</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25337,7 +25337,7 @@
 				<seg>Select All 1D Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Выбрать все 1D формы</seg>
+				<seg>Выбрать все 1D фигуры</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25345,7 +25345,7 @@
 				<seg>Select All 2D Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Выбрать все 2D формы</seg>
+				<seg>Выбрать все 2D фигуры</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25721,7 +25721,7 @@
 				<seg>Increase Horizontal Spacing</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Увеличить горизонтальный интервал</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25753,7 +25753,7 @@
 				<seg>Increase Vertical Spacing</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Увеличить вертикальный интервал</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25841,7 +25841,7 @@
 				<seg>Geometry Fill</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Заполнение геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25849,7 +25849,7 @@
 				<seg>Geometry Stroke</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Штрих геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25857,7 +25857,7 @@
 				<seg>Geometry Shadow</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Тень геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25881,7 +25881,7 @@
 				<seg>Geometry Corner Rounding</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Геометрия округление углов</seg>
+				<seg>Округление углов геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25889,7 +25889,7 @@
 				<seg>Copy Geometry Formatting</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Скопировать форматирование геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25929,7 +25929,7 @@
 				<seg>Text Superscript</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Надстрочный текст</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25937,7 +25937,7 @@
 				<seg>Text Subscript</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Подстрочный текст</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25977,7 +25977,7 @@
 				<seg>Decrease Font Size</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Уменьшить размер шрифта</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25985,7 +25985,7 @@
 				<seg>ClearTextFormatting</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Очистить форматирование текста</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26081,7 +26081,7 @@
 				<seg>Copy Text Formatting</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Скопировать форматирование текста</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26417,7 +26417,7 @@
 				<seg>Status Page</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Статус страницы</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26425,7 +26425,7 @@
 				<seg>Status Selected Object</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Статус выбранного объекта</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26433,7 +26433,7 @@
 				<seg>Status Mouse Position</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Статус позиции мыши</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27017,7 +27017,7 @@
 				<seg>1D Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>1D Формы</seg>
+				<seg>1D Фигуры</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27225,7 +27225,7 @@
 				<seg>Geometry Format</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Формат геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28705,7 +28705,7 @@
 				<seg>Clear Formatting</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Очистить форматирование</seg>
 			</tuv>
 		</tu>
 		<tu>
