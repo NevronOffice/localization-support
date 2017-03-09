@@ -681,7 +681,7 @@
 				<seg>Fit</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Поместиться</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12193,7 +12193,7 @@
 				<seg>Load Drawing Scale</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Загрузить масштаб чертежа</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12201,7 +12201,7 @@
 				<seg>Select Drawing Scale</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Выберите масштаб чертежа</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12329,7 +12329,7 @@
 				<seg>Edit Drawing Settings</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Редактировать параметры чертежа</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12681,7 +12681,7 @@
 				<seg>Begin Arrowhead</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Начало стрелки</seg>
+				<seg>Начало наконечника</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14521,7 +14521,7 @@
 				<seg>Drag to add a horizontal guideline</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Перетащите для добавления горизонтальной направляющей</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14529,7 +14529,7 @@
 				<seg>Drag to add a vertical guideline</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Перетащите для добавления вертикальной направляющей</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14897,7 +14897,7 @@
 				<seg>Diamond</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Ромб</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14969,7 +14969,7 @@
 				<seg>Right Triangle</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Прямоугольный треугольник</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14985,7 +14985,7 @@
 				<seg>Three D Box</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Параллелепипед</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15017,7 +15017,7 @@
 				<seg>Left Parenthesis</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Открывающая круглая скобка</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15025,7 +15025,7 @@
 				<seg>Right Parenthesis</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Закрывающая круглая скобка</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15033,7 +15033,7 @@
 				<seg>Left Brace</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Открывающая фигурная скобка</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15041,7 +15041,7 @@
 				<seg>Right Brace</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Закрывающая фигурная скобка</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15049,7 +15049,7 @@
 				<seg>Can</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Цилиндр</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15057,7 +15057,7 @@
 				<seg>Four Point Star</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Четырехконечная звезда</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15065,7 +15065,7 @@
 				<seg>Chevron</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Шеврон</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15073,7 +15073,7 @@
 				<seg>No Symbol</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Скрыть символ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15081,7 +15081,7 @@
 				<seg>Frame Corner</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Угол рамки</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15089,7 +15089,7 @@
 				<seg>L Shape</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>L-фигура</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15105,7 +15105,7 @@
 				<seg>Single Snip Corner Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Прямоугольник с одним усеченным углом</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15129,7 +15129,7 @@
 				<seg>Single Round Corner Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Прямоугольник с одним скругленным углом</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15153,7 +15153,7 @@
 				<seg>Snip Corner Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Прямоугольник с усеченными углами</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15185,7 +15185,7 @@
 				<seg>Frame</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Рама</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15193,7 +15193,7 @@
 				<seg>Six Point Star</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Шестиконечная звезда</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15201,7 +15201,7 @@
 				<seg>Center Drag Circle</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Круг с перетаскиваемым центром</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -17833,7 +17833,7 @@
 				<seg>Portugal</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Португалия</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24713,7 +24713,7 @@
 				<seg>Change Drawing Scale</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Изменить масштаб чертежа</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25201,7 +25201,7 @@
 				<seg>End Arrowhead</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Конец стрелки</seg>
+				<seg>Конец наконечника</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25825,7 +25825,7 @@
 				<seg>Guidelines</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Направляющие</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25833,7 +25833,7 @@
 				<seg>Ports</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Точки соединения</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25865,7 +25865,7 @@
 				<seg>Geometry Begin Arrowhead</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Начало наконечника геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25873,7 +25873,7 @@
 				<seg>Geometry End Arrowhead</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Конец наконечника геометрии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25897,7 +25897,7 @@
 				<seg>Text Align Left</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Выровнять текст влево</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25905,7 +25905,7 @@
 				<seg>Text Align Center</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Выровнять текст по центру</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25913,7 +25913,7 @@
 				<seg>Text Align Right</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Выровнять текст вправо</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25921,7 +25921,7 @@
 				<seg>Text Align Justify</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Выравнивание текста по ширине</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25945,7 +25945,7 @@
 				<seg>Text Align Top</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Выровнять текст сверху</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25953,7 +25953,7 @@
 				<seg>Text Align Middle</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Выровнять текст по середине</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25961,7 +25961,7 @@
 				<seg>Text Align Bottom</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Выровнять текст по нижнему краю</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25993,7 +25993,7 @@
 				<seg>Text Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Заливка фона текста</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26001,7 +26001,7 @@
 				<seg>Text Stroke</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Штрих текста</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26009,7 +26009,7 @@
 				<seg>Text Shadow</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Тень текста</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26329,7 +26329,7 @@
 				<seg>Nurbs Tool</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Сплайн NURBS</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26641,7 +26641,7 @@
 				<seg>Size to Content</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Размер по содержанию</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27121,7 +27121,7 @@
 				<seg>Show Ports</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Показать точки соединения</seg>
 			</tuv>
 		</tu>
 		<tu>
