@@ -13329,7 +13329,7 @@
 				<seg>Rotate Left</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Повернуть влево</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14425,7 +14425,7 @@
 				<seg>Nudge Step</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Шаг подталкивания</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24433,7 +24433,7 @@
 				<seg>Nudge</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Подталкивать</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25441,7 +25441,7 @@
 				<seg>Flip Horizontal</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Отразить слева направо</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25449,7 +25449,7 @@
 				<seg>Flip Vertical</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Отразить сверху вниз</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25457,7 +25457,7 @@
 				<seg>Rotate Right</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Повернуть вправо</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25577,7 +25577,7 @@
 				<seg>Nudge Left</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Подтолкнуть слева</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25585,7 +25585,7 @@
 				<seg>Nudge Right</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Подтолкнуть справа</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25593,7 +25593,7 @@
 				<seg>Nudge Up</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Подтолкнуть вверх</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25601,7 +25601,7 @@
 				<seg>Nudge Down</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Подтолкнуть вниз</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25609,7 +25609,7 @@
 				<seg>Upgroup</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Разгруппировать</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25625,7 +25625,7 @@
 				<seg>Size To Grid</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>По размера сетку</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25689,7 +25689,7 @@
 				<seg>Make Same Width</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Сделать одинаковая ширина</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25697,7 +25697,7 @@
 				<seg>Make Same Height</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Сделать одинаковая высота</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25705,7 +25705,7 @@
 				<seg>Make Same Size</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Сделать одинаковый размер</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27193,7 +27193,7 @@
 				<seg>Resize</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Изменить размер</seg>
 			</tuv>
 		</tu>
 		<tu>
