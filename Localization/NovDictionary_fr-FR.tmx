@@ -8081,7 +8081,7 @@
 				<seg>Label Arrow Length</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Longueur de flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8089,7 +8089,7 @@
 				<seg>Neck Width Percent</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pourcentage de largeur du cou</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8097,7 +8097,7 @@
 				<seg>Neck Height Percent</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pourcentage de hauteur du cou</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8105,7 +8105,7 @@
 				<seg>Drop Lines</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Menu déroulant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8113,7 +8113,7 @@
 				<seg>Origin</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Origine</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8121,7 +8121,7 @@
 				<seg>Marker Style</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Style du surlignage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8129,7 +8129,7 @@
 				<seg>Close Contour</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ferme Contour</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8137,7 +8137,7 @@
 				<seg>Arrowhead Shape</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Forme de la tête de la flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8145,7 +8145,7 @@
 				<seg>Min Arrowhead Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille de la pointe de la flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8153,7 +8153,7 @@
 				<seg>Max Arrowhead Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille maximum de la pointe de la flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8161,7 +8161,7 @@
 				<seg>Arrowhead Size Factor</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Facteur de taille de la pointe de la flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8169,7 +8169,7 @@
 				<seg>Origin Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode d'origine</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8177,7 +8177,7 @@
 				<seg>Custom Origin</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Origine client</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8185,7 +8185,7 @@
 				<seg>Multi Area Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode de zone multiple</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8193,7 +8193,7 @@
 				<seg>Multi Bar Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode multi barre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8201,7 +8201,7 @@
 				<seg>Palette Color Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode Palette de couleurs</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8209,7 +8209,7 @@
 				<seg>Vertical Margin Inflate</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Augmente la marge verticale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8217,7 +8217,7 @@
 				<seg>Min Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille minimum</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8225,7 +8225,7 @@
 				<seg>Max Size</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Taille maximum</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8233,7 +8233,7 @@
 				<seg>Size Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Formateur de valeur de taille</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8241,7 +8241,7 @@
 				<seg>Multi Line Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode multi-lignes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8249,7 +8249,7 @@
 				<seg>Line Segment Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode segment de lignes</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8257,7 +8257,7 @@
 				<seg>Horizontal Drop Line Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Trait de la ligne</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8265,7 +8265,7 @@
 				<seg>Vertical Drop Line Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Epaisseur du t ligne verticale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8273,7 +8273,7 @@
 				<seg>Vertical Drop Line Origin Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode d'origine ligne verticale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8281,7 +8281,7 @@
 				<seg>Horizontal Drop Line Origin Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Mode d'origine ligne horizontale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8289,7 +8289,7 @@
 				<seg>Horizontal Drop Line Origin</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Origine ligne horizontale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8297,7 +8297,7 @@
 				<seg>Vertical Drop Line Origin</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Origine ligne verticale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8305,7 +8305,7 @@
 				<seg>Show Horizontal Drop Lines</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer lignes horizontales</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8313,7 +8313,7 @@
 				<seg>Show Vertical Drop Lines</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer lignes verticales</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8321,7 +8321,7 @@
 				<seg>Candle Shape</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Forme de bougie</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8329,7 +8329,7 @@
 				<seg>Candle Width</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Largeur de la bougie</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8337,7 +8337,7 @@
 				<seg>Show Open</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ouverture affichage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8345,7 +8345,7 @@
 				<seg>Show Close</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fermeture affichage</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8353,7 +8353,7 @@
 				<seg>Show High Low</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Montrer du haut au bas</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8361,7 +8361,7 @@
 				<seg>Up High Low Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Faire monter le trait Haut / bas</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8369,7 +8369,7 @@
 				<seg>Down High Low Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Faire descendre le trait Haut / bas</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8377,7 +8377,7 @@
 				<seg>Scale Candle Width When Zooming</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Echelonner la largeur de la bougie en zoomant</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8385,7 +8385,7 @@
 				<seg>High Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Formateur de la valeur haute</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8393,7 +8393,7 @@
 				<seg>Low Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Formateur de la valeur basse</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8401,7 +8401,7 @@
 				<seg>Open Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ouvrir le formateur de valeur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8409,7 +8409,7 @@
 				<seg>Close Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Fermer le formateur de valeur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8417,7 +8417,7 @@
 				<seg>Arrow Stroke</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Trait de la flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8425,7 +8425,7 @@
 				<seg>Arrow Length</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Longueur de la flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8433,7 +8433,7 @@
 				<seg>Arrow Pointer Length</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Longueur du curseur en flèche</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8441,7 +8441,7 @@
 				<seg>Inflate Margins</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Agrandir les marges</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8449,7 +8449,7 @@
 				<seg>Shadow</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ombre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8457,7 +8457,7 @@
 				<seg>X Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Formateur de valeur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8465,7 +8465,7 @@
 				<seg>Total Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Formateur de valeur totale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8473,7 +8473,7 @@
 				<seg>Cumulative Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Formateur de valeur cumulative</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8481,7 +8481,7 @@
 				<seg>Index Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Formateur de valeur d'index</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8489,7 +8489,7 @@
 				<seg>Origin Index</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Index d'origine</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8497,7 +8497,7 @@
 				<seg>Order</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Ordre</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8505,7 +8505,7 @@
 				<seg>Detachment Percent</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Pourcentage de détachement</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8513,7 +8513,7 @@
 				<seg>Spider Arrow Length</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Longueur de la flèche en toile d'araignée</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8521,7 +8521,7 @@
 				<seg>Value Axis Ref</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Référence valeur de l'axe</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8529,7 +8529,7 @@
 				<seg>Angle Axis Ref</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Référence angle de l'axe</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8537,7 +8537,7 @@
 				<seg>Enable Initial Positioning</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Rend possible la position initiale</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8545,7 +8545,7 @@
 				<seg>Remove Overlapped Labels</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Enlève l'étiquette dépassante</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8553,7 +8553,7 @@
 				<seg>Enable Label Adjustment</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg></seg>
+				<seg>Rend possible l'ajustement de l'étiquette</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -10497,7 +10497,7 @@
 				<seg>AaBbCc</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg>AaBbCc</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24841,7 +24841,7 @@
 				<seg>A</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg>A</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
