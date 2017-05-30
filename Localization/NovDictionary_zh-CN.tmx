@@ -38,6 +38,62 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Contains</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>包含</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Starts With</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>开始位置</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Word Starts With</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>字开始处</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ends With</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>结束位置</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Word Ends With</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>字结束处</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Contains Any Word</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Contains All Words</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Data Table</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -486,6 +542,62 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Email Address</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Password</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Host</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Port</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Use Default Credentials</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Enable Ssl</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Auto Save Interval</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Not Defined</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -630,34 +742,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>All Raster Image Files</seg>
+				<seg>All Vector Image Files</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所有栅格图像文件</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>PNG Files</seg>
+				<seg>SVG Image</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>PNG文件</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>JPEG Files</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>JPEG文件</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Bitmap Files</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>位图文件</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -666,6 +762,38 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>所有文件</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>All Raster Image Files</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>所有栅格图像文件</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>PNG Image</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>JPEG Image</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bitmap Image</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1238,6 +1366,30 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>File Dialog Error</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Embed</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Embed (enabled when the image is downloaded)</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Orientation</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -1258,6 +1410,46 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>垂直位置</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Recover Document</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>The application was not closed properly.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>The following documents can be recovered</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Created on</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Don't recover anything</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1290,6 +1482,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>开发者模式</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Email Send Settings</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1382,6 +1582,30 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Open</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>打开</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Remove from list</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>LICENSE</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>许可</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>About</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -1418,14 +1642,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>机器码</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>LICENSE</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>许可</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1598,14 +1814,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Open</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>打开</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Import</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -1662,6 +1870,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Update NOV Dictionaries</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Records</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -1698,6 +1914,22 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>保存字典</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>NOV localization dictionaries updated successfully.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Dictionaries Updated</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1746,14 +1978,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>Visual C#源文件</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>License Dialog Result</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>许可对话框结果</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1886,10 +2110,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Content type:</seg>
+				<seg>Content Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>内容类型:</seg>
+				<seg>内容类型</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2122,6 +2346,22 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>勾选</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mask</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Prompt Char</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4206,6 +4446,22 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Record History</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear History On Focus Out</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Hint</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -4298,6 +4554,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>接受Enter键</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Max Length</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4582,6 +4846,30 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>R</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>G</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>B</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>B</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>RGB</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -4590,26 +4878,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>R:</seg>
+				<seg>H</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>R:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>G:</seg>
+				<seg>S</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>G:</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>B:</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>B:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4622,26 +4902,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>H:</seg>
+				<seg>HTML</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>H:</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>S:</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>S:</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>HTML:</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>HTML:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5302,10 +5566,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Content</seg>
+				<seg>Widget</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>内容</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5362,6 +5626,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>热点填充</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Content</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>内容</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6242,54 +6514,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>砖块</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Starts With</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>开始位置</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Word Starts With</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>字开始处</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Matching Word Starts</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>正在匹配字开始处</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Contains</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>包含</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Ends With</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>结束位置</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Word Ends With</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>字结束处</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7654,18 +7878,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Grid Size</seg>
+				<seg>Values</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>网格大小</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Grid Values</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>网格值</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11102,10 +11318,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Frozen Columns End X</seg>
+				<seg>Left Frozen Columns End X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>冻结列尾（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11238,14 +11454,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Grid Properties...</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>网格属性...</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -11302,34 +11510,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Filter...</seg>
+				<seg>Filter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>过滤...</seg>
+				<seg>过滤器</seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Format...</seg>
+				<seg>Column Properties</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>格式化...</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Conditional Formatting...</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>条件格式化...</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Column Properties...</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>列属性...</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11734,10 +11926,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Grouping Headers Connector Stroke</seg>
+				<seg>Connectors Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>组合标题连接器描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11886,6 +12078,318 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Selected Template</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>所选模版</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Back Button</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>显示后退按钮</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Templates path '{0}' does not exist.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>模版路径'{0}'不存在.</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Templates path does not exist</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>模版路径不存在</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Search templates</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Blank Drawing</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>空白绘图</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>New from Existing...</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>从现有的新建...</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Home</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>开始</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Template Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Template Path</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>License</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Check for Updates</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Deactivate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Log in to your MyDraw account to deactivate your license.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Activate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Log in to your MyDraw account to activate your license.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>If you don't have a MyDraw account, click the 'Register' button to register.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Username</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Register</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Forgot Password</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>If you don't have an Internet connection, click the button below to activate MyDraw locally.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Local License</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Unregistered</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>No available licenses found for this account. Do you want to purchase a license?</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Activation Failed</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>License for "{0}" edition activated on this machine.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Select License to Activate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Restart the application for changes to take effect.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>You are using MyDraw {0} but update to MyDraw {1} released on {2:d} is available. Do you want to download the update?</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Update Found</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>You are using the latest version of MyDraw.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>No Update Found</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Username is empty.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Invalid Username</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Username is not a valid email.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Password is empty.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Invalid Password</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>License deactivated on this machine.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Genealogical Data Communication</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>ESRI Shapefile</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -11982,10 +12486,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Max Connectors For Line Jumps</seg>
+				<seg>Max Connectors</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>跨线的最大连接器数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12022,26 +12526,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Nevron Draw Options</seg>
+				<seg>MyDraw Options</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>Nevron Draw选项</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>File</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>文件</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Tools</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>工具</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12050,62 +12538,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>帮助</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Selected Template</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>所选模版</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Show Back Button</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>显示后退按钮</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Templates path '{0}' does not exist.</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>模版路径'{0}'不存在.</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Templates path does not exist</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>模版路径不存在</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Home</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>开始</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Blank Drawing</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>空白绘图</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>New from Existing...</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>从现有的新建...</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12122,6 +12554,38 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>库浏览器的切分窗口偏移</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Warn When Saving To Non Native Format</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Warning</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>警告</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Possible loss of information.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Saving to a document format other than the native MyDraw document formats (NDX and NDB) may lead to loss of information and formatting.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12170,14 +12634,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>Nevron XML绘图模版</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Opened Predefined Shape Factories</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>打开的预定义形状制造厂</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12310,6 +12766,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Edit Routing</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Edit Print Layout</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -12330,6 +12794,30 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>编辑绘图设置</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Parents</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Spouse</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12366,10 +12854,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Finished searching. A total of " + replaceCount.ToString() + " replacements were made.</seg>
+				<seg>Finished searching. A total of {0} replacements were made.</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已完成搜索. 总共有" + replaceCount.ToString() + "处做了替换.</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12406,10 +12894,42 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Increase Indent</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Match Fields</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>匹配域</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Select Mail Merge Result File Template</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sending E-mail Messages</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sending e-mail messages, please wait.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12614,18 +13134,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Resize Shape</seg>
+				<seg>Resize Selected Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>调整形状大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Center of Rotation</seg>
+				<seg>Center of Selected Shapes Rotation</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>旋转中心</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12634,6 +13154,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>修改控制点</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Center of Rotation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>旋转中心</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12666,14 +13194,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>编辑网格和标尺</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Filter</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>过滤器</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13350,6 +13870,158 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Begin Command</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>End Command</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Begin</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set End</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Place</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Marriage</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Divorce</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Edit Family Information</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Gender</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>First Name</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Last Name</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Married Name</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Email</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Photo</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Birth</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Death</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Edit Person Information</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Part Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Select Photo</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Tension</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -13414,10 +14086,218 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Create Association</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Attribute Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Entity Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Connector Actions</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Participation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Identifying</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Gateway Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>门类型</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Horizontal Stroke</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Identical Twins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Twins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Frequency</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Line Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Inner Shape Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Enter birth date</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Enter Name</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Medical State</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Is Dead</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Is Adopted</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Is Foster</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Twin</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Is Twin</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Attribute</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Entity Name</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Identified</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cardinality</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Is Miscarriage</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Is Abortion</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13442,6 +14322,22 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>存在补偿</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Variable Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Variable Shape</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13618,6 +14514,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>调整大小模式</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Line Height Factor</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>行高系数</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13838,18 +14742,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Bridges</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>网桥</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Library Display Order</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>库显示顺序</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Uncheck All</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14654,6 +15558,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Database Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Connector Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -14682,6 +15594,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>EPC形状</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Family Tree Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14722,6 +15642,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>食物形状</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Genogram Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15278,14 +16206,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Warning</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>警告</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Idea</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -15830,6 +16750,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Tools</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>工具</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Timer</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -16138,6 +17066,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>带文本大括号</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Brackets With Text</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -18190,10 +19126,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>United Republicof Tanzania</seg>
+				<seg>United Republic Of Tanzania</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>坦桑尼亚联合共和国</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -18222,10 +19158,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>United Statesof America</seg>
+				<seg>United States Of America</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>美利坚合众国</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -21134,6 +22070,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Wait</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Skull</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -22350,6 +23294,470 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Unknown Gender</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Pet</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Pregnancy</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Engagement</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Engagement And Separation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Engagement And Cohabitation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Commited</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Casual Relationship</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Casual Relationship And Separation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Temporary Relationship</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Love Affair</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Separation In Fact</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Legal Separation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Legal Cohabitaion</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Legal Cohabitaion And Separation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cohabitaion</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Non Sentimental Cohabitaion</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Non Sentimental Cohabitaion And Separation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cohabitaion And Separation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cohabitaion And Legal Separation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Nullity</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Indifferent</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Distant</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Harmony</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Friendship</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Discord</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Hate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fused</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cutoff</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Love</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>In Love</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Focused On</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fan</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Limerence</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Neglect</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Manipulative</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Controlling</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Hostile</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Distant Hostile</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Violence</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Distant Violence</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Abuse</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Phisical Abuse</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Emotional Abuse</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Close Hosile</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fused Hostile</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Close Violence</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fused Violence</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sexual Abuse</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Best Friends</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Distrust</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Chen Entity</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Chen Relationship</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Chen Attribute</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Chen Connector</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>IDEF Entity</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>IDEF Relationship</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Crows Foot Connector</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Vertical Oposite</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -22542,6 +23950,30 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>IDEF1X Entity</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>IDEF1X Relationship</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Crow's Foot Connector</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Reposition Branch End</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -22562,6 +23994,22 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>迁移连接</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Contiguous United States</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>United States without Alaska and Hawaii</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -23894,6 +25342,126 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Casual relationship or dating</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Indifferent / Apathetic</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Distant / Poor</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Friendship / Close</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Discord / Conflict</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cutoff / Estranged</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fan / Admier</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Neglect / Abuse</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Distant - Hostile</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Distant - Violence</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Close - Hosile</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fused - Hosile</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Close - Violence</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fused - Violence</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Best Friends / Very Close</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Cell phone</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -24462,6 +26030,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Layout Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>布局形状</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Layout Shapes of page - {0}</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -24478,10 +26054,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Layout Shapes</seg>
+				<seg>Reset Values</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>布局形状</seg>
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Apply Layout To</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>应用布局</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24498,14 +26082,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>页面中的所有形状</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Apply Layout To</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>应用布局</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24554,6 +26130,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>排列</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>File</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>文件</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24622,6 +26206,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Resize Shape</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>调整形状大小</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Snap to Geometry</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -24670,10 +26262,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Rotate Selected Items</seg>
+				<seg>Rotate Selected Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>旋转所选条目</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24842,14 +26434,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>A</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>B</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>B</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25110,6 +26694,1278 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Current Page</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>All Pages</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Glue To Geometry Intersection</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Glue To Box Intersection</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Glue To Nearest Port</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Glue To Box Center</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Never</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>从不</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Always</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>When Needed</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Offset In Same Document</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Center In Document</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Redefine</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Use Geometry Stroke Color</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Use Geometry Stroke</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Use Contour Orientation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>页面</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Selected Object</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mouse Position</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Line Arrow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle With Inward Curve</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle With Outward Curve</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Curved Line Arrow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle With Inward Curves</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Upward Angled Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle With Inward Curve No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle With Outward Curve No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle With Inward Curves No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Square No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Diamond No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Downward Angled Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Two Vertical Lines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Three Vertical Lines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Inverted Line Arrow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Inverted Line Arrow With Vertical Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Inverted Line Arrow With Circle No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical Line With Circle No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle No Fill Vertical Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle No Fill Two Vertical Lines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle No Fill Three Vertical Lines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle No Fill Diamond No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle Vertical Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle Two Vertical Lines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle Three Vertical Lines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle Diamond No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Double Triangle</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Double Triangle No Fill</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Double Line Arrow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Line Arrow With Vertical Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Double Line Arrow With Vertical Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Trackers Edit</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Context Menu Edit</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Inplace Edit</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry Edit</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Move X</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Move Y</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize X</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Y</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Aspect Ratio</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Rotate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>旋转</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Update Bounds</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>更新边界</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ungroup</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Begin Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change End Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Pin Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Rotation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Pin Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>固定点</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry Points</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry Mid Points</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Begin Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Controls</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Proportional</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Locked</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Offset From Min</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Offset From Mid</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Offset From Max</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Use Group Setting</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Only</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Scale And Reposition</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Group Only</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Group First</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shapes First</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Behind Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Above Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Rectangle Plus</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Rectangle X</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ellipse Plus</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ellipse X</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Rotator</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Pin</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Control</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry Base Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry Bend Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry Mid Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry Control Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape Start Plug</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape End Plug</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape Port</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape Control Point</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape 1D</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape 2D</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vector</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Box Absolute</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape Box</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape Line Middle</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Geometry Contour Middle</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Custom Pin</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape Size</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Text Size</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape Width Text Height</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Inward</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Outward</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Inward And Outward</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Input</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Output</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Input Output</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Major Lines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Major Minor Lines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Interlaced Horizontally</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Interlaced Vertically</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Static Port</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Dynamic Port</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reflexive Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Incoming Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Outgoing Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>From Shape</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>To Shape</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Destination Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Source Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Successor Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Predecessor Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>WH Box</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Child Shapes Align Box</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>List</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Icons</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Thumbnails</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Default</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Name Ascending</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Name Descending</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Search Libraries</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shapes 1D</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shapes 2D</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Linear</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Matrix</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Arc</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Gap</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sides 2</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sides 3</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sides 4</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sides 5</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sides 6</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sides 7</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Self And Other</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Self</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Other</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Horizontal Guideline Properties</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -25294,18 +28150,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Find Settings</seg>
+				<seg>Find Text Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>查找设置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Replace Settings</seg>
+				<seg>Replace Text Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>替换设置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25602,14 +28458,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>下移一点</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Upgroup</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>取消组合</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -25966,6 +28814,22 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Increase Text Indent</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Decrease Text Indent</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Font Family</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -25982,10 +28846,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>ClearTextFormatting</seg>
+				<seg>Clear Text Formatting</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>清除文本格式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26222,6 +29086,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Merge &amp; Send</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Move To Record</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -26358,14 +29230,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Guideline Properties</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>网格线属性</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Page Properties</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -26390,14 +29254,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Drawing Settings</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>绘图设置</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Line Jumps</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -26406,10 +29262,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Update Bounds</seg>
+				<seg>Drawing Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>更新边界</seg>
+				<seg>绘图设置</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26450,6 +29306,30 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>顺序多 - 实例</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>N-Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>X-Type</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Unspecified</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26586,6 +29466,438 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>消息流</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Carrier</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Affected</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Affected by hearsay</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Possibly affected</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Heart disease</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cancer</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Diabetes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Alzheimer</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Down syndrome</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Depression</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Smoking</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Substance abuse</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Miscarriage</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Abortion</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Male Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Female Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Unknown Gender Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Foster Male Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Foster Female Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Foster Unknown Gender Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Adopted Male Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Adopted Female Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Adopted Unknown Gender Child</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Male Twins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Female Twins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mixed Twins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Pet</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Pregnancy</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Weak Entity</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Composite</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Identifying</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Primary Key</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Multivalued Attribute</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Derived Attribute</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Required</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Multiplicity</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Optional</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Partial</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Total</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Independent Entity</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Dependent Entity</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Attibute</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Identified</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set zero, one or more</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set one or more</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set zero or more</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set exactly n</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set from n to m</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Specified</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Foreign Key</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Zero or More</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>1 or More</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>1 and only 1</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Zero or 1</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27150,10 +30462,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Pages</seg>
+				<seg>Move to Previous Page</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页数</seg>
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Move to Next Page</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27162,6 +30482,22 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>重命名</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Duplicate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Delete Page</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27182,10 +30518,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Rotate</seg>
+				<seg>Duplicate Page</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>旋转</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27322,14 +30658,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>插图</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Page</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>页面</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28374,14 +31702,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Never</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>从不</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>By Date</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -28630,6 +31950,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Pages</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>页数</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Words</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -28674,6 +32002,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>流锚点</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Decrease Indent</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28842,6 +32178,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>设置换行模式</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>List Id</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29146,22 +32490,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>编辑项目符号列表</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Edit Bullet List Item</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>编辑项目符号列表条目</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Edit Bullet List Template</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>编辑项目符号列表模版</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29678,10 +33006,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Bullet List</seg>
+				<seg>List Level</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>项目符号列表</seg>
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>List Ref</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29902,14 +33238,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Line Height Factor</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>行高系数</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Line Height Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -29922,22 +33250,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>段落方向</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Embed Bullets In Paragraphs</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>段落中嵌入的项目符号</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Counter Name</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>计数器名称</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30254,6 +33566,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>not matched</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Maintain Aspect</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -30430,10 +33750,26 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Find Settings</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>查找设置</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Goto Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>定位设置</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Replace Settings</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>替换设置</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32278,10 +35614,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Prev</seg>
+				<seg>Previous</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>上一个</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32402,6 +35738,158 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>Hunspell拼写检查字典</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Send Emails</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Please enter a valid from e-mail address.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>From E-mail Address Invalid</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Please enter a from e-mail password.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>From E-mail Password Not Eneterd</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Please enter an outgoing mail address.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Outgoing Mail Address Not Entered</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Please enter a valid port number.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Port Number Invalid</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Please select a To e-mail field name.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>To E-mail Field Name Not Selected</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Please enter a subject for the e-mail messages.</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>E-mail Subject Not Entered</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Outgoing Mail Server</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Enable SSL</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Default Credentials</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>From</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Email Field</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>To</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33014,234 +36502,1282 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Status</seg>
+				<seg>Business</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>状态</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Integer</seg>
+				<seg>Family Tree</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>整型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Long</seg>
+				<seg>Flowchart</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>长整型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Unsigned Integer</seg>
+				<seg>Flyers And Certificates</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>无符号整型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Single</seg>
+				<seg>Hierarchy Chart</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>单精度浮点型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Specified Double</seg>
+				<seg>Brochure</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>指定双精度型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Combo Box Enum</seg>
+				<seg>Business Card</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>组合框枚举</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>H Radio Group Enum</seg>
+				<seg>Certificate</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平单选按钮组枚举</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>V Radio Group Enum</seg>
+				<seg>Flyer</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直单选按钮组枚举</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Advanced Color</seg>
+				<seg>Gift Certificate</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>高级颜色</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Point</seg>
+				<seg>Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Multi Length</seg>
+				<seg>Newsletter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>多长度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Texture Angle</seg>
+				<seg>Basic Flowchart</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>纹理角度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Pin Point</seg>
+				<seg>Cross Functional Flowchart</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>固定点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>"My string"</seg>
+				<seg>EPC Diagram</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>"我的字符串"</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Loan Calculator</seg>
+				<seg>Workflow Diagram</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>贷款计算器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Amount:</seg>
+				<seg>Organizational Chart</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>总额:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Term in years:</seg>
+				<seg>Default- Blank Drawing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>年限:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Interest rate per year (%):</seg>
+				<seg>Default- New From Existing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>年利率(%):</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Repayment Summary</seg>
+				<seg>Budget Planning Structure Chart</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>还款摘要</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Monthly Payment:</seg>
+				<seg>Ownership Structure</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>每月付款:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Total Payments:</seg>
+				<seg>Business Newsletter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>总付款:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Total Interest:</seg>
+				<seg>Culinary Magazine Newsletter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>总利息:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>My String</seg>
+				<seg>House And Interior Magazine Nesletter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>我的字符串</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>A1</seg>
+				<seg>Nature Magazine Newsletter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>A1</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>P1</seg>
+				<seg>Simple Newsletter Design</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>P1</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>P2</seg>
+				<seg>Travelling Agency Newsletter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>P2</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Content Type</seg>
+				<seg>Bar Menu Template</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>内容类型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Border Wall Type</seg>
+				<seg>Club Bar Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>边框墙类型</seg>
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cocktail Bar Menu</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Coffee And Tea House Menu</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Restaurant Menu</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Classic Frame Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Classic Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Corporate Logo Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Luxurious Frame Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Massage Voucher Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ribbon Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Simple Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Simple Stylish Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Stylish Frame Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vintage Paper Background Gift Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>English Language For Beginners Flyer</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Holiday Sale Flyer</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Party Flyer</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Award Of Excellence Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Certificate Of Appreciation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Certificate Of Attendance</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Certificate Of Completion</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Certificate Of Graduation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Certificate Of Merit</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Certificate Of Participation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Certificate Of Recognition</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Certificate Of Training</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Community Service Award Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Customer Care Award Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Diploma Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Honor Student Award Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Leadership Award Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Outstanding Performance Award Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Volunteer Award Certificate</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Blue Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Business Card Hatch Style</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Classic Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Modern Green Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Social Media Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Social Profile Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Stylish Design Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Website Style Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Wood Background Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Animal Rights Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Blooming Flowers</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Business Info Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cook For Fun Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Dog Training Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fast Food Chain Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Flower Shop Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Gift Store Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Green Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Healthy And Delicious Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Healthy Living Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Kayaking Adventure Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mastering Desserts Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mattress Company Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Relationships Coach Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ski School Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Teddy Bear Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Travel Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Wedding Services Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Weight Loss Program Brochure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>E-commerce Order Workflow Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Survey Plan Workflow Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Asset Management EPC Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Event Driven Process Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Loan Application Process</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Login And Registration Processing EPC Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Order Book EPC Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Product Development EPC</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Product Order EPC Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Repair Process EPC Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sample Process Control Flow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Stocktaking EPC Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Expense Reimbursement Management Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Labor Contract Management Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Recruitment Management Flow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Salary Management Flow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Schedule Management Flow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Software Service Cross Functional Process</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Audit Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Auto Repair Shop Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Business Distribution Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Complaint Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Copying Service Process Charting</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Credit Card Order Processing Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Customer Order Processing Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Customer Payment Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Document Control Process</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>E-commerce Trusteeship Service Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Electric Bill Payment Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Hiring Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>HR Management Process Flow</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>HR Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Insurance Claim Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Late Payments Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Medical Care Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Nomination And Confirmation Process</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ordering Services Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Order Management Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Order Processing Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Partner Payment Processing Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Purchasing And Procurement Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Recruiting Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shipping Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Simple Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Supply Ordering Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Supply Procurement Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Termination Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Transaction Flow Diagram</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vendor Payment Process Flowchart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>British Royal Family Tree</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Kennedy Family Tree</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Lincoln Family Tree</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>The Simpsons Family Tree</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>City Administration Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>City Of Glenn Heights Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>City Org Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Colorado Bureau Of Investigation Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Company Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Corporate Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Corporate Structure Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Department Structure Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Design Team Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Marketing Department Org Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Modern Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Olympic Games Org Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Photo Org Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Share Point Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Software Company Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Travel Agency Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>US Government Org Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 	</body>
