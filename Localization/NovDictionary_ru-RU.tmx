@@ -1982,6 +1982,86 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Evaluation Mode - for testing purposes only</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>The license period has expired</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Using functionality from higher edition</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>The evaluation period has expired</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>The control was unable to find a valid license key</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Your license is not valid for version {0} of the product</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Please contact "{0}" for more information</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Using functionality from {0} edition</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Evaluation days remaining: {0}</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Current Machine Id: {0}</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Visible</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
@@ -12262,7 +12342,23 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>No available licenses found for this account. Do you want to purchase a license?</seg>
+				<seg>Select License to Activate</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Restart the application for changes to take effect.</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Failed to connect to activation server. Please try again later.</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -12278,6 +12374,46 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>License activation failed - invalid username.</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>No available licenses found for this account. Do you want to purchase a license?</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Activating license</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>License activation failed.</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>License activation failed - invalid password.</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>License for "{0}" edition activated on this machine.</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
@@ -12286,7 +12422,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Select License to Activate</seg>
+				<seg>Deactivation Failed</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -12294,7 +12430,15 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Restart the application for changes to take effect.</seg>
+				<seg>License deactivated on this machine.</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Check for Updates Failed</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -12374,7 +12518,15 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>License deactivated on this machine.</seg>
+				<seg>Deactivating license</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Getting available licenses</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -14270,6 +14422,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Resize Shape</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg>Изменение размеров фигуры</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Identified</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
@@ -15657,7 +15817,7 @@
 				<seg>Network Shapes</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Сетевые фигуры</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16130,6 +16290,14 @@
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg>Круг с перетаскиваемым центром</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Plaque</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -17130,6 +17298,14 @@
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg>Воздушный шар</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Rounded Baloon</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -23646,7 +23822,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Close Hosile</seg>
+				<seg>Close Hostile</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -23855,6 +24031,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Bottom Right</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Indent Size</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -25422,7 +25606,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Close - Hosile</seg>
+				<seg>Close - Hostile</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -25430,7 +25614,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Fused - Hosile</seg>
+				<seg>Fused - Hostile</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -26202,14 +26386,6 @@
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Resize Shape</seg>
-			</tuv>
-			<tuv xml:lang="ru-RU">
-				<seg>Изменение размеров фигуры</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28382,7 +28558,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Reroute When Needed</seg>
+				<seg>Reroute when Needed</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -28398,15 +28574,15 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Bring To Front</seg>
+				<seg>Bring to Front</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>На передний план</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Send To Back</seg>
+				<seg>Send to Back</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -28462,18 +28638,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Align To Grid</seg>
+				<seg>Align to Grid</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Выровнять по сетке</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Size To Grid</seg>
+				<seg>Size to Grid</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>По размера сетку</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28622,7 +28798,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Center In Page Horizontally</seg>
+				<seg>Center in Page Horizontally</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -28630,7 +28806,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Center In Page Vertically</seg>
+				<seg>Center in Page Vertically</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -28638,7 +28814,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Zoom To Percent</seg>
+				<seg>Zoom to Percent</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg>Увеличить до процентов</seg>
@@ -28682,6 +28858,46 @@
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg>Точки соединения</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fit to Width</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fit to Height</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Snap to Grid</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Snap to Rulers</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Snap to Guidelines</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29094,10 +29310,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Move To Record</seg>
+				<seg>Move to Record</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg>Перейти к записи</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29238,7 +29454,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap And Glue</seg>
+				<seg>Snap and Glue</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -29246,7 +29462,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Grid And Rulers</seg>
+				<seg>Grid and Rulers</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -29870,7 +30086,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Zero or More</seg>
+				<seg>Zero or more</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -29878,7 +30094,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>1 or More</seg>
+				<seg>1 or more</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
@@ -30430,6 +30646,518 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Update Model Bounds</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Hide Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Delete Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Insert Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Increase Width</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Increase Height</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Decrease Width</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Decrease Height</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Center Horizontally</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Center Vertically</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Stroke Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Shadow Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Fill Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Text Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bold</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg>Жирный</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Italic</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg>Курсив</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Underline</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg>Подчеркнутый</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Horizontal Text Align Left</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Horizontal Text Align Right</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Horizontal Text Align Center</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical Text Align Top</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical Text Align Bottom</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical Text Align Middle</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Bridge Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Start Arrowhead Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change End Arrowhead Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Point Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Interactivity</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Protection</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Interaction Style</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Remove All Nodes</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Move Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Edit Plug</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Edit Port</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Edit Point</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Decompose</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>AutoBoundsMode Change</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Drop Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Paste Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reroute</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reroute When Needed</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reflex</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reverse</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reverse Model</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Properties Change</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Composite Change</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Create Connector</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Replace Primitive</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Merge Points</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Duplicate</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reorder Masters</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Scale Model</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Create Shape Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Destroy Shape Elements</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Routable Connector Type</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Start Point</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Connect Connection Points</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Disconnect Connection Points</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Disconnect Connected Points</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Size to Text</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Expand</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Collapse</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Show Ports</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
@@ -30482,14 +31210,6 @@
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg>Переименовать</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Duplicate</seg>
-			</tuv>
-			<tuv xml:lang="ru-RU">
-				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30658,22 +31378,6 @@
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg>Иллюстрации</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Grid and Rulers</seg>
-			</tuv>
-			<tuv xml:lang="ru-RU">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Snap and Glue</seg>
-			</tuv>
-			<tuv xml:lang="ru-RU">
-				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -31818,14 +32522,6 @@
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Zoom to Percent</seg>
-			</tuv>
-			<tuv xml:lang="ru-RU">
-				<seg>Увеличить до процентов</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33782,30 +34478,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Bold</seg>
-			</tuv>
-			<tuv xml:lang="ru-RU">
-				<seg>Жирный</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Italic</seg>
-			</tuv>
-			<tuv xml:lang="ru-RU">
-				<seg>Курсив</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Underline</seg>
-			</tuv>
-			<tuv xml:lang="ru-RU">
-				<seg>Подчеркнутый</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Strikethrough</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
@@ -34498,6 +35170,14 @@
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg>Режим веб-документа</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Move To Record</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg>Перейти к записи</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36505,7 +37185,7 @@
 				<seg>Business</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Бизнес</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36513,7 +37193,7 @@
 				<seg>Family Tree</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Семейное дерево</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36521,7 +37201,7 @@
 				<seg>Flowchart</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Блок-схема</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36529,7 +37209,7 @@
 				<seg>Flyers And Certificates</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Флаеры и сертификаты</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36537,7 +37217,15 @@
 				<seg>Hierarchy Chart</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Иерархическая диаграмма</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Network Diagram</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg>Диаграмма сети</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36622,6 +37310,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>SDL Diagram</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Workflow Diagram</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
@@ -36633,7 +37329,7 @@
 				<seg>Organizational Chart</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
-				<seg></seg>
+				<seg>Организационная схема</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36654,6 +37350,22 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Basic Firewall Network Diagram</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg>Базовая диаграмма сети брандмауэра</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Enterprise Network Diagram</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg>Сетевая схема предприятия</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Budget Planning Structure Chart</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
@@ -36662,7 +37374,23 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Complex Hierarchy Diagram</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Ownership Structure</seg>
+			</tuv>
+			<tuv xml:lang="ru-RU">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Website Hierarchy Diagram</seg>
 			</tuv>
 			<tuv xml:lang="ru-RU">
 				<seg></seg>
