@@ -46,7 +46,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Starts With</seg>
+				<seg>Starts with</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -54,15 +54,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Word Starts With</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Palabra comienza con</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Ends With</seg>
+				<seg>Word Starts with</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -70,10 +62,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Word Ends With</seg>
+				<seg>Ends with</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Palabra termina con</seg>
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Word Ends with</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -750,7 +750,23 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>AutoCAD Drawing Interchange</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>SVG Image</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>EMF</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -2206,18 +2222,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Horizontal placement:</seg>
+				<seg>Horizontal Placement</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ubicación horizontal:</seg>
+				<seg>Ubicación horizontal</seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Vertical placement:</seg>
+				<seg>Vertical Placement</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ubicación vertical:</seg>
+				<seg>Ubicación vertical</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2262,10 +2278,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Image and text relation:</seg>
+				<seg>Image and text relation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relación imagen-texto:</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2278,10 +2294,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Stretch At Right Angles</seg>
+				<seg>Stretch at Right Angles</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estirar en ángulos rectos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2726,10 +2742,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Fit And Align Texture Mapping</seg>
+				<seg>Fit and Align Texture Mapping</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar y alinear mapeo de textura</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2838,26 +2854,26 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Use Fill And Stroke Alpha</seg>
+				<seg>Use Fill and Stroke Alpha</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Usar relleno y trazo Alpha</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Apply To Filling</seg>
+				<seg>Apply to Filling</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Aplicar al relleno</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Apply To Outline</seg>
+				<seg>Apply to Outline</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Aplicar al contorno</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2950,18 +2966,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Scroll By Default</seg>
+				<seg>Scroll by Default</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Desplazar por defecto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Zoom To Mouse Cursor</seg>
+				<seg>Zoom to Mouse Cursor</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Zoom a cursor de ratón</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3054,10 +3070,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Toggle Checked On Click</seg>
+				<seg>Toggle Checked on Click</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Activar comprobado al hacer clic</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3238,18 +3254,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Collapse To Medium</seg>
+				<seg>Collapse to Medium</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cerrar a mediano</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Collapse To Small</seg>
+				<seg>Collapse to Small</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cerrar a pequeño</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3326,10 +3342,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Is Last Widget On Lane</seg>
+				<seg>Is Last Widget on Lane</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Es último widget en contenedor</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3718,10 +3734,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Update While Dragging</seg>
+				<seg>Update while Dragging</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Actualizar al arrastrar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4166,18 +4182,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Is From Prev Month</seg>
+				<seg>Is from Prev Month</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Es de mes anterior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Is From Next Month</seg>
+				<seg>Is from Next Month</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Es de mes siguiente</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4230,10 +4246,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Day Of Week Format Mode</seg>
+				<seg>Day of Week Format Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de formato de día de la semana</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4382,10 +4398,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Toggle Popup On Click</seg>
+				<seg>Toggle Popup on Click</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Alternar texto emergente al hacer clic</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4534,7 +4550,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Clear History On Focus Out</seg>
+				<seg>Clear History on Focus out</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -4598,10 +4614,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Select All On Focus</seg>
+				<seg>Select All on Focus</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Elegir Todo en foco</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4838,18 +4854,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Open Popups On Mouse In</seg>
+				<seg>Open Popups on Mouse in</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Abrir emergentes al ingresar el ratón</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Close Popups On Mouse Out</seg>
+				<seg>Close Popups on Mouse out</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cerrar emergentes al salir el ratón</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5078,10 +5094,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Drop Down Button Position</seg>
+				<seg>Drop down Button Position</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Posición del botón Desplegar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5166,10 +5182,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Is Mouse Over Symbol</seg>
+				<seg>Is Mouse over Symbol</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Es símbolo de Ratón por sobre</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5214,18 +5230,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Resize While Dragging</seg>
+				<seg>Resize while Dragging</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Redimensionar al arrastrar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Close On Enter</seg>
+				<seg>Close on Enter</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cerrar al confirmar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5326,18 +5342,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Size To Selected Page</seg>
+				<seg>Size to Selected Page</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tamaño a página elegida</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Size To Headers</seg>
+				<seg>Size to Headers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tamaño a encabezados</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5526,10 +5542,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Close On Click</seg>
+				<seg>Close on Click</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cerrar al hacer clic</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5558,10 +5574,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Viewport Origin Snap To Pixel</seg>
+				<seg>Viewport Origin Snap to Pixel</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar origen de viewport a pixel</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5654,18 +5670,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Close On Mouse Down</seg>
+				<seg>Close on Mouse down</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cerrar al bajar el ratón</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show On Disabled</seg>
+				<seg>Show on Disabled</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar al inhabilitar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5766,10 +5782,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Size To Visible</seg>
+				<seg>Size to Visible</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tamaño a visible</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5878,10 +5894,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show In Taskbar</seg>
+				<seg>Show in Taskbar</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar en barra de tareas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5950,34 +5966,34 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Activate On Open</seg>
+				<seg>Activate on Open</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Activar al abrir</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Activate Owner Frame On Activate</seg>
+				<seg>Activate Owner Frame on Activate</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Activar marco del propietario al activar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Activate Owner On Close</seg>
+				<seg>Activate Owner on Close</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Activar propietario al cerrar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Remove From Parent On Close</seg>
+				<seg>Remove from Parent on Close</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Eliminar del padre al cerrar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5990,10 +6006,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Close On Escape</seg>
+				<seg>Close on Escape</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cerrar al salir</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6494,10 +6510,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Drop Down Style</seg>
+				<seg>Drop down Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de despliege</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7014,10 +7030,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Zoom To Fill</seg>
+				<seg>Zoom to Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Zoom para llenar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7038,18 +7054,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Diagonal Up</seg>
+				<seg>Diagonal up</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Diagonal hasta</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Diagonal Down</seg>
+				<seg>Diagonal down</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Diagonal abajo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7057,7 +7073,7 @@
 				<seg>From Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Desde la esquina</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7065,7 +7081,7 @@
 				<seg>From Center</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Desde el centro</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7114,22 +7130,6 @@
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg>Visibilidad</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Horizontal Placement</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Ubicación horizontal</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Vertical Placement</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Ubicación vertical</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7206,7 +7206,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Paint After Chart Content</seg>
+				<seg>Paint after Chart Content</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -7222,7 +7222,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Include Range Begin In Axis Range</seg>
+				<seg>Include Range Begin in Axis Range</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -7230,7 +7230,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Include Range End In Axis Range</seg>
+				<seg>Include Range End in Axis Range</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -7238,7 +7238,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Include Value In Axis Range</seg>
+				<seg>Include Value in Axis Range</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -7406,7 +7406,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show Scrollbar When Zoomed</seg>
+				<seg>Show Scrollbar when Zoomed</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -7478,7 +7478,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Dock Spider Labels To Sides</seg>
+				<seg>Dock Spider Labels to Sides</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -7487,14 +7487,6 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Paint Reflection</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Paint Refelection</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -7862,7 +7854,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Number Of Lines To Break</seg>
+				<seg>Number of Lines to Break</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -8286,7 +8278,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Reversal Amount In Percents</seg>
+				<seg>Reversal Amount in Percents</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -8310,7 +8302,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Box Size In Percents</seg>
+				<seg>Box Size in Percents</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -8670,7 +8662,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Scale Candle Width When Zooming</seg>
+				<seg>Scale Candle Width when Zooming</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -8894,7 +8886,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Invert Locations For Inverted Data Points</seg>
+				<seg>Invert Locations for Inverted Data Points</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -8910,7 +8902,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Out Of Bounds Location Mode</seg>
+				<seg>Out of Bounds Location Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -8950,7 +8942,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Update On Mouse Move</seg>
+				<seg>Update on Mouse Move</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -9014,7 +9006,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Zoom In Fill</seg>
+				<seg>Zoom in Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -9022,7 +9014,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Zoom Out Fill</seg>
+				<seg>Zoom out Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -9230,7 +9222,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Offset From Scale</seg>
+				<seg>Offset from Scale</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -9302,7 +9294,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Offset From Center</seg>
+				<seg>Offset from Center</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -9494,7 +9486,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Attach Sign To Number</seg>
+				<seg>Attach Sign to Number</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -9878,7 +9870,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Create Separator For Each Level</seg>
+				<seg>Create Separator for Each Level</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -9886,7 +9878,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Display Data Points Between Ticks</seg>
+				<seg>Display Data Points between Ticks</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -9950,7 +9942,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Create New Level For Custom Labels</seg>
+				<seg>Create New Level for Custom Labels</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10038,7 +10030,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Inflate Begin Content Range With Custom Ticks</seg>
+				<seg>Inflate Begin Content Range with Custom Ticks</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10046,7 +10038,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Inflate End Content Range With Custom Ticks</seg>
+				<seg>Inflate End Content Range with Custom Ticks</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10126,7 +10118,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Create Separator For Each Row</seg>
+				<seg>Create Separator for Each Row</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10182,7 +10174,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Number Of Ticks Per Label</seg>
+				<seg>Number of Ticks Per Label</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10254,7 +10246,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Extend In Chart Area</seg>
+				<seg>Extend in Chart Area</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10334,7 +10326,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Always Inside Scale</seg>
+				<seg>Always inside Scale</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10502,7 +10494,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Paint On Scale Breaks</seg>
+				<seg>Paint on Scale Breaks</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10670,7 +10662,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show Range At Background</seg>
+				<seg>Show Range at Background</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10862,7 +10854,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Insert Spaces Before Uppers And Digits</seg>
+				<seg>Insert Spaces before Uppers and Digits</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -10886,7 +10878,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show filters for column:</seg>
+				<seg>Show filters for column</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -11202,6 +11194,22 @@
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg>Coincidir mayúsculas y minúsculas</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Starts With</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ends With</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11694,7 +11702,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Create Columns For Service Field Names</seg>
+				<seg>Create Columns for Service Field Names</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -12078,7 +12086,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Begin Edit Cell On Click</seg>
+				<seg>Begin Edit Cell on Click</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -12086,7 +12094,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Begin Edit Cell On Double Click</seg>
+				<seg>Begin Edit Cell on Double Click</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -12094,7 +12102,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Begin Edit Cell On Become Current</seg>
+				<seg>Begin Edit Cell on Become Current</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -12358,6 +12366,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Getting available licenses</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Failed to connect to activation server. Please try again later.</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -12423,6 +12439,30 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Deactivation Failed</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>License deactivation failed.</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>License deactivation failed - invalid username.</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>License deactivation failed - invalid password.</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -12526,7 +12566,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Getting available licenses</seg>
+				<seg>Getting current license state</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -12710,7 +12750,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Warn When Saving To Non Native Format</seg>
+				<seg>Warn when Saving to Non Native Format</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -13238,23 +13278,23 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Replace With</seg>
+				<seg>Replace with</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Reemplazar con</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Find What</seg>
+				<seg>Find what</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Encontrar qué</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Search In</seg>
+				<seg>Search in</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -13918,10 +13958,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Bus Between Layers</seg>
+				<seg>Bus between Layers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Autobús entre capas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14047,6 +14087,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Set End</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Multigon Type</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Multigon Shape Type</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -14462,6 +14518,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Intermediate Point</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Task Type</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -14534,18 +14598,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Tip Over Children Placement</seg>
+				<seg>Tip over Children Placement</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Sugerencia sobre ubicación de hijos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Index In Layer</seg>
+				<seg>Index in Layer</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Índice en capa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14790,10 +14854,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Fit Blocks In Parent</seg>
+				<seg>Fit Blocks in Parent</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar bloques en padre</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14974,10 +15038,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Tool Bar On Top</seg>
+				<seg>Tool Bar on Top</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Barra de herramientas al frente</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15134,10 +15198,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Text Below Preview</seg>
+				<seg>Text below Preview</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Vista previa de texto inferior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15726,6 +15790,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Drawing Tool Shapes</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Connector Shapes</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -15766,7 +15838,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>File And Folder Shapes</seg>
+				<seg>File and Folder Shapes</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -15966,6 +16038,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Multi Line</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Ellipse</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -16047,6 +16127,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Octagram</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Twenty Four Point Star</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Thirty Two Point Star</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -16182,7 +16278,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Diagonal Shape</seg>
+				<seg>Diagonal Stripe</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -16246,7 +16342,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snip And Round Single Corner Rectangle</seg>
+				<seg>Snip and Round Single Corner Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -16254,7 +16350,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snip And Round Corner Rectangle</seg>
+				<seg>Snip and Round Corner Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -17230,7 +17326,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Braces With Text</seg>
+				<seg>Braces with Text</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -17238,7 +17334,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Brackets With Text</seg>
+				<seg>Brackets with Text</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -17254,7 +17350,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Line With Text</seg>
+				<seg>Line with Text</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -17350,7 +17446,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Side To Top Bottom</seg>
+				<seg>Side to Top Bottom</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -17358,7 +17454,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Top Bottom To Side</seg>
+				<seg>Top Bottom to Side</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -17366,7 +17462,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Side To Side</seg>
+				<seg>Side to Side</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -17374,10 +17470,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Bottom To Top</seg>
+				<seg>Bottom to Top</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>De abajo hacia arriba</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -19302,7 +19398,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>United Republic Of Tanzania</seg>
+				<seg>United Republic of Tanzania</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -19334,7 +19430,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>United States Of America</seg>
+				<seg>United States of America</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20470,7 +20566,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Bosnia And Herzegovina</seg>
+				<seg>Bosnia and Herzegovina</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20478,7 +20574,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Congo Democratic Republic Of</seg>
+				<seg>Congo Democratic Republic of</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20486,7 +20582,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Congo Republic Of</seg>
+				<seg>Congo Republic of</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20542,7 +20638,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Saint Kitts And Nevis</seg>
+				<seg>Saint Kitts and Nevis</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20550,7 +20646,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Saint Vincent And The Grenadines</seg>
+				<seg>Saint Vincent and The Grenadines</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20558,7 +20654,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Sao Tome And Principe</seg>
+				<seg>Sao Tome and Principe</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20582,10 +20678,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Trinidad And Tobago</seg>
+				<seg>Trinidad and Tobago</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Trinidad y Tobago</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -20910,7 +21006,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Large Desk With Side</seg>
+				<seg>Large Desk with Side</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20942,7 +21038,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Rounded Desk With Drawers</seg>
+				<seg>Rounded Desk with Drawers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -20966,18 +21062,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Wavy Desk With Keyboard Drawer</seg>
+				<seg>Wavy Desk with Keyboard Drawer</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Escritorio ondulada con cajón de teclado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Wavy Desk 2 With Keyboard Drawer</seg>
+				<seg>Wavy Desk 2 with Keyboard Drawer</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Escritorio ondulada 2 con cajón de teclado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -21126,7 +21222,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Podium With Mic</seg>
+				<seg>Podium with Mic</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -21134,7 +21230,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Row Of Seats</seg>
+				<seg>Row of Seats</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -21366,10 +21462,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Flatscreen With Stand</seg>
+				<seg>Flatscreen with Stand</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Pantalla plana con el soporte</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -21406,10 +21502,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>All In One PC</seg>
+				<seg>All in One PC</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Todo en una PC</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -22190,7 +22286,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Message From User</seg>
+				<seg>Message from User</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -22198,7 +22294,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Message To User</seg>
+				<seg>Message to User</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -22206,7 +22302,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Primitive From Call Control</seg>
+				<seg>Primitive from Call Control</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -22214,7 +22310,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Primitive To Call Control</seg>
+				<seg>Primitive to Call Control</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23502,7 +23598,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Engagement And Separation</seg>
+				<seg>Engagement and Separation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23510,7 +23606,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Engagement And Cohabitation</seg>
+				<seg>Engagement and Cohabitation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23534,7 +23630,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Casual Relationship And Separation</seg>
+				<seg>Casual Relationship and Separation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23558,7 +23654,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Separation In Fact</seg>
+				<seg>Separation in Fact</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23582,7 +23678,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Legal Cohabitaion And Separation</seg>
+				<seg>Legal Cohabitaion and Separation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23606,7 +23702,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Non Sentimental Cohabitaion And Separation</seg>
+				<seg>Non Sentimental Cohabitaion and Separation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23614,7 +23710,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Cohabitaion And Separation</seg>
+				<seg>Cohabitaion and Separation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23622,7 +23718,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Cohabitaion And Legal Separation</seg>
+				<seg>Cohabitaion and Legal Separation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23718,7 +23814,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Focused On</seg>
+				<seg>Focused on</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -23927,6 +24023,198 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Crows Foot Connector</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle Diameter</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle Radius</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle 3 Points</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Arc 3 Points</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circles</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sector Graphical</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Arc Graphical</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle Tangents</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Sector Numeric</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Arc Numeric</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Arc Tangents</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Line with Extensions</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Circle Tangent</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Opposite Tangent</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Perpendicular Angle</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Perpendicular Lines</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle Free</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right Triangle 2</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Triangle Base</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Diagonal Rectangle</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Chamfered Rectangle</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Chamfered Corner</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Multigon Edge</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Multigon Center</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -24191,6 +24479,102 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>United States without Alaska and Hawaii</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Curvature</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Perimeter Point</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Sector</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Arc</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Radius</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Endpoint</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Tangent Endpoint</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Leg</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Vertex</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Height</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Roundness</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Chamfer</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -26350,10 +26734,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap To</seg>
+				<seg>Snap to</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar a</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26446,18 +26830,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Allow Drill Down</seg>
+				<seg>Allow Drill down</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir desglose</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Drill Down Select Mouse Button Event</seg>
+				<seg>Drill down Select Mouse Button Event</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Desplegar evento de botón Elegir ratón</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26534,10 +26918,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Clip With Page</seg>
+				<seg>Clip with Page</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Recortar con página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26662,74 +27046,74 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap To Ports</seg>
+				<seg>Snap to Ports</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar a puertos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap To Geometries</seg>
+				<seg>Snap to Geometries</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar a geometrías</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap To Shapes</seg>
+				<seg>Snap to Shapes</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar a formas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap To Guidelines</seg>
+				<seg>Snap to Guidelines</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar a lineamientos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap To Grid</seg>
+				<seg>Snap to Grid</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar a grilla</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap To Rulers</seg>
+				<seg>Snap to Rulers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ajustar a reglas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Glue To Ports</seg>
+				<seg>Glue to Ports</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Soldar a puertos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Glue To Geometries</seg>
+				<seg>Glue to Geometries</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Soldar a geometrías</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Glue To Shapes</seg>
+				<seg>Glue to Shapes</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Soldar a formas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26798,6 +27182,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Snap To</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg>Ajustar a</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Glue To</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -26814,10 +27206,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Glue To Element Ref</seg>
+				<seg>Glue to Element Ref</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Soldar a referencia de elemento</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26886,7 +27278,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Glue To Geometry Intersection</seg>
+				<seg>Glue to Geometry Intersection</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -26894,7 +27286,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Glue To Box Intersection</seg>
+				<seg>Glue to Box Intersection</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -26902,7 +27294,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Glue To Nearest Port</seg>
+				<seg>Glue to Nearest Port</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -26910,7 +27302,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Glue To Box Center</seg>
+				<seg>Glue to Box Center</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -26942,7 +27334,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Offset In Same Document</seg>
+				<seg>Offset in Same Document</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -26950,7 +27342,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Center In Document</seg>
+				<seg>Center in Document</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27038,7 +27430,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Triangle With Inward Curve</seg>
+				<seg>Triangle with Inward Curve</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27046,7 +27438,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Triangle With Outward Curve</seg>
+				<seg>Triangle with Outward Curve</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27062,7 +27454,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Triangle With Inward Curves</seg>
+				<seg>Triangle with Inward Curves</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27086,7 +27478,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Triangle With Inward Curve No Fill</seg>
+				<seg>Triangle with Inward Curve No Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27094,7 +27486,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Triangle With Outward Curve No Fill</seg>
+				<seg>Triangle with Outward Curve No Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27102,7 +27494,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Triangle With Inward Curves No Fill</seg>
+				<seg>Triangle with Inward Curves No Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27174,7 +27566,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Inverted Line Arrow With Vertical Line</seg>
+				<seg>Inverted Line Arrow with Vertical Line</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27182,7 +27574,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Inverted Line Arrow With Circle No Fill</seg>
+				<seg>Inverted Line Arrow with Circle No Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27190,7 +27582,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Vertical Line With Circle No Fill</seg>
+				<seg>Vertical Line with Circle No Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27286,7 +27678,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Line Arrow With Vertical Line</seg>
+				<seg>Line Arrow with Vertical Line</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27294,7 +27686,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Double Line Arrow With Vertical Line</seg>
+				<seg>Double Line Arrow with Vertical Line</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27486,7 +27878,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Offset From Min</seg>
+				<seg>Offset from Min</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27494,7 +27886,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Offset From Mid</seg>
+				<seg>Offset from Mid</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27502,7 +27894,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Offset From Max</seg>
+				<seg>Offset from Max</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27526,7 +27918,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Scale And Reposition</seg>
+				<seg>Scale and Reposition</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -27798,7 +28190,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Inward And Outward</seg>
+				<seg>Inward and Outward</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -28118,7 +28510,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Self And Other</seg>
+				<seg>Self and Other</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -28254,10 +28646,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Clip With Text Block</seg>
+				<seg>Clip with Text Block</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Sujetar a bloque de texto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28878,30 +29270,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap to Grid</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Snap to Rulers</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Snap to Guidelines</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Geometry Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -29106,6 +29474,14 @@
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg>Alternar estilo de fuente</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Toggle Marks Visibility</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29519,6 +29895,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Sequential Multi - Instance</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Point</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Remove Point</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -30270,10 +30662,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Resize In Group</seg>
+				<seg>Resize in Group</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Redimensionar en grupo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30454,18 +30846,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Route Through Horizontally</seg>
+				<seg>Route through Horizontally</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Canalizar horizontalmente</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Route Through Vertically</seg>
+				<seg>Route through Vertically</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Canalizar verticalmente</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -31558,18 +31950,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Generated For Start Date</seg>
+				<seg>Generated for Start Date</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Generado para fecha de inicio</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Generated For End Date</seg>
+				<seg>Generated for End Date</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Generado para fecha de finalización</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -31582,10 +31974,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Day In Month</seg>
+				<seg>Day in Month</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Día del mes</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -31638,18 +32030,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Days Of Week</seg>
+				<seg>Days of Week</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Días de la semana</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Months In Year</seg>
+				<seg>Months in Year</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Meses del año</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32694,10 +33086,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Anchor To Flow</seg>
+				<seg>Anchor to Flow</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Anclar a flujo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33878,26 +34270,26 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Page Break Before</seg>
+				<seg>Page Break before</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Salto de página antes</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Page Break After</seg>
+				<seg>Page Break after</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Salto de página después</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Avoid Page Breaks Inside</seg>
+				<seg>Avoid Page Breaks inside</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Evitar saltos de página interiores</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33950,10 +34342,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Allow Spacing Between Cells</seg>
+				<seg>Allow Spacing between Cells</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir espaciado entre celdas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34038,18 +34430,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Space Before Auto</seg>
+				<seg>Space before Auto</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espacio antes de auto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Space After Auto</seg>
+				<seg>Space after Auto</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espacio después de auto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34174,18 +34566,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Different Left Right Headers And Footers</seg>
+				<seg>Different Left Right Headers and Footers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Encabezados y pies diferentes a izquierda y derecha</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Different First Header And Footer</seg>
+				<seg>Different First Header and Footer</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Primeros cabezal y pie diferentes</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34337,7 +34729,7 @@
 				<seg>Before</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Antes</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34345,7 +34737,7 @@
 				<seg>After</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Después</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35806,10 +36198,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show In Gallery</seg>
+				<seg>Show in Gallery</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar en galería</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35841,7 +36233,7 @@
 				<seg>At Least</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Al menos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35873,7 +36265,7 @@
 				<seg>Inside Margin</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Margen interior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35881,7 +36273,7 @@
 				<seg>Outside Margin</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Margen exterior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36094,18 +36486,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Left To Right</seg>
+				<seg>Left to Right</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>De izquierda a derecha</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Right To Left</seg>
+				<seg>Right to Left</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>De derecha a izquierda</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36129,7 +36521,7 @@
 				<seg>Outside Borders</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Bordes externos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36137,7 +36529,7 @@
 				<seg>Inside Borders</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Bordes internos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36177,7 +36569,7 @@
 				<seg>Inside Horizontal Border</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Borde horizontal interno</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36185,7 +36577,7 @@
 				<seg>Inside Vertical Border</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Borde vertical interno</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36977,7 +37369,7 @@
 				<seg>Inside H Sides</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Lados interiores de H</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36985,7 +37377,7 @@
 				<seg>Inside V Sides</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Lados interiores de V</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37094,10 +37486,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Embed Images In Html</seg>
+				<seg>Embed Images in Html</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Embeber imágenes en HTML</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37206,7 +37598,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Flyers And Certificates</seg>
+				<seg>Flyers and Certificates</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37334,22 +37726,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Default- Blank Drawing</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Default- New From Existing</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Basic Firewall Network Diagram</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -37414,7 +37790,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>House And Interior Magazine Nesletter</seg>
+				<seg>House and Interior Magazine Nesletter</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37470,7 +37846,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Coffee And Tea House Menu</seg>
+				<seg>Coffee and Tea House Menu</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37566,7 +37942,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>English Language For Beginners Flyer</seg>
+				<seg>English Language for Beginners Flyer</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37590,7 +37966,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Award Of Excellence Certificate</seg>
+				<seg>Award of Excellence Certificate</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37598,7 +37974,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Certificate Of Appreciation</seg>
+				<seg>Certificate of Appreciation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37606,7 +37982,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Certificate Of Attendance</seg>
+				<seg>Certificate of Attendance</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37614,7 +37990,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Certificate Of Completion</seg>
+				<seg>Certificate of Completion</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37622,7 +37998,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Certificate Of Graduation</seg>
+				<seg>Certificate of Graduation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37630,7 +38006,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Certificate Of Merit</seg>
+				<seg>Certificate of Merit</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37638,7 +38014,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Certificate Of Participation</seg>
+				<seg>Certificate of Participation</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37646,7 +38022,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Certificate Of Recognition</seg>
+				<seg>Certificate of Recognition</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37654,7 +38030,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Certificate Of Training</seg>
+				<seg>Certificate of Training</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37814,7 +38190,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Cook For Fun Brochure</seg>
+				<seg>Cook for Fun Brochure</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37862,7 +38238,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Healthy And Delicious Brochure</seg>
+				<seg>Healthy and Delicious Brochure</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -37990,7 +38366,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Login And Registration Processing EPC Diagram</seg>
+				<seg>Login and Registration Processing EPC Diagram</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -38230,7 +38606,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Nomination And Confirmation Process</seg>
+				<seg>Nomination and Confirmation Process</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -38270,7 +38646,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Purchasing And Procurement Process Flowchart</seg>
+				<seg>Purchasing and Procurement Process Flowchart</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -38382,7 +38758,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>City Of Glenn Heights Organizational Chart</seg>
+				<seg>City of Glenn Heights Organizational Chart</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -38398,7 +38774,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Colorado Bureau Of Investigation Organizational Chart</seg>
+				<seg>Colorado Bureau of Investigation Organizational Chart</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
