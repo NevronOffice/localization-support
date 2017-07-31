@@ -753,7 +753,7 @@
 				<seg>AutoCAD Drawing Interchange</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>AutoCAD绘图交换</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -769,7 +769,7 @@
 				<seg>EMF</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>EMF</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12265,7 +12265,7 @@
 				<seg>Deactivate</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>停用</seg>
+				<seg>解除激活</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12273,7 +12273,7 @@
 				<seg>Log in to your MyDraw account to deactivate your license.</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>登录到您的MyDraw账户来停用您的许可证.</seg>
+				<seg>登录到您的MyDraw账户来解除激活您的许可证.</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12441,7 +12441,7 @@
 				<seg>Deactivation Failed</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>停用失败</seg>
+				<seg>解除激活失败</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12449,7 +12449,7 @@
 				<seg>License deactivation failed.</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>许可证解除激活失败.</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12457,7 +12457,7 @@
 				<seg>License deactivation failed - invalid username.</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>许可证解除激活失败 - 用户名无效.</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12465,7 +12465,7 @@
 				<seg>License deactivation failed - invalid password.</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>许可证解除激活失败 - 密码无效.</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12561,7 +12561,7 @@
 				<seg>Deactivating license</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>正在停用许可证</seg>
+				<seg>正在解除激活许可证</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12569,7 +12569,7 @@
 				<seg>Getting current license state</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>正在获取当前许可证的状态</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14097,7 +14097,7 @@
 				<seg>Multigon Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>Multigon类型</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14105,7 +14105,7 @@
 				<seg>Multigon Shape Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>Multigon形状类型</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14521,7 +14521,7 @@
 				<seg>Intermediate Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>中间点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15793,7 +15793,7 @@
 				<seg>Drawing Tool Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>绘图工具形状</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16041,7 +16041,7 @@
 				<seg>Multi Line</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16137,7 +16137,7 @@
 				<seg>Twenty Four Point Star</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>24点星</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16145,7 +16145,7 @@
 				<seg>Thirty Two Point Star</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>32点星</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16281,7 +16281,7 @@
 				<seg>Diagonal Stripe</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>对角线条纹</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24033,7 +24033,7 @@
 				<seg>Circle Diameter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>圆直径</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24041,7 +24041,7 @@
 				<seg>Circle Radius</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>圆半径</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24049,7 +24049,7 @@
 				<seg>Circle 3 Points</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>圆3点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24057,7 +24057,7 @@
 				<seg>Arc 3 Points</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>弧线3点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24065,7 +24065,7 @@
 				<seg>Circles</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>圆</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24073,7 +24073,7 @@
 				<seg>Sector Graphical</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>扇形图形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24081,7 +24081,7 @@
 				<seg>Arc Graphical</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>弧线图形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24089,7 +24089,7 @@
 				<seg>Circle Tangents</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>圆切线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24097,7 +24097,7 @@
 				<seg>Sector Numeric</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>扇形数</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24105,7 +24105,7 @@
 				<seg>Arc Numeric</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>弧线数</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24113,7 +24113,7 @@
 				<seg>Arc Tangents</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>弧线切线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24121,7 +24121,7 @@
 				<seg>Line with Extensions</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>延长线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24129,7 +24129,7 @@
 				<seg>Circle Tangent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>圆切线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24137,7 +24137,7 @@
 				<seg>Opposite Tangent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>相反切线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24145,7 +24145,7 @@
 				<seg>Perpendicular Angle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>直角</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24153,7 +24153,7 @@
 				<seg>Perpendicular Lines</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>垂线</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24161,7 +24161,7 @@
 				<seg>Triangle Free</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>无三角形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24169,7 +24169,7 @@
 				<seg>Right Triangle 2</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>直角三角形 2</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24177,7 +24177,7 @@
 				<seg>Triangle Base</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>三角形基</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24185,7 +24185,7 @@
 				<seg>Diagonal Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>对角矩形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24193,7 +24193,7 @@
 				<seg>Chamfered Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>倒角矩形</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24201,7 +24201,7 @@
 				<seg>Chamfered Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>倒角</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24209,7 +24209,7 @@
 				<seg>Multigon Edge</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>多边形边缘</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24217,7 +24217,7 @@
 				<seg>Multigon Center</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>多边形中心</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24489,7 +24489,7 @@
 				<seg>Change Curvature</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>更改曲率</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24497,7 +24497,7 @@
 				<seg>Reposition Perimeter Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复位周长点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24505,7 +24505,7 @@
 				<seg>Resize Sector</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>调整扇形大小</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24513,7 +24513,7 @@
 				<seg>Resize Arc</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>调整弧线大小</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24521,7 +24521,7 @@
 				<seg>Resize Radius</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>调整半径大小</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24529,7 +24529,7 @@
 				<seg>Reposition Endpoint</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复位终点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24537,7 +24537,7 @@
 				<seg>Reposition Tangent Endpoint</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复位切线终点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24545,7 +24545,7 @@
 				<seg>Resize Leg</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>调整直角边大小</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24553,7 +24553,7 @@
 				<seg>Reposition Vertex</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>复位顶点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24561,7 +24561,7 @@
 				<seg>Change Height</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>更改高度</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24569,7 +24569,7 @@
 				<seg>Change Roundness</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>更改正圆度</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24577,7 +24577,7 @@
 				<seg>Resize Chamfer</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>调整倒角大小</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29481,7 +29481,7 @@
 				<seg>Toggle Marks Visibility</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>切换标记可见性</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29905,7 +29905,7 @@
 				<seg>Add Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>添加点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29913,7 +29913,7 @@
 				<seg>Remove Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>移除点</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30481,7 +30481,7 @@
 				<seg>Zero or more</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg></seg>
+				<seg>0或更多</seg>
 			</tuv>
 		</tu>
 		<tu>
