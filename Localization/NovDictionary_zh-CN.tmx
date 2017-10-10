@@ -758,18 +758,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>SVG Image</seg>
+				<seg>EMF</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>SVG图像</seg>
+				<seg>EMF</seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>EMF</seg>
+				<seg>SVG Image</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>EMF</seg>
+				<seg>SVG图像</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12574,6 +12574,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Web Page</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>网页</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Genealogical Data Communication</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -14278,6 +14286,30 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Action</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>动作</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Separator before</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Separator after</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Reposition Text</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -15038,6 +15070,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Visio Stencil</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Tool Bar on Top</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -15782,22 +15822,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Database Shapes</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>数据库形状</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Drawing Tool Shapes</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>绘图工具形状</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Connector Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -15810,6 +15834,30 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>国家形状</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Database Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>数据库形状</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Dimensioning Engineering</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Drawing Tool Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>绘图工具形状</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24222,10 +24270,202 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Vertical Oposite</seg>
+				<seg>Horizontal Baseline</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直相对</seg>
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical Baseline</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Horizontal outside</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical outside</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Aligned out Even</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Aligned out Uneven</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Aligned Even</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Aligned Uneven</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Arc Radius</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Radius outside</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Radius</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Diameter</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Diameter outside</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Angle Center</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Angle Uneven</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Angle Even</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Angle outside</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ordinate Horizontal</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ordinate Vertical</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ordinate Horizontal Multiple</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Ordinate Vertical Multiple</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Centerline</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Room Measure</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>None Opposite</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical Opposite</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24482,6 +24722,94 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>没有阿拉斯加和夏威夷的美国</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition 2nd Dimention Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition 3rd Dimention Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition 4th Dimention Line</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Dimension Height</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Line Spacing</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Place on Arc</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Dimension Angle</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Dimensions</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Extension Line Length</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Lower-Left of Crosshairs</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Upper-Right of Crosshairs</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26630,10 +26958,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Apply Layout To</seg>
+				<seg>Apply Layout to</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>应用布局</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26674,14 +27002,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>状态栏</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Action</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>动作</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27182,18 +27502,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Snap To</seg>
+				<seg>Glue to</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>对齐</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Glue To</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>粘连</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33374,6 +33686,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Go to</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>定位</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Available Formats</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -35450,14 +35770,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>边框和粗细</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Go to</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>定位</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37566,14 +37878,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Web Page</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>网页</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Business</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -38102,18 +38406,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Business Card Hatch Style</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>商务名片阴影线样式</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Classic Business Card</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>古典商务名片</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Hatch Style Business Card</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -38822,6 +39126,30 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Environmental Agency Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Finance Division Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Gaming Company Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Marketing Department Org Chart</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -38854,10 +39182,50 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Project Team Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Research Division Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Retail Startup Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>School District Organization Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Share Point Organizational Chart</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>分享点组织结构图</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Small Company Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
