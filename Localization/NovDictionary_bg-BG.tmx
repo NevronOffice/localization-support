@@ -254,6 +254,22 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>All {0} Files</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Всички {0} файлове</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>All Files</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Всички файлове</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Step</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -482,6 +498,102 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Формат</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Select Image</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Image from file</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Browse for image...</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Image from URL</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Enter image URL...</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Image</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Изображение</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Link Image</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Embed Image</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Enable Frame Animation</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Options</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Настройки</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Preview</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Предварителен преглед</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>File Dialog Error</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -750,34 +862,26 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Enhanced Metafile</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Scalable Vector Graphics</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>AutoCAD Drawing Interchange</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>AutoCAD чертеж</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>EMF</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>SVG Image</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>All Files</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Всички файлове</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -793,7 +897,7 @@
 				<seg>PNG Image</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>PNG изображение</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1318,47 +1422,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Click the buttons below to select an image source.</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Щракнете бутоните по-долу за да изберете изображение.</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Browse for image</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Избери изображение</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Browse the machine or the local network for image files.</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Избери изображение от компютъра или локалната мрежа.</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Enter image URI</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Въведи адрес на изображение</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Enter an URI string (http or file).</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Въведете URI адрес (HTTP или файл).</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Enable Frame Animation</seg>
+				<seg>Image Info</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -1366,15 +1430,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Link</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Връзка</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Image Source</seg>
+				<seg>Clear Image</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -1382,7 +1438,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>File Dialog Error</seg>
+				<seg>Failed to create image</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -1401,7 +1457,7 @@
 				<seg>Embed (enabled when the image is downloaded)</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Вгради (достъпно, когато изображението се изтегли)</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1614,10 +1670,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>LICENSE</seg>
+				<seg>BUY</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>ЗАКУПИ</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2190,18 +2246,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Image</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Изображение</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Image and Text</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Изображение и текст</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2249,7 +2297,7 @@
 				<seg>Image above Text</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Изображение над текста</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2257,7 +2305,7 @@
 				<seg>Text above Image</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Текст над изображение</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2265,7 +2313,7 @@
 				<seg>Image before Text</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Изображение преди текста</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2281,7 +2329,7 @@
 				<seg>Image and text relation</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Отношение на изображение и текст</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2385,7 +2433,7 @@
 				<seg>Image Mapping</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Разположение на изображението</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2418,6 +2466,22 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Какво желаете да направите</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize while Dragging</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Step</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2455,6 +2519,46 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Prompt Char</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bitmap</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Растер</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Graphics Interchange Format</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Animate Frames</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>JPEG File Interchange Format</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>JPEG изображение</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Portable Network Graphics</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -3102,6 +3206,38 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>The selected file does not have a recognized file format.</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Failed to Save File</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Неуспешно записване на файл</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Failed to save '{0}'.</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Неуспешно записване на '{0}'.</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Failed to obtain file info.</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Save Changes</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -3126,15 +3262,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Error message: {0}</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Съобщение за грешка: {0}</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Load from file failed</seg>
+				<seg>Load from Stream Failed</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -3142,7 +3270,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Load from stream failed</seg>
+				<seg>Save to Stream Failed</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -3574,6 +3702,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Image Source</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Източник на изображението</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Size Max Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -3615,6 +3751,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Clip Rect</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>URI</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -3937,7 +4081,7 @@
 				<seg>Work Area</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Работна площ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4313,7 +4457,7 @@
 				<seg>More Options Image</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Изображение за повече опции</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4322,14 +4466,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Автоматичен</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Preview</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Предварителен преглед</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4710,6 +4846,38 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Split Mode</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Split Offset</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Split Factor</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Collapse Mode</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Top Left Symbol</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -5014,10 +5182,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Column Count</seg>
+				<seg>Max Number of Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Брой колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5194,46 +5362,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Щрих на линиите на мрежата</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Split Mode</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Split Offset</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Split Factor</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Resize Step</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Resize while Dragging</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6097,7 +6225,7 @@
 				<seg>Work Area X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>X на работната площ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6105,7 +6233,7 @@
 				<seg>Work Area Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Y на работната площ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6113,7 +6241,7 @@
 				<seg>Work Area Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Ширина на работната площ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6121,7 +6249,7 @@
 				<seg>Work Area Height</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Височина на работната площ</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6326,6 +6454,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>none</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Left Side</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -6505,7 +6641,7 @@
 				<seg>Image Render Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Режим на показване на изображението</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6966,10 +7102,42 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Options</seg>
+				<seg>Insert {0}</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Настройки</seg>
+				<seg>Вмъкни {0}</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Remove {0}</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Изтрий {0}</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fields change</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Property {0} change</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Промяна на свойство {0}</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Expression for property {0} change</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Промяна на израз за свойство {0}</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -10985,7 +11153,7 @@
 				<seg>Use Fixed Image Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Използвай фиксирана ширина на изображение</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -10993,7 +11161,7 @@
 				<seg>Fixed Image Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Фиксирана ширина на изображение</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11001,7 +11169,7 @@
 				<seg>Use Fixed Image Height</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Използвай фиксирана височина на изображение</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11009,7 +11177,7 @@
 				<seg>Fixed Image Height</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Фиксирана височина на изображение</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12166,6 +12334,310 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Change Geometry Fill</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Geometry Stroke</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Theme and Style</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Theme and Style</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Geometry Shadow</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Begin Arrowhead</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Font Name</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Font Size</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Line Height Factor</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Text Fill</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Text Stroke</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Text Shadow</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Text Background Fill</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Text Horizontal Alignment</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Text Baseline</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Text Vertical Alignment</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Geometry Fill</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Geometry Stroke</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Geometry Shadow</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Begin Arrowhead</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear End Arrowhead</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Corner Rounding</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Font Name</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Font Size</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Line Height Factor</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Text Fill</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Text Stroke</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Text Shadow</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Text Background Fill</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Text Horizontal Alignment</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Text Vertical Alignment</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Raise {0}</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Вдигни {0}</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Drop {0}</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Изтрий {0}</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Apply Bullet Type</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Font Style</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Font Style</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Bullets</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Изчисти водещите символи</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Clear Text Formatting</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Изчисти форматирането на текста</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Selected Template</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -12582,6 +13054,38 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Visio service failed to load file.</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Visio service failed to save file.</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Visio 2003-2010 Drawing</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Visio 2003-2010 XML Drawing</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Genealogical Data Communication</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -12834,6 +13338,14 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>XML щаблон за диаграма на Nevron</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Invalid Visio package.</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13182,10 +13694,26 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Insert Date and Time</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Вмъкни дата и час</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Select Symbol</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Избери символ</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Insert Time</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Вмъкни време</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13398,18 +13926,26 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Begin Arrowhead</seg>
+				<seg>Grid</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начална стрелка</seg>
+				<seg>Мрежа</seg>
 			</tuv>
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Base Line</seg>
+				<seg>Rulers</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Базова линия</seg>
+				<seg>Линии</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Begin Arrowhead</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Начална стрелка</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14070,6 +14606,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Show Logical Unit</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Begin Command</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -14095,22 +14639,6 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Set End</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Multigon Type</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Multigon Shape Type</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -14294,6 +14822,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Checkable</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Separator before</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -14326,23 +14862,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Create Association</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Създай асоциация</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Attribute Type</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Тип на атрибут</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Entity Type</seg>
+				<seg>Show Multiplicity</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -14350,7 +14870,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Connector Actions</seg>
+				<seg>Set Optional</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -14366,7 +14886,15 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Identifying</seg>
+				<seg>Connector Actions</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fishbone Shape Type</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -14494,6 +15022,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Attribute Type</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Тип на атрибут</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Attribute</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -14514,6 +15050,14 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Орзамери фигурата</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Entity Type</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14558,6 +15102,38 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Fill Color Index</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fill Style Index</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Stroke Color Index</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Stroke Style Index</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Task Type</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -14575,22 +15151,6 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Is Compensation</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Variable Type</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Variable Shape</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -14762,6 +15322,46 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Режим на ориентация</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Theme Id</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Color Theme Id</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Style Theme Id</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Variant Color Index</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Variant Style Index</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15063,6 +15663,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Nevron XML Library Format</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Visio 2003-2010 Stencil</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Visio 2003-2010 XML Stencil</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -15766,6 +16382,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Band Stroke</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Outer Rectangle</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -15846,7 +16470,23 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Decorative Shapes</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Dimensioning Engineering</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Data Flow Diagram Shapes</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -15970,6 +16610,14 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Метеорологично време</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fishbone Shapes</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -17094,6 +17742,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Link</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Връзка</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Signal</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -17454,10 +18110,34 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Angled Stamp</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Rounded Stamp</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Automatic Dimension</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Автоматично оразмеряване</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>File</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Файл</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -17510,7 +18190,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Side to Side</seg>
+				<seg>Side to Side 1</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -17518,10 +18198,130 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Bottom to Top</seg>
+				<seg>Side to Side 2</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отдолу нагоре</seg>
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom to Top 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom to Top 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Square Loop</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Angled Connector</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>One to Many</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Control Transfer</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Curve Connect 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Curve Connect 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Jumper</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>One D Open End</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Elbow 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Elbow 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Hollow Connect 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Hollow Connect 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Hollow Connect 3</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -24454,6 +25254,294 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>State</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Start State</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Stop State 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Stop State 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Entity 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Entity 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>External Iteractor</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Process 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Process 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Oval Process</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Object</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Data Store 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Data Store 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Data Store 3</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Center to Center Flow</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Loop on Center</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Folded Corner</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Smiling Face</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Lightning Bolt</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Up Ribbon</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Down Ribbon</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Vertical Scroll</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Horizontal Scroll</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Wave</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Double Wave</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Effect</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Category 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Category 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Primary Cause 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Primary Cause 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Secondary Cause 1</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Secondary Cause 2</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Secondary Cause 3</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Secondary Cause 4</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Secondary Cause 5</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Secondary Cause 6</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>None Opposite</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -24463,6 +25551,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Vertical Opposite</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Horizontal Opposite</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -24487,6 +25583,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Reposition Bend</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Point</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Добави точка</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Remove Point</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -24662,6 +25774,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Move Control Point</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>IDEF1X Entity</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -24679,6 +25799,118 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Crow's Foot Connector</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Weak Entity</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Composite</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Identifying</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Create Association</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Създай асоциация</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Primary Key</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Multivalued Attribute</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Derived Attribute</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Required</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>1-D open end</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Move Text Backward</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Move Text Forward</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Bend Offset</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Branch Intersection</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Reposition Branch</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -24710,6 +25942,54 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Open Arrow End" + "", "" + NLoc.Get("Close Arrow End</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Arrow Size</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Slide Triangle</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Modify Curvature</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Resize Jump</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Slide Jump</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Contiguous United States</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -24722,6 +26002,70 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Съединени Щати без Аляска и Хаваи</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Corner Position</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Happiness</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cyrcle Size</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Fullness</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Width of Front</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Viewing Angle</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Move Line</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Drag Line</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26478,6 +27822,38 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Move Lines</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>N-type</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>X-type</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Unspecified</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Незададен</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Female symbol</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -26886,6 +28262,46 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Expression</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Office</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Linear</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Zephyr</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Text Style Index</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Rotate or Flip</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -27018,14 +28434,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Подреждане</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>File</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Файл</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -27658,6 +29066,14 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Центрирай в документа</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Offset from Viewport Origin</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28742,14 +30158,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Linear</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Matrix</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -29166,14 +30574,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Insert Time</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Вмъкни време</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Flip Horizontal</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -29526,26 +30926,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Grid</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Мрежа</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Page Breaks</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Разделители на страница</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Rulers</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Линии</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29575,6 +30959,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Fit to Height</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Theme</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Shape Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -29742,14 +31142,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Clear Text Formatting</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Изчисти форматирането на текста</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Text Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -29906,14 +31298,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Формат кръгли отметки</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Clear Bullets</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Изчисти водещите символи</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30210,46 +31594,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Add Point</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Добави точка</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Remove Point</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>N-Type</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>X-Type</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Unspecified</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Незададен</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30614,94 +31958,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Set Weak Entity</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Set Composite</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Set Identifying</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Set Primary Key</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Set Multivalued Attribute</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Set Derived Attribute</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Set Required</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Show Multiplicity</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Set Optional</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Partial</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Total</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Set Independent Entity</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -30818,6 +32074,22 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Нула или един</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Add Port</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Remove Port</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32022,22 +33294,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Mailings</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Пощенски съобщения</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Review</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Преглед</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Proofing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -32086,6 +33342,30 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Design</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mailings</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Пощенски съобщения</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Review</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Преглед</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Zoom</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -32106,6 +33386,30 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Побиране в страница</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Variant {0}</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Варинат {0}</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Connector</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Text</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32562,6 +33866,62 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>В момента на събитието</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>of every</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>month(s)</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>The</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Every</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Всеки</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>year(s)</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>of</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>every</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33090,14 +34450,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Последен</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Every</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Всеки</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33726,6 +35078,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Base Line</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Базова линия</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Show Dialog</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -34098,38 +35458,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Запиши слятия документ</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>The selected file does not have a recognized file format</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Избраният файл не е от познат файлов тип</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Failed to Save File</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Неуспешно записване на файл</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Failed to save '{0}'.</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Неуспешно записване на '{0}'.</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Exception was</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Грешката беше</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34914,6 +36242,14 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Документ с логически страници</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Column Count</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Брой колони</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36250,14 +37586,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Обновявай автоматично</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Insert Date and Time</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Вмъкни дата и час</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37662,6 +38990,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Do you want to remove style "{0}" from the document?</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Selected Character</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -37801,7 +39137,7 @@
 				<seg>Embed Images in Html</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Вграждай изображенията в HTML кода</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -38034,6 +39370,14 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Основна диаграма на защитната стена</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Cloud Computing Network Design</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -39143,6 +40487,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Gaming Company Organizational Chart</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Magazine Organizational Chart</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
