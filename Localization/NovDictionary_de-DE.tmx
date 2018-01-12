@@ -518,7 +518,7 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Browse for image...</seg>
+				<seg>Browse for image</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -4878,6 +4878,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Restore Position</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Top Left Symbol</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
@@ -5335,6 +5343,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Default Size Measure Value</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Wheel Inc Dec Mode</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -6647,6 +6663,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Drop down Style</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Wheel Navigation Mode</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -13246,23 +13270,39 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Library Browser Visibility</seg>
-			</tuv>
-			<tuv xml:lang="de-DE">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Library Browser Splitter Offset</seg>
-			</tuv>
-			<tuv xml:lang="de-DE">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Warn when Saving to Non Native Format</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Main Splitter Offset</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Main Splitter Restore Position</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Library and Pan Zoom Splitter Offset</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Library and Pan Zoom Splitter Restore Position</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -13311,14 +13351,6 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Exit</seg>
-			</tuv>
-			<tuv xml:lang="de-DE">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Library Browser</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -13390,7 +13422,39 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Architectural (US Units)</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Civil Engineering (US Units)</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Metric (Metric Units)</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Mechanical Engineering (Metric Units)</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Abstract Drawing</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -13935,6 +13999,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Rulers</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Grid and Rulers</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -14607,6 +14679,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Show Logical Unit</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Click to change</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Change Drawing Scale</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -28590,14 +28678,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Change Drawing Scale</seg>
-			</tuv>
-			<tuv xml:lang="de-DE">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Coordinate</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
@@ -28950,6 +29030,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Direction Mode</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Dir X</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
@@ -28975,6 +29063,38 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Flow Mode</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Auto Center</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Auto Center Inverted</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Auto Side</seg>
+			</tuv>
+			<tuv xml:lang="de-DE">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Auto Side Inverted</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
@@ -31527,14 +31647,6 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Snap and Glue</seg>
-			</tuv>
-			<tuv xml:lang="de-DE">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Grid and Rulers</seg>
 			</tuv>
 			<tuv xml:lang="de-DE">
 				<seg></seg>
