@@ -129,7 +129,7 @@
 				<seg>Manager</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Gestor</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -161,7 +161,7 @@
 				<seg>Keywords</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Teclados</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -177,7 +177,7 @@
 				<seg>File Name</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Nombre de archivo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -185,7 +185,7 @@
 				<seg>File Size</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tamaño del archivo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -201,7 +201,7 @@
 				<seg>Editing Start</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Inicio de edición</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -209,7 +209,7 @@
 				<seg>Version Number</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Número de versión</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -217,7 +217,7 @@
 				<seg>Creation Time</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Hora de creación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -225,7 +225,7 @@
 				<seg>Revision Time</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Hora de revisión</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -233,7 +233,7 @@
 				<seg>Print Time</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Hora de impresión</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -241,7 +241,7 @@
 				<seg>Backup Time</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Hora de respaldo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -321,7 +321,7 @@
 				<seg>Numeric Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Formateador de valor numérico</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -329,7 +329,7 @@
 				<seg>Date Time Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Formateador valor para fecha y hora</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -337,7 +337,7 @@
 				<seg>Boolean Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Formateador de valor booleano</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -433,7 +433,7 @@
 				<seg>Edited Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho de borde editado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -441,7 +441,7 @@
 				<seg>Control Placement</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ubicación del control</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -449,7 +449,7 @@
 				<seg>Has More Options Button</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Botón Más opciones</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -695,6 +695,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Enable Ssl</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Developer Mode</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Contextual Help</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -950,10 +966,66 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Page Width</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page Height</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page Orientation</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg>Orientación de página</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Left Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Top Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Paging Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de paginación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -961,7 +1033,7 @@
 				<seg>Zoom Percent</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Porcentaje de zoom</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -969,7 +1041,7 @@
 				<seg>Page Columns</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Columnas de página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -977,7 +1049,7 @@
 				<seg>Page Rows</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Líneas de página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -998,18 +1070,42 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Page Size and Margins</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Tamaño y márgenes de página</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Print Layout</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg>Diseño de impresión</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Left</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg>Izquierda</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Top</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg>Arriba</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg>Derecha</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg>Abajo</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1222,34 +1318,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Left</seg>
+				<seg>Show Preview</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Izquierda</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Top</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Arriba</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Right</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Derecha</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Bottom</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Abajo</seg>
+				<seg>Mostrar vista previa</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1297,7 +1369,7 @@
 				<seg>Formats List Box Max Height</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Altura máxima de casilla de selección de formatos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1529,7 +1601,7 @@
 				<seg>Command UI</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>IU de comando</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1546,14 +1618,6 @@
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg>Referencia cultural de IU</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Developer Mode</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1881,7 +1945,7 @@
 				<seg>Edited Dictionary</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Diccionario editado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2401,7 +2465,7 @@
 				<seg>Max Days</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Días máx</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2617,7 +2681,7 @@
 				<seg>Mapping Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de mapeo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2641,7 +2705,7 @@
 				<seg>Center X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Centrar X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2649,7 +2713,7 @@
 				<seg>Center Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Centrar Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2657,7 +2721,7 @@
 				<seg>Focus Factor X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>X de factor de foco</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2665,7 +2729,7 @@
 				<seg>Focus Factor Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Y de factor de foco</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2921,7 +2985,7 @@
 				<seg>Offset X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>X de salida</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2929,7 +2993,7 @@
 				<seg>Offset Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Y de salida</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2937,7 +3001,7 @@
 				<seg>Scale Pin Point</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Pin Point de escala</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2953,7 +3017,7 @@
 				<seg>Fade Length</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Longitud de difuminado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2985,7 +3049,7 @@
 				<seg>Dash Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de punteado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2993,7 +3057,7 @@
 				<seg>Start Cap</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tipo de inicio</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3009,7 +3073,7 @@
 				<seg>Dash Cap</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tipo de guion</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3017,7 +3081,7 @@
 				<seg>Line Join</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Unión de línea</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3025,7 +3089,7 @@
 				<seg>Miter Limit</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Límite angular</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3033,7 +3097,7 @@
 				<seg>Dash Pattern</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Patrón de guiones</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3201,7 +3265,7 @@
 				<seg>Read Only</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Solo lectura</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3281,7 +3345,7 @@
 				<seg>Visible Headers Count</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cantidad de encabezados visibles</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3289,7 +3353,7 @@
 				<seg>Headers Padding</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de encabezados</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3305,7 +3369,7 @@
 				<seg>Icons Padding</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de íconos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3313,7 +3377,7 @@
 				<seg>Icons Spacing</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espaciado de íconos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4086,6 +4150,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Show Box Preview</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Command Name</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -4241,7 +4313,7 @@
 				<seg>Inner X Radius</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Radio X interior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4249,7 +4321,7 @@
 				<seg>Inner Y Radius</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Radio Y interior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4257,7 +4329,7 @@
 				<seg>Outer X Radius</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Radio X exterior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4265,7 +4337,7 @@
 				<seg>Outer Y Radius</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Radio Y exterior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4441,7 +4513,7 @@
 				<seg>Has Automatic Button</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tiene botón Automático</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4449,7 +4521,7 @@
 				<seg>Has None Button</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tiene botón No</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4457,7 +4529,7 @@
 				<seg>More Options Image</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Imagen de Más opciones</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4489,7 +4561,7 @@
 				<seg>Has Today Button</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tiene botón de Hoy</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4593,7 +4665,7 @@
 				<seg>Tab Stop</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tabulador</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4609,7 +4681,7 @@
 				<seg>Tooltip</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tooltip</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4665,7 +4737,7 @@
 				<seg>Show Caret</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar inserción</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4673,7 +4745,7 @@
 				<seg>Allow Context Popup</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir emergente de contexto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4697,7 +4769,7 @@
 				<seg>Hint</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Sugerencia</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4705,7 +4777,7 @@
 				<seg>Hint Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de sugerencia</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4713,7 +4785,7 @@
 				<seg>Selection Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de fondo de selección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4721,7 +4793,7 @@
 				<seg>Selection Text Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de texto de selección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4729,7 +4801,7 @@
 				<seg>Text Align</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Alineación de texto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4737,7 +4809,7 @@
 				<seg>Always Show Selection</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar selección siempre</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4745,7 +4817,7 @@
 				<seg>Always Show Caret</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar inserción siempre</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4761,7 +4833,7 @@
 				<seg>Multiline</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Multilínea</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4769,7 +4841,7 @@
 				<seg>Word Wrap</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Recorte de palabra</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4777,7 +4849,7 @@
 				<seg>Accepts Tab</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Acepta tabuladores</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4785,7 +4857,7 @@
 				<seg>Accepts Enter</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Acepta retornos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4801,7 +4873,7 @@
 				<seg>Password Char</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Carácter de contraseña</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4809,7 +4881,7 @@
 				<seg>Character Casing</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mayúsculas y minúsculas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4849,7 +4921,7 @@
 				<seg>Split Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de división</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4857,7 +4929,7 @@
 				<seg>Split Offset</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Inicio de división</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4865,7 +4937,7 @@
 				<seg>Split Factor</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Factor de división</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4905,7 +4977,7 @@
 				<seg>Lane Position</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Posición del contenedor</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4913,7 +4985,7 @@
 				<seg>Fill Lane</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Rellenar contenedor</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4921,7 +4993,7 @@
 				<seg>Stack Fill Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de relleno de la pila</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4929,7 +5001,7 @@
 				<seg>Stack Fit Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de ajuste de la pila</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4937,7 +5009,7 @@
 				<seg>Wrappable</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Recortable</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4945,7 +5017,7 @@
 				<seg>Has Hidden Items</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tiene elementos ocultos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4977,7 +5049,7 @@
 				<seg>Reopen Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Reabrir modo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4985,7 +5057,7 @@
 				<seg>Floating Anchor</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancla de flotación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4993,7 +5065,7 @@
 				<seg>Floating Width</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho de flotación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5001,7 +5073,7 @@
 				<seg>Refloat Location</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Reflotar ubicación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5009,7 +5081,7 @@
 				<seg>Redock Lane Ref</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Reacoplar referencia de contenedor</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5017,7 +5089,7 @@
 				<seg>Redock Lane Position</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Reacoplar posición de contenedor</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5025,7 +5097,7 @@
 				<seg>Has Opened Popup</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tiene emergente abierto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5097,7 +5169,7 @@
 				<seg>Show Transparency Picker</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar selector de transparencia</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5233,7 +5305,7 @@
 				<seg>Preview Size</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tamaño de vista previa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5241,7 +5313,7 @@
 				<seg>Preview Stroke</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Trazo de la vista previa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5249,7 +5321,7 @@
 				<seg>Preview Margins</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Márgenes de la vista previa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5257,7 +5329,7 @@
 				<seg>Has More Colors Button</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tiene botón Más colores</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5345,7 +5417,7 @@
 				<seg>Default Size Measure Value</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Valor de medida de tamaño por defecto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5513,7 +5585,7 @@
 				<seg>Current Color</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Color actual</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5833,7 +5905,7 @@
 				<seg>Show Duration</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar duración</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5841,7 +5913,7 @@
 				<seg>First Show Delay</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Retraso en la primera vista</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5849,7 +5921,7 @@
 				<seg>Next Show Delay</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Retraso en la vista siguiente</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5857,7 +5929,7 @@
 				<seg>Follow Mouse</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Seguir ratón</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5865,7 +5937,7 @@
 				<seg>Hot Spot Padding</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de Hot Spot</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6329,7 +6401,7 @@
 				<seg>Default Width</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho por defecto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6377,7 +6449,7 @@
 				<seg>Focus Decorator</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Decorador del foco</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6513,7 +6585,7 @@
 				<seg>Left Top Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Esquina superior izquierda</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6521,7 +6593,7 @@
 				<seg>Top Left Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Esquina superior izquierda</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6529,7 +6601,7 @@
 				<seg>Right Top Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Esquina superior derecha</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6537,7 +6609,7 @@
 				<seg>Top Right Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Esquina superior derecha</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6545,7 +6617,7 @@
 				<seg>Left Bottom Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Esquina izquierda inferior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6553,7 +6625,7 @@
 				<seg>Bottom Left Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Esquina inferior izquierda</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6561,7 +6633,7 @@
 				<seg>Right Bottom Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Esquina derecha inferior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6569,7 +6641,7 @@
 				<seg>Bottom Right Corner</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Esquina inferior derecha</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6577,7 +6649,7 @@
 				<seg>Background Outline</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Contorno del fondo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6585,7 +6657,7 @@
 				<seg>Hit Test Outline</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Contorno de Hit Test</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6817,7 +6889,7 @@
 				<seg>Preview Dock Area</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Vista previa del área de acople</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6825,7 +6897,7 @@
 				<seg>Preview Horizontal Placement</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ubicación horizontal de la vista previa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6833,7 +6905,7 @@
 				<seg>Preview Vertical Placement</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ubicación vertical de la vista previa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6886,14 +6958,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show Preview</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Mostrar vista previa</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Control Embedding</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -6922,6 +6986,14 @@
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg>Mostrar etiqueta</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Value Control Horizontal Placement</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7025,7 +7097,7 @@
 				<seg>Inherit Resolution</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Heredar resolución</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7049,7 +7121,7 @@
 				<seg>Resolution</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Resolución</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7065,7 +7137,7 @@
 				<seg>Id</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>ID</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7345,7 +7417,7 @@
 				<seg>Error Correction</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Corrección de error</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7353,7 +7425,7 @@
 				<seg>Symbology</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Simbología</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7369,7 +7441,7 @@
 				<seg>Size Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de tamaño</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11385,7 +11457,7 @@
 				<seg>Match Case</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Coincidir mayúsculas y minúsculas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11993,7 +12065,7 @@
 				<seg>Allow Format</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir formato</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13390,14 +13462,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Load Drawing Scale</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Cargar escala de dibujo</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Select Drawing Scale</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -13458,14 +13522,6 @@
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Page Orientation</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg>Orientación de página</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13785,7 +13841,7 @@
 				<seg>Status Pane</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Panel de estado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13905,7 +13961,7 @@
 				<seg>Search Direction</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Dirección de búsqueda</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13913,7 +13969,7 @@
 				<seg>Normalization</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Normalización</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13921,7 +13977,7 @@
 				<seg>Whole Words Only</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Solo palabras completas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14409,7 +14465,7 @@
 				<seg>Stop Force</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Detener fuerza</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14417,7 +14473,7 @@
 				<seg>Min Delta</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Delta mínima</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14425,7 +14481,7 @@
 				<seg>Max Iterations</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Repeticiones máximas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14433,7 +14489,7 @@
 				<seg>Max Time</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tiempo máximo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15273,7 +15329,7 @@
 				<seg>Wrap Flow Break</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Interrupción de flujo de recorte</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15297,7 +15353,7 @@
 				<seg>Layer Index</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Índice de capa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15305,7 +15361,7 @@
 				<seg>X Moveable</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Movible X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15313,7 +15369,7 @@
 				<seg>Y Moveable</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Movible Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15321,7 +15377,7 @@
 				<seg>Electrical Charge</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Carga eléctrica</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15329,7 +15385,7 @@
 				<seg>Mass</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Masa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15457,7 +15513,7 @@
 				<seg>Resize Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de redimensión</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15505,7 +15561,7 @@
 				<seg>Loc Pin Relative</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Definir pariente de centro de ubicación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15513,7 +15569,7 @@
 				<seg>Loc Pin X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Definir X de punto central</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15521,7 +15577,7 @@
 				<seg>Loc Pin Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Definir Y de punto central</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15529,7 +15585,7 @@
 				<seg>Keep Upward</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mantener hacia arriba</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15614,10 +15670,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Show Mini Tool Bar</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Show Guideline Menu</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar menú de lineamientos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15625,7 +15689,7 @@
 				<seg>Show Shape Menu</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar menú de forma</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15633,7 +15697,7 @@
 				<seg>Show Page Menu</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar menú de página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15646,10 +15710,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Mini Diagram Formatting</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Model</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modelo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15657,7 +15729,7 @@
 				<seg>Reroute Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de redirección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15665,7 +15737,7 @@
 				<seg>Allow Layouts Reroute</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir redirección de diseños</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15897,7 +15969,7 @@
 				<seg>Min Text Width</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho mínimo de texto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15905,7 +15977,7 @@
 				<seg>Max Text Height</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho máximo de texto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15913,7 +15985,7 @@
 				<seg>Min Text Height</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Altura mínima de texto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15921,7 +15993,7 @@
 				<seg>Horizontal Text Alignment</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Alineación horizontal de texto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15929,7 +16001,7 @@
 				<seg>Vertical Text Alignment</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Alineación vertical de texto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15937,7 +16009,7 @@
 				<seg>Preview Text Spacing</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espaciado de texto de la vista previa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15953,7 +16025,7 @@
 				<seg>Item Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho de borde del elemento</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15961,7 +16033,7 @@
 				<seg>Item Padding</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de elemento</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16065,7 +16137,7 @@
 				<seg>Show Box Trackers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar rastreadores de caja</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16073,7 +16145,7 @@
 				<seg>Show Pin Rotation Trackers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar rastreadores de rotación de punto central</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16081,7 +16153,7 @@
 				<seg>Show End Points Trackers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar rastreadores de puntos finales</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16089,7 +16161,7 @@
 				<seg>Show Controls Trackers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar rastreadores de controles</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16097,7 +16169,7 @@
 				<seg>Show Geometry Trackers</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar rastreadores de geometría</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16113,7 +16185,7 @@
 				<seg>Rotator Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de manija de rotador</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16121,7 +16193,7 @@
 				<seg>Pin Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de manija de punto central</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16129,7 +16201,7 @@
 				<seg>Begin Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Iniciar estilo de manija del punto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16137,7 +16209,7 @@
 				<seg>End Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Finalizar estilo de manija del punto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16145,7 +16217,7 @@
 				<seg>Port Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de manija del puerto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16153,7 +16225,7 @@
 				<seg>Control Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de manija del control</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16161,7 +16233,7 @@
 				<seg>Geometry Base Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de manija del punto de base de geometría</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16169,7 +16241,7 @@
 				<seg>Geometry Bend Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de manija del punto de inflexión de geometría</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16177,7 +16249,7 @@
 				<seg>Geometry Mid Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de manija del punto medio de geometría</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16185,7 +16257,7 @@
 				<seg>Geometry Control Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Estilo de manija del control de geometría</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16193,7 +16265,7 @@
 				<seg>Selected Guidelines Stroke</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Trazo de lineamientos seleccionado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16201,7 +16273,7 @@
 				<seg>Hide Disabled Handles</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ocultar manijas inhabilitadas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16217,7 +16289,7 @@
 				<seg>Glued Handle Color</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Color de manija soldado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16225,7 +16297,7 @@
 				<seg>Rotator Handle Distance</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Distancia de manija del rotador</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16241,7 +16313,7 @@
 				<seg>Closed Figures Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ampliación de figuras cerradas en Hit Test</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16249,7 +16321,7 @@
 				<seg>Open Figures Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ampliación de figuras abiertas en Hit Test</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16257,7 +16329,7 @@
 				<seg>Guidelines Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ampliación de Hit Test de lineamientos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16265,7 +16337,7 @@
 				<seg>Paste Position Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Pegar modo de posición</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16273,7 +16345,7 @@
 				<seg>Paste Offset X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Pegar X de salida</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16281,7 +16353,7 @@
 				<seg>Paste Offset Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Pegar Y de salida</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16289,7 +16361,7 @@
 				<seg>Max Previewed Items</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Elementos previsualizados máximos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16297,7 +16369,7 @@
 				<seg>Nudge Step</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Intervalo de Nudge</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16305,7 +16377,7 @@
 				<seg>Rotation Step</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Intervalo de rotación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16313,7 +16385,7 @@
 				<seg>Horizontal Spacing Step</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Intervalo de espaciado horizontal</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16321,7 +16393,7 @@
 				<seg>Vertical Spacing Step</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Intervalo de espaciado vertical</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16329,7 +16401,7 @@
 				<seg>Merge Point Distance</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Distancia del punto de combinación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16622,6 +16694,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Fishbone Shapes</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Floor Plan Shapes</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
@@ -16698,14 +16778,6 @@
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg>Formas de clima</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Fishbone Shapes</seg>
-			</tuv>
-			<tuv xml:lang="es-ES">
-				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26030,7 +26102,15 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Open Arrow End" + "", "" + NLoc.Get("Close Arrow End</seg>
+				<seg>Open Arrow End</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Close Arrow End</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -28753,7 +28833,7 @@
 				<seg>X Step Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de intervalo X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28761,7 +28841,7 @@
 				<seg>Fixed X Step</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Intervalo fijo de X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28769,7 +28849,7 @@
 				<seg>Y Step Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de intervalo Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28777,7 +28857,7 @@
 				<seg>Fixed Y Step</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Intervalo fijo de Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28785,7 +28865,7 @@
 				<seg>Minor Ticks Count</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cantidad mínima de marcas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28929,7 +29009,7 @@
 				<seg>Ports Strength</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fuerza de puertos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28937,7 +29017,7 @@
 				<seg>Geometry Strength</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fuerza de geometría</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28945,7 +29025,7 @@
 				<seg>Geometry Vertices Strength</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fuerza de vértices de geometría</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28953,7 +29033,7 @@
 				<seg>Guidelines Strength</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fuerza de lineamientos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28961,7 +29041,7 @@
 				<seg>Grid Strength</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fuerza de grilla</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28969,7 +29049,7 @@
 				<seg>Rulers Strength</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fuerza de reglas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28985,7 +29065,7 @@
 				<seg>Rotation Tolerance</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tolerancia de rotación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29041,7 +29121,7 @@
 				<seg>Dir X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>X de dirección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29049,7 +29129,7 @@
 				<seg>Dir Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Y de dirección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29057,7 +29137,7 @@
 				<seg>Glue Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de soldar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29065,7 +29145,7 @@
 				<seg>Flow Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de fluir</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30465,7 +30545,7 @@
 				<seg>End Arrowhead</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Finalizar puntas de flecha</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30473,7 +30553,7 @@
 				<seg>Begin Direction</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Iniciar dirección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30481,7 +30561,7 @@
 				<seg>End Direction</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Finalizar dirección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30521,7 +30601,7 @@
 				<seg>Can Glue</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Puede soldarse</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30529,7 +30609,7 @@
 				<seg>X Behavior</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Comportamiento de X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30537,7 +30617,7 @@
 				<seg>Y Behavior</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Comportamiento de Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30553,7 +30633,7 @@
 				<seg>Viewport Padding</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de viewport</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32209,7 +32289,7 @@
 				<seg>Display Length</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar longitud</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32249,7 +32329,7 @@
 				<seg>Selection Edit Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de Editar selección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32305,7 +32385,7 @@
 				<seg>Resize Shapes</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Redimensionar formas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32313,7 +32393,7 @@
 				<seg>Selection Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de selección</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32321,7 +32401,7 @@
 				<seg>Elements Z Order</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Orden Z de elementos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32337,7 +32417,7 @@
 				<seg>Shape Type</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tipo de forma</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32345,7 +32425,7 @@
 				<seg>Edit Height In 1D</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Editar altura en 1D</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32353,7 +32433,7 @@
 				<seg>Graph Part</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Parte de gráfica</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32369,7 +32449,7 @@
 				<seg>Move Slaves</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mover esclavos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32377,7 +32457,7 @@
 				<seg>Default Shape Glue</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Forma de soldar por defecto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32385,7 +32465,7 @@
 				<seg>Show Shape Handles</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar manijas de forma</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32393,7 +32473,7 @@
 				<seg>Show Control Handles</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Mostrar manijas del control</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32401,7 +32481,7 @@
 				<seg>Begin X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Iniciar X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32409,7 +32489,7 @@
 				<seg>Begin Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Iniciar Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32417,7 +32497,7 @@
 				<seg>End X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Finalizar X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32425,7 +32505,7 @@
 				<seg>End Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Finalizar Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32433,7 +32513,7 @@
 				<seg>Allow Resize X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir redimensionar X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32441,7 +32521,7 @@
 				<seg>Allow Resize Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir redimensionar Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32449,7 +32529,7 @@
 				<seg>Allow Change Aspect Ratio</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir cambio de relación de aspecto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32457,7 +32537,7 @@
 				<seg>Allow Move X</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir mover X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32465,7 +32545,7 @@
 				<seg>Allow Move Y</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir mover Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32473,7 +32553,7 @@
 				<seg>Allow Rotate</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir rotación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32481,7 +32561,7 @@
 				<seg>Allow Change Pin Point</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir cambiar el punto central</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32489,7 +32569,7 @@
 				<seg>Allow Change Begin Point</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir cambiar punto de inicio</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32497,7 +32577,7 @@
 				<seg>Allow Change End Point</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir cambiar punto final</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32505,7 +32585,7 @@
 				<seg>Allow Geometry Edit</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir edición de geometría</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32513,7 +32593,7 @@
 				<seg>Allow Inplace Edit</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir edición en el lugar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32521,7 +32601,7 @@
 				<seg>Allow Update Bounds</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir actualizar límites</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32529,7 +32609,7 @@
 				<seg>Allow Layouts Reglue Begin Point</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir punto de inicio de resoldado de diseños</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32537,7 +32617,7 @@
 				<seg>Allow Layouts Reglue End Point</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir punto de terminación de resoldado de diseños</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32641,7 +32721,7 @@
 				<seg>Data Object Adaptors</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Adaptadores de objetos de datos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32649,7 +32729,7 @@
 				<seg>View Type</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tipo de vista</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32657,7 +32737,7 @@
 				<seg>Text Block Size</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tamaño del bloque de texto</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32665,7 +32745,7 @@
 				<seg>Arrange Width</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ordenar ancho</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32713,7 +32793,7 @@
 				<seg>Flip Angle</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Invertir ángulo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32721,7 +32801,7 @@
 				<seg>Stroke Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de trazo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33609,7 +33689,7 @@
 				<seg>Cloud Service Provider</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Proveedor de servicios de nube</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33721,7 +33801,7 @@
 				<seg>Start Date</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fecha de inicio</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33729,7 +33809,7 @@
 				<seg>End Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo de finalización</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33737,7 +33817,7 @@
 				<seg>End Date</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fecha de finalización</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33745,7 +33825,7 @@
 				<seg>Max Occurrences</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Repeticiones máximas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33753,7 +33833,7 @@
 				<seg>Excluded Dates</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Fechas excluidas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34065,7 +34145,7 @@
 				<seg>Border Stroke</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Trazo del borde</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34073,7 +34153,7 @@
 				<seg>Appointment Marks Size</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tamaño de marcas de la cita</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34081,7 +34161,7 @@
 				<seg>Appointment Marks Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de marcas de la cita</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34169,7 +34249,7 @@
 				<seg>Notification</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Notificación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34177,7 +34257,7 @@
 				<seg>Dismissed</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Descartado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34185,7 +34265,7 @@
 				<seg>Start Time Zone</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Hora de inicio de zona horaria</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34193,7 +34273,7 @@
 				<seg>End Time Zone</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Hora de finalización de zona horaria</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34241,7 +34321,7 @@
 				<seg>Highlighted Cell Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de celda destacado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34249,7 +34329,7 @@
 				<seg>Selected Cell Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de celda elegida</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34273,7 +34353,7 @@
 				<seg>Minor Lines Count</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Cantidad de líneas menor</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34633,7 +34713,7 @@
 				<seg>Notification Check Interval</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Intervalo de verificación de notificaciones</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34737,7 +34817,7 @@
 				<seg>Label Padding</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de etiqueta</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34919,6 +34999,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Change Font Size To Inlines</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Shadow To Inlines</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg></seg>
@@ -35225,7 +35313,7 @@
 				<seg>Column Format</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Formato de columna</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35241,7 +35329,7 @@
 				<seg>Line Format</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Formato de línea</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35257,7 +35345,7 @@
 				<seg>Page Format</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Formato de página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35825,7 +35913,7 @@
 				<seg>Bullet Text</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Texto de viñeta</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35833,7 +35921,7 @@
 				<seg>Start Number</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Iniciar numeración</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35841,7 +35929,7 @@
 				<seg>Bullet Follow Char</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Viñeta después de carácter</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35873,7 +35961,7 @@
 				<seg>Document Type</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tipo de documento</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35945,7 +36033,7 @@
 				<seg>Clear Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Borrar modo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35953,7 +36041,7 @@
 				<seg>Allow Overlap</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir superponer</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35961,7 +36049,7 @@
 				<seg>Horizontal Block Alignment</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Alineación de bloque horizontal</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35969,7 +36057,7 @@
 				<seg>Vertical Block Alignment</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Alineación de bloque vertical</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35977,7 +36065,7 @@
 				<seg>Horizontal Anchor</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancla horizontal</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35985,7 +36073,7 @@
 				<seg>Vertical Anchor</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancla vertical</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35993,7 +36081,7 @@
 				<seg>X Offset</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Inicio X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36001,7 +36089,7 @@
 				<seg>Y Offset</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Inicio Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36009,7 +36097,7 @@
 				<seg>Allow Anchored Descendant Blocks</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Permitir bloques descendientes anclados</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36017,7 +36105,7 @@
 				<seg>Intrinsic Min Width</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho mínimo intrínseco</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36025,7 +36113,7 @@
 				<seg>Intrinsic Min Height</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Altura mínima intrínseca</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36057,7 +36145,7 @@
 				<seg>Copy Range Containment</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Copiar contención de rango</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36065,7 +36153,7 @@
 				<seg>First Line Indent</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Sangría de primera línea</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36073,7 +36161,7 @@
 				<seg>Hanging Indent</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Sangría francesa</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36097,7 +36185,7 @@
 				<seg>Paragraph Direction</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Dirección del párrafo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36113,7 +36201,7 @@
 				<seg>Table Cell Horizontal Spacing</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espaciado horizontal de celdas de tabla</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36121,7 +36209,7 @@
 				<seg>Table Cell Vertical Spacing</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espaciado vertical de celdas de tabla</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36169,7 +36257,7 @@
 				<seg>Tab Stops</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tabuladores</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36225,7 +36313,7 @@
 				<seg>Page Max Insets Percent</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Porcentaje de insertos máximos en la página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36233,7 +36321,7 @@
 				<seg>Page Padding</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36241,7 +36329,7 @@
 				<seg>Page Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho de bordes de página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36249,7 +36337,7 @@
 				<seg>Gutter Margin</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Margen de encuadernación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36257,7 +36345,7 @@
 				<seg>Gutter Position</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Posición de encuadernación</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36265,7 +36353,7 @@
 				<seg>Page Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de página</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36281,7 +36369,7 @@
 				<seg>Page Border Surrounds Header</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Borde de página incluye el cabezal</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36289,7 +36377,7 @@
 				<seg>Page Border Surrounds Footer</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Borde de página incluye el pie</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36297,7 +36385,7 @@
 				<seg>Header Offset</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Inicio del cabezal</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36305,7 +36393,7 @@
 				<seg>Footer Offset</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Inicio del pie</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36313,7 +36401,7 @@
 				<seg>Max Header Percent</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Porcentaje de cabezal máximo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36321,7 +36409,7 @@
 				<seg>Max Footer Percent</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Porcentaje de pie máximo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36345,7 +36433,7 @@
 				<seg>Pages Document</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Documento de páginas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36353,7 +36441,7 @@
 				<seg>Logical Pages Document</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Documento de páginas lógicas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36369,7 +36457,7 @@
 				<seg>Column Spacing</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espaciado de columnas</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36377,7 +36465,7 @@
 				<seg>Column Separator Stroke</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Trazo del separador de columna</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36457,7 +36545,7 @@
 				<seg>Data Field</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Campo de datos</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36569,7 +36657,7 @@
 				<seg>Target</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Objetivo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36609,7 +36697,7 @@
 				<seg>Find Settings</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Configuración de Encontrar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36617,7 +36705,7 @@
 				<seg>Goto Settings</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Configuración de Ir a</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36625,7 +36713,7 @@
 				<seg>Replace Settings</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Configuración de reemplazar</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36633,7 +36721,7 @@
 				<seg>Content Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Relleno de fondo de contenido</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37633,7 +37721,7 @@
 				<seg>Table Border Mode</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Modo del borde de tabla</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37641,7 +37729,7 @@
 				<seg>Cell Margins Left</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Izquierda de márgenes de celda</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37649,7 +37737,7 @@
 				<seg>Cell Margins Top</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Márgenes de celda parte superior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37657,7 +37745,7 @@
 				<seg>Cell Margins Right</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Derecha de márgenes de celda</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37665,7 +37753,7 @@
 				<seg>Cell Margins Bottom</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Márgenes de celda parte inferior</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37673,7 +37761,7 @@
 				<seg>Horizontal Cell Spacing</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espaciado de celda horizontal</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37681,7 +37769,7 @@
 				<seg>Vertical Cell Spacing</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Espaciado de celda vertical</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37697,7 +37785,7 @@
 				<seg>Update Automatically</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Actualizar automáticamente</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37753,7 +37841,7 @@
 				<seg>Part</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Parte</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37777,7 +37865,7 @@
 				<seg>Suffix</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Sufijo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37785,7 +37873,7 @@
 				<seg>Auto Size</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Tamaño automático</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37793,7 +37881,7 @@
 				<seg>Fixed Column Width</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho de columna fijo</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37801,7 +37889,7 @@
 				<seg>Percent Column Width</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ancho de columna porcentual</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37921,7 +38009,7 @@
 				<seg>Scope</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Ámbito</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -38354,6 +38442,22 @@
 			</tuv>
 			<tuv xml:lang="es-ES">
 				<seg>Ancho de columnas</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mini Text Formatting</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Justify</seg>
+			</tuv>
+			<tuv xml:lang="es-ES">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -38937,7 +39041,7 @@
 				<seg>Tab Stop Alignment</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Alineación de tabuladores</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -39113,7 +39217,7 @@
 				<seg>Selected Character</seg>
 			</tuv>
 			<tuv xml:lang="es-ES">
-				<seg>Carácter seleccionado</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>

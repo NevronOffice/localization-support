@@ -129,7 +129,7 @@
 				<seg>Manager</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Управител</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -161,7 +161,7 @@
 				<seg>Keywords</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ключови думи</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -177,7 +177,7 @@
 				<seg>File Name</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Име на файл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -185,7 +185,7 @@
 				<seg>File Size</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Размер на файл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -201,7 +201,7 @@
 				<seg>Editing Start</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начало на редактирането</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -209,7 +209,7 @@
 				<seg>Version Number</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Номер на версия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -217,7 +217,7 @@
 				<seg>Creation Time</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Време на създаване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -225,7 +225,7 @@
 				<seg>Revision Time</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Време на последна корекция</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -233,7 +233,7 @@
 				<seg>Print Time</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Време на печат</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -241,7 +241,7 @@
 				<seg>Backup Time</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Време на архив</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -337,7 +337,7 @@
 				<seg>Boolean Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Форматиране на двоични стойности</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -433,7 +433,7 @@
 				<seg>Edited Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Редактирай дебелина на рамка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -441,7 +441,7 @@
 				<seg>Control Placement</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позициониране на контроли</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -702,6 +702,22 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Developer Mode</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Режим за разработчици</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Contextual Help</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Контекстна помощна информация</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Auto Save Interval</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -950,10 +966,66 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Page Width</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page Height</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page Orientation</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Ориентация на страница</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Left Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Top Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Paging Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на пагиниране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -961,7 +1033,7 @@
 				<seg>Zoom Percent</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Процент на мащабиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -969,7 +1041,7 @@
 				<seg>Page Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Страници в колона</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -977,7 +1049,7 @@
 				<seg>Page Rows</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Страници на ред</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -998,18 +1070,42 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Page Size and Margins</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Размер и полета на страница</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Print Layout</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Оформление на печата</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Left</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Ляв</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Top</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Горе</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Дясно</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg>Долу</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1057,7 +1153,7 @@
 				<seg>Selected Bounds</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Избрани граници</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1065,7 +1161,7 @@
 				<seg>Document Bounds</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Граници на документа</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1073,7 +1169,7 @@
 				<seg>Selection Bounds</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Граници на селекцията</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1222,34 +1318,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Left</seg>
+				<seg>Show Preview</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ляв</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Top</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Горе</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Right</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Дясно</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Bottom</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Долу</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1529,7 +1601,7 @@
 				<seg>Command UI</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Интерфейс на командите</seg>
+				<seg>Команден интерфейс</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1546,14 +1618,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Име културата на интерфейса</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Developer Mode</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Режим за разработчици</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1881,7 +1945,7 @@
 				<seg>Edited Dictionary</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Редактиран речник</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2545,7 +2609,7 @@
 				<seg>Animate Frames</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg></seg>
+				<seg>Анимирани кадри</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2641,7 +2705,7 @@
 				<seg>Center X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Център X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2649,7 +2713,7 @@
 				<seg>Center Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Център Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2921,7 +2985,7 @@
 				<seg>Offset X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Изместване по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2929,7 +2993,7 @@
 				<seg>Offset Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Изместване по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2937,7 +3001,7 @@
 				<seg>Scale Pin Point</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Точка за мащабиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2969,7 +3033,7 @@
 				<seg>Apply to Filling</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Приложи на запълването</seg>
+				<seg>Приложи към запълването</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2977,7 +3041,7 @@
 				<seg>Apply to Outline</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Приложи на очертанията</seg>
+				<seg>Приложи към очертанията</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2985,7 +3049,7 @@
 				<seg>Dash Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил на тире</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2993,7 +3057,7 @@
 				<seg>Start Cap</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начален връх</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3009,7 +3073,7 @@
 				<seg>Dash Cap</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Връх на тире</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3017,7 +3081,7 @@
 				<seg>Line Join</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Свързване на линия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3025,7 +3089,7 @@
 				<seg>Miter Limit</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Лимит на скосяване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3033,7 +3097,7 @@
 				<seg>Dash Pattern</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Шаблон на тире</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3201,7 +3265,7 @@
 				<seg>Read Only</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Само за четене</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3289,7 +3353,7 @@
 				<seg>Headers Padding</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отстъп на заглавия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3305,7 +3369,7 @@
 				<seg>Icons Padding</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отстъп на икони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3313,7 +3377,7 @@
 				<seg>Icons Spacing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Разстояние между иконите</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4086,6 +4150,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Show Box Preview</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Command Name</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -4449,7 +4521,7 @@
 				<seg>Has None Button</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Има бутон "Никакъв"</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4457,7 +4529,7 @@
 				<seg>More Options Image</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Изображение за повече опции</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4561,7 +4633,7 @@
 				<seg>Allow Focus</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи фокусиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4569,7 +4641,7 @@
 				<seg>Allow Mouse Capture</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи прихващане на мишката</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4577,7 +4649,7 @@
 				<seg>Allow Touch Capture</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи прихващане на докосването</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4585,7 +4657,7 @@
 				<seg>Allow Drop</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ползволи пускане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4593,7 +4665,7 @@
 				<seg>Tab Stop</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Табулатор</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4609,7 +4681,7 @@
 				<seg>Tooltip</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Подсказка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4617,7 +4689,7 @@
 				<seg>Cursor</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Курсор</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4633,7 +4705,7 @@
 				<seg>Commander</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Командир</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4673,7 +4745,7 @@
 				<seg>Allow Context Popup</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи контексни изскачащи прозорци</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4681,7 +4753,7 @@
 				<seg>Record History</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>История на записите</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4697,7 +4769,7 @@
 				<seg>Hint</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Подсещане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4705,7 +4777,7 @@
 				<seg>Hint Fill</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Запълване на подсещането</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4729,7 +4801,7 @@
 				<seg>Text Align</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Подравняване на текста</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4737,7 +4809,7 @@
 				<seg>Always Show Selection</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Винаги показвай селекцията</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4745,7 +4817,7 @@
 				<seg>Always Show Caret</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Винаги показвай каретката</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4769,7 +4841,7 @@
 				<seg>Word Wrap</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Прехвърляне на думи</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4801,7 +4873,7 @@
 				<seg>Password Char</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Символ за пароли</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4809,7 +4881,7 @@
 				<seg>Character Casing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Регистър на буквите</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4913,7 +4985,7 @@
 				<seg>Fill Lane</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Равнина на запълване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4921,7 +4993,7 @@
 				<seg>Stack Fill Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на запълване на стек</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4929,7 +5001,7 @@
 				<seg>Stack Fit Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на наместване на стек</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5233,7 +5305,7 @@
 				<seg>Preview Size</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Размер на предварителния преглед</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5249,7 +5321,7 @@
 				<seg>Preview Margins</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Предварителен преглед на полета</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5257,7 +5329,7 @@
 				<seg>Has More Colors Button</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Има бутон Още цветове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5513,7 +5585,7 @@
 				<seg>Current Color</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Настоящ цвят</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5817,7 +5889,7 @@
 				<seg>Close on Mouse down</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Затвори при щракване с мишката</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5865,7 +5937,7 @@
 				<seg>Hot Spot Padding</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отстъп на гореща точка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6329,7 +6401,7 @@
 				<seg>Default Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ширина по подразбиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6513,7 +6585,7 @@
 				<seg>Left Top Corner</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Горен ляв ъгъл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6521,7 +6593,7 @@
 				<seg>Top Left Corner</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Горен ляв ъгъл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6529,7 +6601,7 @@
 				<seg>Right Top Corner</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Горен десен ъгъл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6537,7 +6609,7 @@
 				<seg>Top Right Corner</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Горен десен ъгъл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6545,7 +6617,7 @@
 				<seg>Left Bottom Corner</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Долен ляв ъгъл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6553,7 +6625,7 @@
 				<seg>Bottom Left Corner</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Долен ляв ъгъл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6561,7 +6633,7 @@
 				<seg>Right Bottom Corner</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Десен долен ъгъл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6569,7 +6641,7 @@
 				<seg>Bottom Right Corner</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Долен десен ъгъл</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6577,7 +6649,7 @@
 				<seg>Background Outline</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Запълване на очертанията</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6886,14 +6958,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show Preview</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Control Embedding</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -6919,6 +6983,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Show Label</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Value Control Horizontal Placement</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -7065,7 +7137,7 @@
 				<seg>Id</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>№</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7345,7 +7417,7 @@
 				<seg>Error Correction</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Корекция на грешки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7353,7 +7425,7 @@
 				<seg>Symbology</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Симвология</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7369,7 +7441,7 @@
 				<seg>Size Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Оразмеряване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7441,7 +7513,7 @@
 				<seg>Axis Orientation</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ориентация на ос</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8105,7 +8177,7 @@
 				<seg>Appearance Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на облика</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8273,7 +8345,7 @@
 				<seg>Average Stroke</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Среден щрих</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8801,7 +8873,7 @@
 				<seg>Candle Shape</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Свещ</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8809,7 +8881,7 @@
 				<seg>Candle Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Дебелина на свещта</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9153,7 +9225,7 @@
 				<seg>Update Mouse Buttons</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Обнови бутоните на мишката</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9233,7 +9305,7 @@
 				<seg>Alignment Guidelines</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Насоки за изравняване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9393,7 +9465,7 @@
 				<seg>Allow Dragging</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи влачене</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11385,7 +11457,7 @@
 				<seg>Match Case</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отчитане на главни и малки букви</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11545,7 +11617,7 @@
 				<seg>Alternating Rows Interval</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Интервал на редуващи се редове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11553,7 +11625,7 @@
 				<seg>Alternating Rows Length</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Дължине на редуващи се редове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11561,7 +11633,7 @@
 				<seg>Alternating Row Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Фон на редуващите се редове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11585,7 +11657,7 @@
 				<seg>Auto Create Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Автоматично създаване на колоно</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11641,7 +11713,7 @@
 				<seg>Frozen Rows</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Замразени редове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11649,7 +11721,7 @@
 				<seg>Allow Sort Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи сортиране на колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11657,7 +11729,7 @@
 				<seg>Allow Filter Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи филтриране на колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11665,7 +11737,7 @@
 				<seg>Allow Reorder Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи пренареждане на колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11673,7 +11745,7 @@
 				<seg>Allow Resize Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи оразмеряване на колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11681,7 +11753,7 @@
 				<seg>Allow Best Fit Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи колони с най-добро вместване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11689,7 +11761,7 @@
 				<seg>Allow Format Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи форматиране на колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11697,7 +11769,7 @@
 				<seg>Allow Resize Rows</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи оразмеряване на редове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11705,7 +11777,7 @@
 				<seg>Allow Best Fit Rows</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи редове с най-добро вместване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11713,7 +11785,7 @@
 				<seg>Allow Delete Rows</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи изтриване на редове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11721,7 +11793,7 @@
 				<seg>Allow Edit</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи редактиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11865,7 +11937,7 @@
 				<seg>Allow Group Columns</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позвали групиране на колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11969,7 +12041,7 @@
 				<seg>Allow Filter</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи филтриране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11977,7 +12049,7 @@
 				<seg>Allow Sort</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи сортиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11985,7 +12057,7 @@
 				<seg>Allow Group</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи групиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11993,7 +12065,7 @@
 				<seg>Allow Format</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи форматиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12001,7 +12073,7 @@
 				<seg>Allow Reorder</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи пренареждане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12009,7 +12081,7 @@
 				<seg>Allow Resize</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи оразмеряване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12665,7 +12737,7 @@
 				<seg>Selected Template</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Избран шаблон</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13390,14 +13462,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Load Drawing Scale</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Зареди мащаб на диаграма</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Select Drawing Scale</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -13458,14 +13522,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Абстрактна диаграма</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Page Orientation</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg>Ориентация на страница</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13785,7 +13841,7 @@
 				<seg>Status Pane</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Панел на статуса</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13881,7 +13937,7 @@
 				<seg>Replace with</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Замести с</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13889,7 +13945,7 @@
 				<seg>Find what</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Намери</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13897,7 +13953,7 @@
 				<seg>Search in</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Търси в</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13905,7 +13961,7 @@
 				<seg>Search Direction</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Посока на търсене</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13913,7 +13969,7 @@
 				<seg>Normalization</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Нормализация</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13921,7 +13977,7 @@
 				<seg>Whole Words Only</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Само цели думи</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14409,7 +14465,7 @@
 				<seg>Stop Force</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Сила на спиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14417,7 +14473,7 @@
 				<seg>Min Delta</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Минимална делта</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14425,7 +14481,7 @@
 				<seg>Max Iterations</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Максимален брой итерации</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14433,7 +14489,7 @@
 				<seg>Max Time</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Максимално време</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14681,7 +14737,7 @@
 				<seg>Show Logical Unit</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Покажи логическа мерна единица</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14705,7 +14761,7 @@
 				<seg>Begin Command</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Команда за начало</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14713,7 +14769,7 @@
 				<seg>End Command</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Команда за край</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14769,7 +14825,7 @@
 				<seg>Gender</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Пол</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14777,7 +14833,7 @@
 				<seg>First Name</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Първо име</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14785,7 +14841,7 @@
 				<seg>Last Name</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Фамилно име</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14793,7 +14849,7 @@
 				<seg>Married Name</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Име след сватбата</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14801,7 +14857,7 @@
 				<seg>Email</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>E-mail</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14809,7 +14865,7 @@
 				<seg>Photo</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Снимка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14817,7 +14873,7 @@
 				<seg>Birth</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Раждане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15081,7 +15137,7 @@
 				<seg>Is Adopted</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Осиновен</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15097,7 +15153,7 @@
 				<seg>Twin</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Близнак</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15105,7 +15161,7 @@
 				<seg>Is Twin</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Близнак</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15113,7 +15169,7 @@
 				<seg>Attribute Type</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Тип на атрибут</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15273,7 +15329,7 @@
 				<seg>Wrap Flow Break</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Прекъсване на поток</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15297,7 +15353,7 @@
 				<seg>Layer Index</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Индекс на слой</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15305,7 +15361,7 @@
 				<seg>X Moveable</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Движение по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15313,7 +15369,7 @@
 				<seg>Y Moveable</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Движение по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15321,7 +15377,7 @@
 				<seg>Electrical Charge</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Електрически заряд</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15329,7 +15385,7 @@
 				<seg>Mass</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Маса</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15457,7 +15513,7 @@
 				<seg>Resize Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на преоразмеряване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15505,7 +15561,7 @@
 				<seg>Loc Pin Relative</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Относителен локален пин</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15513,7 +15569,7 @@
 				<seg>Loc Pin X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>X на локален пин</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15521,7 +15577,7 @@
 				<seg>Loc Pin Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Y на локален пин</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15529,7 +15585,7 @@
 				<seg>Keep Upward</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Запази възходяща</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15614,10 +15670,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Show Mini Tool Bar</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Show Guideline Menu</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай меню на водещи линии</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15625,7 +15689,7 @@
 				<seg>Show Shape Menu</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай меню на фигури</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15633,7 +15697,7 @@
 				<seg>Show Page Menu</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай меню на страница</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15646,10 +15710,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Mini Diagram Formatting</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Model</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Модел</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15657,7 +15729,7 @@
 				<seg>Reroute Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на рутиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15665,7 +15737,7 @@
 				<seg>Allow Layouts Reroute</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи на алгоритъм за подредба да пренасочва връзки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15897,7 +15969,7 @@
 				<seg>Min Text Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Минимална ширина на текст</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15905,7 +15977,7 @@
 				<seg>Max Text Height</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Максимална височина на текст</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15913,7 +15985,7 @@
 				<seg>Min Text Height</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Минимална височина на текст</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15921,7 +15993,7 @@
 				<seg>Horizontal Text Alignment</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Хоризонтално подравняване на текста</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15929,7 +16001,7 @@
 				<seg>Vertical Text Alignment</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вертикално подравняване на текста</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15937,7 +16009,7 @@
 				<seg>Preview Text Spacing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Текстово разстояние на предварителния преглед</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15953,7 +16025,7 @@
 				<seg>Item Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Дебелина на рамка на елемент</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15961,7 +16033,7 @@
 				<seg>Item Padding</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отстъп на елементи</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16065,7 +16137,7 @@
 				<seg>Show Box Trackers</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай тракери на кутия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16073,7 +16145,7 @@
 				<seg>Show Pin Rotation Trackers</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай тракери за завъртане около пин</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16081,7 +16153,7 @@
 				<seg>Show End Points Trackers</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай тракери на крайни точки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16089,7 +16161,7 @@
 				<seg>Show Controls Trackers</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай тракери на контролни точки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16097,7 +16169,7 @@
 				<seg>Show Geometry Trackers</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай тракери на геометрия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16113,7 +16185,7 @@
 				<seg>Rotator Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил на дръжките на завъртане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16121,7 +16193,7 @@
 				<seg>Pin Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил дръжки на пин</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16129,7 +16201,7 @@
 				<seg>Begin Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Тип на дръжка на начална точка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16137,7 +16209,7 @@
 				<seg>End Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стин на дръжка на крайна точка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16145,7 +16217,7 @@
 				<seg>Port Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил на дръжките на портовете</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16153,7 +16225,7 @@
 				<seg>Control Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил на дръжки на контрол</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16161,7 +16233,7 @@
 				<seg>Geometry Base Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил на дръжка на базова точка на геометрия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16169,7 +16241,7 @@
 				<seg>Geometry Bend Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил на дръжка на точна на завой на геометрия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16177,7 +16249,7 @@
 				<seg>Geometry Mid Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил на дръжка на средна точка на геометрия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16185,7 +16257,7 @@
 				<seg>Geometry Control Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стил на дръжка на котролна точка на геометрия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16193,7 +16265,7 @@
 				<seg>Selected Guidelines Stroke</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Щрих на избраните водещи линии</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16201,7 +16273,7 @@
 				<seg>Hide Disabled Handles</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Скрий неактивните дръжки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16217,7 +16289,7 @@
 				<seg>Glued Handle Color</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Цвят на дръжка за прилепване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16225,7 +16297,7 @@
 				<seg>Rotator Handle Distance</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Разстояние между дръжките на завъртане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16241,7 +16313,7 @@
 				<seg>Closed Figures Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Хит тест зона на затворените фигури</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16249,7 +16321,7 @@
 				<seg>Open Figures Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Зона на хит тест на отворени фигури</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16257,7 +16329,7 @@
 				<seg>Guidelines Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Зона за хит тест на насоки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16265,7 +16337,7 @@
 				<seg>Paste Position Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим за вмъкване на позиция</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16273,7 +16345,7 @@
 				<seg>Paste Offset X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вмъкване на отместването по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16281,7 +16353,7 @@
 				<seg>Paste Offset Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вмъквоне на отместването по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16289,7 +16361,7 @@
 				<seg>Max Previewed Items</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Максимален брой елементи за предварителен преглед</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16297,7 +16369,7 @@
 				<seg>Nudge Step</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стъпка на преместване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16305,7 +16377,7 @@
 				<seg>Rotation Step</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стъпка на завъртане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16313,7 +16385,7 @@
 				<seg>Horizontal Spacing Step</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стъпка на хоризонтално разстояние</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16321,7 +16393,7 @@
 				<seg>Vertical Spacing Step</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Стъпка на вертикално отстояние</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16329,7 +16401,7 @@
 				<seg>Merge Point Distance</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Разстояние между точки на сливане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16622,6 +16694,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Fishbone Shapes</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Floor Plan Shapes</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
@@ -16698,14 +16778,6 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Метеорологично време</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Fishbone Shapes</seg>
-			</tuv>
-			<tuv xml:lang="bg-BG">
-				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26030,7 +26102,15 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Open Arrow End" + "", "" + NLoc.Get("Close Arrow End</seg>
+				<seg>Open Arrow End</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Close Arrow End</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg></seg>
@@ -28753,7 +28833,7 @@
 				<seg>X Step Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на стъпка по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28761,7 +28841,7 @@
 				<seg>Fixed X Step</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Фиксирана стъпка по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28769,7 +28849,7 @@
 				<seg>Y Step Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на стъпка по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28777,7 +28857,7 @@
 				<seg>Fixed Y Step</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Фиксирана стъка по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28785,7 +28865,7 @@
 				<seg>Minor Ticks Count</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Брой малки деления</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28857,7 +28937,7 @@
 				<seg>Snap to Ports</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Прилепване към портове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28865,7 +28945,7 @@
 				<seg>Snap to Geometries</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Прилепване към геометрии</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28873,7 +28953,7 @@
 				<seg>Snap to Shapes</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Прилепване към фигури</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28929,7 +29009,7 @@
 				<seg>Ports Strength</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Сила на портовете</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28937,7 +29017,7 @@
 				<seg>Geometry Strength</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Сила на геометрия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28945,7 +29025,7 @@
 				<seg>Geometry Vertices Strength</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Сила върховете на геометрия</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28953,7 +29033,7 @@
 				<seg>Guidelines Strength</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Сила на насоки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28961,7 +29041,7 @@
 				<seg>Grid Strength</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Сила на мрежата</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28969,7 +29049,7 @@
 				<seg>Rulers Strength</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Сила на линиите</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28985,7 +29065,7 @@
 				<seg>Rotation Tolerance</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Толерантност на въртене</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29041,7 +29121,7 @@
 				<seg>Dir X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>X на вектор за посока</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29049,7 +29129,7 @@
 				<seg>Dir Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Y на вектор за посока</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29057,7 +29137,7 @@
 				<seg>Glue Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на прилепване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29065,7 +29145,7 @@
 				<seg>Flow Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на обтичане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30465,7 +30545,7 @@
 				<seg>End Arrowhead</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Край на стрелка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30473,7 +30553,7 @@
 				<seg>Begin Direction</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начална посока</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30481,7 +30561,7 @@
 				<seg>End Direction</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Посока на края</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30521,7 +30601,7 @@
 				<seg>Can Glue</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Може да залепва</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30529,7 +30609,7 @@
 				<seg>X Behavior</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Поведение по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30537,7 +30617,7 @@
 				<seg>Y Behavior</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Поведение по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30553,7 +30633,7 @@
 				<seg>Viewport Padding</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отстъпи на прозореца</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30561,7 +30641,7 @@
 				<seg>Find Text Settings</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Настройки за търсене на текст</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30569,7 +30649,7 @@
 				<seg>Replace Text Settings</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Настройки за заместване на текст</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30577,7 +30657,7 @@
 				<seg>Spell Checker</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Проверка на правописа</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32209,7 +32289,7 @@
 				<seg>Display Length</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Дължина на екран</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32249,7 +32329,7 @@
 				<seg>Selection Edit Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на редактиране на селекцията</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32305,7 +32385,7 @@
 				<seg>Resize Shapes</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Преоразмери фигури</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32313,7 +32393,7 @@
 				<seg>Selection Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на селекцията</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32321,7 +32401,7 @@
 				<seg>Elements Z Order</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Z ред на елементи</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32337,7 +32417,7 @@
 				<seg>Shape Type</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Тип фигура</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32345,7 +32425,7 @@
 				<seg>Edit Height In 1D</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Редактиране на височина в 1D</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32353,7 +32433,7 @@
 				<seg>Graph Part</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Част от граф</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32369,7 +32449,7 @@
 				<seg>Move Slaves</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Преместване на подчинените</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32377,7 +32457,7 @@
 				<seg>Default Shape Glue</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Прилепване на фигури по подразбиране</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32385,7 +32465,7 @@
 				<seg>Show Shape Handles</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай дръжки на фигури</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32393,7 +32473,7 @@
 				<seg>Show Control Handles</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Показвай дръжки на контролни точки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32401,7 +32481,7 @@
 				<seg>Begin X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начален X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32409,7 +32489,7 @@
 				<seg>Begin Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начален Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32417,7 +32497,7 @@
 				<seg>End X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>X на край</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32425,7 +32505,7 @@
 				<seg>End Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Y на край</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32433,7 +32513,7 @@
 				<seg>Allow Resize X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи оразмеряване по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32441,7 +32521,7 @@
 				<seg>Allow Resize Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи оразмеряване по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32449,7 +32529,7 @@
 				<seg>Allow Change Aspect Ratio</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи промяна на съотношението</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32457,7 +32537,7 @@
 				<seg>Allow Move X</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи местене по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32465,7 +32545,7 @@
 				<seg>Allow Move Y</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи местене по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32473,7 +32553,7 @@
 				<seg>Allow Rotate</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи завъртане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32481,7 +32561,7 @@
 				<seg>Allow Change Pin Point</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи промяна на опорната точка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32489,7 +32569,7 @@
 				<seg>Allow Change Begin Point</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи промяна на началната точка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32497,7 +32577,7 @@
 				<seg>Allow Change End Point</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи промяна на крайната точка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32505,7 +32585,7 @@
 				<seg>Allow Geometry Edit</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи редактиране на геометрията</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32513,7 +32593,7 @@
 				<seg>Allow Inplace Edit</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи редактиране на място</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32521,7 +32601,7 @@
 				<seg>Allow Update Bounds</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи обновяване на границите</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32529,7 +32609,7 @@
 				<seg>Allow Layouts Reglue Begin Point</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи на алгоритъм за подредба да променя началната точка на слепване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32537,7 +32617,7 @@
 				<seg>Allow Layouts Reglue End Point</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи на алгоритъм за подредба да променя крайната точка на слепване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32641,7 +32721,7 @@
 				<seg>Data Object Adaptors</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Адаптери на обект за данни</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32649,7 +32729,7 @@
 				<seg>View Type</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Тип изглед</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32657,7 +32737,7 @@
 				<seg>Text Block Size</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Размер на текстовия блок</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32665,7 +32745,7 @@
 				<seg>Arrange Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ширина на подреждането</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32713,7 +32793,7 @@
 				<seg>Flip Angle</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ъгъл на обръщане</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32721,7 +32801,7 @@
 				<seg>Stroke Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Щрих режим</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33609,7 +33689,7 @@
 				<seg>Cloud Service Provider</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Доставчик на облачни услуги</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33721,7 +33801,7 @@
 				<seg>Start Date</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начална дата</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33729,7 +33809,7 @@
 				<seg>End Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим за край</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33737,7 +33817,7 @@
 				<seg>End Date</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Крайна дата</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33745,7 +33825,7 @@
 				<seg>Max Occurrences</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Максимални събития</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33753,7 +33833,7 @@
 				<seg>Excluded Dates</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Изключени дати</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34065,7 +34145,7 @@
 				<seg>Border Stroke</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Очертание на рамката</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34073,7 +34153,7 @@
 				<seg>Appointment Marks Size</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Размер на маркерите на събития</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34081,7 +34161,7 @@
 				<seg>Appointment Marks Fill</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Зъпалване на маркерите на събития</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34169,7 +34249,7 @@
 				<seg>Notification</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Уведомление</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34177,7 +34257,7 @@
 				<seg>Dismissed</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отхвърлен</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34185,7 +34265,7 @@
 				<seg>Start Time Zone</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начална часова зона</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34193,7 +34273,7 @@
 				<seg>End Time Zone</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Крайна часова зона</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34241,7 +34321,7 @@
 				<seg>Highlighted Cell Fill</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Запълване на клетка за открояване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34249,7 +34329,7 @@
 				<seg>Selected Cell Fill</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Запълване на избраната клетка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34273,7 +34353,7 @@
 				<seg>Minor Lines Count</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Брой второстепенни линии</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34633,7 +34713,7 @@
 				<seg>Notification Check Interval</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Интервал за проверка за уведомления</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34737,7 +34817,7 @@
 				<seg>Label Padding</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отстъп на етикет</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34922,6 +35002,14 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Промени размера на шрифта на инлайните</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Shadow To Inlines</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35225,7 +35313,7 @@
 				<seg>Column Format</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Формат на колона</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35241,7 +35329,7 @@
 				<seg>Line Format</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Формат на ред</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35257,7 +35345,7 @@
 				<seg>Page Format</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Формат на страницата</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35825,7 +35913,7 @@
 				<seg>Bullet Text</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Текст на водещия символ</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35833,7 +35921,7 @@
 				<seg>Start Number</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Начален номер</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35841,7 +35929,7 @@
 				<seg>Bullet Follow Char</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Символ след водещия символ</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35873,7 +35961,7 @@
 				<seg>Document Type</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Тип документ</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35945,7 +36033,7 @@
 				<seg>Clear Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Режим на изчистване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35953,7 +36041,7 @@
 				<seg>Allow Overlap</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи припокриване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35961,7 +36049,7 @@
 				<seg>Horizontal Block Alignment</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Хоризонтално подравняване на блокове</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35969,7 +36057,7 @@
 				<seg>Vertical Block Alignment</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вертикално подравнянаве на блок</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35977,7 +36065,7 @@
 				<seg>Horizontal Anchor</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Хоризонтална котва</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35985,7 +36073,7 @@
 				<seg>Vertical Anchor</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вертикална котва</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35993,7 +36081,7 @@
 				<seg>X Offset</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отместване по X</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36001,7 +36089,7 @@
 				<seg>Y Offset</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отместване по Y</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36009,7 +36097,7 @@
 				<seg>Allow Anchored Descendant Blocks</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи фиксирани блокове наследници</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36017,7 +36105,7 @@
 				<seg>Intrinsic Min Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вътрешна минимална ширина</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36025,7 +36113,7 @@
 				<seg>Intrinsic Min Height</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вътрешна минимална височина</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36057,7 +36145,7 @@
 				<seg>Copy Range Containment</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Копирай съдържанието на област</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36065,7 +36153,7 @@
 				<seg>First Line Indent</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отстъп на първия ред</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36073,7 +36161,7 @@
 				<seg>Hanging Indent</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вътрешно изместване</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36097,7 +36185,7 @@
 				<seg>Paragraph Direction</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Посока на абзац</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36105,7 +36193,7 @@
 				<seg>Allow Spacing between Cells</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позволи разстояние между клетките</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36113,7 +36201,7 @@
 				<seg>Table Cell Horizontal Spacing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Хоризонтално разстояние между клетки на таблица</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36121,7 +36209,7 @@
 				<seg>Table Cell Vertical Spacing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вертикално разстояние между клетки на таблица</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36169,7 +36257,7 @@
 				<seg>Tab Stops</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Табулатори</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36225,7 +36313,7 @@
 				<seg>Page Max Insets Percent</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Максимални вложки на страница в %</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36233,7 +36321,7 @@
 				<seg>Page Padding</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отстъпи на страница</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36241,7 +36329,7 @@
 				<seg>Page Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Дебелина рамката на страницата</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36249,7 +36337,7 @@
 				<seg>Gutter Margin</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Поле на улея</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36257,7 +36345,7 @@
 				<seg>Gutter Position</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Позиция на улея</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36265,7 +36353,7 @@
 				<seg>Page Fill</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Запълване на страница</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36281,7 +36369,7 @@
 				<seg>Page Border Surrounds Header</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Рамката на страницата обхваща горния колонтитул</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36289,7 +36377,7 @@
 				<seg>Page Border Surrounds Footer</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Рамката на страницата обхваща долния колонтитул</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36297,7 +36385,7 @@
 				<seg>Header Offset</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отместване на горния колонтитул</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36305,7 +36393,7 @@
 				<seg>Footer Offset</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Отместване на долния колонтитул</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36313,7 +36401,7 @@
 				<seg>Max Header Percent</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Максимален процент на горен колонтитул</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36321,7 +36409,7 @@
 				<seg>Max Footer Percent</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Максимален процент на долен колонтитул</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36345,7 +36433,7 @@
 				<seg>Pages Document</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Документ за страниците</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36353,7 +36441,7 @@
 				<seg>Logical Pages Document</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Документ с логически страници</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36369,7 +36457,7 @@
 				<seg>Column Spacing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Разстояние между колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36377,7 +36465,7 @@
 				<seg>Column Separator Stroke</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Щрих на разделителя на колони</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36457,7 +36545,7 @@
 				<seg>Data Field</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Поле за данни</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36497,7 +36585,7 @@
 				<seg>Before</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Преди</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36569,7 +36657,7 @@
 				<seg>Target</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Цел</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36609,7 +36697,7 @@
 				<seg>Find Settings</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Настройки на търсенето</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36617,7 +36705,7 @@
 				<seg>Goto Settings</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Настройки за преход</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36625,7 +36713,7 @@
 				<seg>Replace Settings</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Настройки на заместването</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36633,7 +36721,7 @@
 				<seg>Content Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Запълване фона на съдържанието</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37633,7 +37721,7 @@
 				<seg>Table Border Mode</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Рамка на таблица</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37641,7 +37729,7 @@
 				<seg>Cell Margins Left</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ляво поле на клетка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37649,7 +37737,7 @@
 				<seg>Cell Margins Top</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Горно поле на клетка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37657,7 +37745,7 @@
 				<seg>Cell Margins Right</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Дясно поле на клетка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37665,7 +37753,7 @@
 				<seg>Cell Margins Bottom</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Долно поле на клетка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37673,7 +37761,7 @@
 				<seg>Horizontal Cell Spacing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Хоризонтално разстояние между клетки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37681,7 +37769,7 @@
 				<seg>Vertical Cell Spacing</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Вертикално разстояние между клетки</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37697,7 +37785,7 @@
 				<seg>Update Automatically</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Обновявай автоматично</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37753,7 +37841,7 @@
 				<seg>Part</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Част</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37777,7 +37865,7 @@
 				<seg>Suffix</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Наставка</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37785,7 +37873,7 @@
 				<seg>Auto Size</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Автоматичен размер</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37793,7 +37881,7 @@
 				<seg>Fixed Column Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Фиксирана ширина на колона</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37801,7 +37889,7 @@
 				<seg>Percent Column Width</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Ширина на колона в %</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37921,7 +38009,7 @@
 				<seg>Scope</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Обхват</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -38354,6 +38442,22 @@
 			</tuv>
 			<tuv xml:lang="bg-BG">
 				<seg>Ширина на колони</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mini Text Formatting</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Justify</seg>
+			</tuv>
+			<tuv xml:lang="bg-BG">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -38937,7 +39041,7 @@
 				<seg>Tab Stop Alignment</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Подравняване на табулатор</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -39113,7 +39217,7 @@
 				<seg>Selected Character</seg>
 			</tuv>
 			<tuv xml:lang="bg-BG">
-				<seg>Избран символ</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>

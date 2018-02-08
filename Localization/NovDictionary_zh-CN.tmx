@@ -129,7 +129,7 @@
 				<seg>Manager</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>经理</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -145,7 +145,7 @@
 				<seg>Operator</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>运算符</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -161,7 +161,7 @@
 				<seg>Keywords</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>关键字</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -177,7 +177,7 @@
 				<seg>File Name</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>文件名称</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -185,7 +185,7 @@
 				<seg>File Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>文件大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -201,7 +201,7 @@
 				<seg>Editing Start</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>编辑开始</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -209,7 +209,7 @@
 				<seg>Version Number</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>版本号</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -217,7 +217,7 @@
 				<seg>Creation Time</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>创建时间</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -225,7 +225,7 @@
 				<seg>Revision Time</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>修改时间</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -233,7 +233,7 @@
 				<seg>Print Time</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>打印时间</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -241,7 +241,7 @@
 				<seg>Backup Time</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>备份时间</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -321,7 +321,7 @@
 				<seg>Numeric Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>数值格式器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -329,7 +329,7 @@
 				<seg>Date Time Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>日期时间值格式器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -337,7 +337,7 @@
 				<seg>Boolean Value Formatter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>布尔值格式器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -433,7 +433,7 @@
 				<seg>Edited Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已编辑边框粗细</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -441,7 +441,7 @@
 				<seg>Control Placement</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>控制放置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -449,7 +449,7 @@
 				<seg>Has More Options Button</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>具有其它选项按钮</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -702,6 +702,22 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Developer Mode</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>开发者模式</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Contextual Help</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Auto Save Interval</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -950,10 +966,66 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Page Width</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page Height</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page Orientation</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>纸张方向</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Left Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Top Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Paging Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>分页模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -961,7 +1033,7 @@
 				<seg>Zoom Percent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>缩放比例</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -969,7 +1041,7 @@
 				<seg>Page Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面列</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -977,7 +1049,7 @@
 				<seg>Page Rows</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面行</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -998,18 +1070,42 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Page Size and Margins</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>纸张大小和边距</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Print Layout</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>打印布局</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Left</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>左</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Top</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>上</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>右</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg>下</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1057,7 +1153,7 @@
 				<seg>Selected Bounds</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所选边界</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1065,7 +1161,7 @@
 				<seg>Document Bounds</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>文档边界</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1073,7 +1169,7 @@
 				<seg>Selection Bounds</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>选择区边界</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1222,34 +1318,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Left</seg>
+				<seg>Show Preview</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Top</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>上</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Right</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>右</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Bottom</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>下</seg>
+				<seg>显示预览</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1297,7 +1369,7 @@
 				<seg>Formats List Box Max Height</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>格式列表框最大高度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1529,7 +1601,7 @@
 				<seg>Command UI</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>命令界面</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1546,14 +1618,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>UI主题名称</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Developer Mode</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>开发者模式</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1881,7 +1945,7 @@
 				<seg>Edited Dictionary</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已编辑字典</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2401,7 +2465,7 @@
 				<seg>Max Days</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大天数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2617,7 +2681,7 @@
 				<seg>Mapping Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>映射模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2641,7 +2705,7 @@
 				<seg>Center X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>中心（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2649,7 +2713,7 @@
 				<seg>Center Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>中心（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2657,7 +2721,7 @@
 				<seg>Focus Factor X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>焦点系数（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2665,7 +2729,7 @@
 				<seg>Focus Factor Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>焦点系数（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2921,7 +2985,7 @@
 				<seg>Offset X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>偏移量（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2929,7 +2993,7 @@
 				<seg>Offset Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>偏移量（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2937,7 +3001,7 @@
 				<seg>Scale Pin Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>缩放固定点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2953,7 +3017,7 @@
 				<seg>Fade Length</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>淡入淡出长度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2961,7 +3025,7 @@
 				<seg>Use Fill and Stroke Alpha</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>使用填充和描边Alpha值</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2969,7 +3033,7 @@
 				<seg>Apply to Filling</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>应用于填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2977,7 +3041,7 @@
 				<seg>Apply to Outline</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>应用于大纲</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2985,7 +3049,7 @@
 				<seg>Dash Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>短划线样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -2993,7 +3057,7 @@
 				<seg>Start Cap</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>起始端点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3009,7 +3073,7 @@
 				<seg>Dash Cap</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>短划线端点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3017,7 +3081,7 @@
 				<seg>Line Join</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>线条联接</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3025,7 +3089,7 @@
 				<seg>Miter Limit</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>斜接限制</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3033,7 +3097,7 @@
 				<seg>Dash Pattern</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>短划线图样</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3201,7 +3265,7 @@
 				<seg>Read Only</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>只读</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3281,7 +3345,7 @@
 				<seg>Visible Headers Count</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可见标题数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3289,7 +3353,7 @@
 				<seg>Headers Padding</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>标题填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3305,7 +3369,7 @@
 				<seg>Icons Padding</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>图标填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -3313,7 +3377,7 @@
 				<seg>Icons Spacing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>图标间距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4086,6 +4150,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Show Box Preview</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Command Name</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -4241,7 +4313,7 @@
 				<seg>Inner X Radius</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>内部X轴半径</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4249,7 +4321,7 @@
 				<seg>Inner Y Radius</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>内部Y轴半径</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4257,7 +4329,7 @@
 				<seg>Outer X Radius</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>外部X轴半径</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4265,7 +4337,7 @@
 				<seg>Outer Y Radius</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>外部Y轴半径</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4441,7 +4513,7 @@
 				<seg>Has Automatic Button</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>拥有自动按钮</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4449,7 +4521,7 @@
 				<seg>Has None Button</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>无按钮</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4457,7 +4529,7 @@
 				<seg>More Options Image</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>其它选项图像</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4489,7 +4561,7 @@
 				<seg>Has Today Button</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>具有[今天]按钮</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4553,7 +4625,7 @@
 				<seg>Is Disabled</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已禁用</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4561,7 +4633,7 @@
 				<seg>Allow Focus</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可对焦点进行操作</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4569,7 +4641,7 @@
 				<seg>Allow Mouse Capture</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行鼠标捕获</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4577,7 +4649,7 @@
 				<seg>Allow Touch Capture</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行触摸捕获</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4585,7 +4657,7 @@
 				<seg>Allow Drop</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行拖动</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4593,7 +4665,7 @@
 				<seg>Tab Stop</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>制表位</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4601,7 +4673,7 @@
 				<seg>Tab Index</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>制表键索引</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4609,7 +4681,7 @@
 				<seg>Tooltip</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>工具提示</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4617,7 +4689,7 @@
 				<seg>Cursor</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>光标</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4625,7 +4697,7 @@
 				<seg>Interactor</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>交互器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4633,7 +4705,7 @@
 				<seg>Commander</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>命令行</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4665,7 +4737,7 @@
 				<seg>Show Caret</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示插入符号</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4673,7 +4745,7 @@
 				<seg>Allow Context Popup</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行内容弹出</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4681,7 +4753,7 @@
 				<seg>Record History</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>记录历史</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4689,7 +4761,7 @@
 				<seg>Clear History on Focus out</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>清除焦点处历史</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4697,7 +4769,7 @@
 				<seg>Hint</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>提示</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4705,7 +4777,7 @@
 				<seg>Hint Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>提示填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4713,7 +4785,7 @@
 				<seg>Selection Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>背景选择部分填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4721,7 +4793,7 @@
 				<seg>Selection Text Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>文本选择部分填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4729,7 +4801,7 @@
 				<seg>Text Align</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>文本对齐方式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4737,7 +4809,7 @@
 				<seg>Always Show Selection</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>始终显示所选内容</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4745,7 +4817,7 @@
 				<seg>Always Show Caret</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>始终显示插入符号</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4753,7 +4825,7 @@
 				<seg>Select All on Focus</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>聚焦时全选</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4761,7 +4833,7 @@
 				<seg>Multiline</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>多行</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4769,7 +4841,7 @@
 				<seg>Word Wrap</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>自动换行</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4777,7 +4849,7 @@
 				<seg>Accepts Tab</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>接受Tab键</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4785,7 +4857,7 @@
 				<seg>Accepts Enter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>接受Enter键</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4793,7 +4865,7 @@
 				<seg>Max Length</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大长度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4801,7 +4873,7 @@
 				<seg>Password Char</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>密码字符</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4809,7 +4881,7 @@
 				<seg>Character Casing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>字符大小写</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4849,7 +4921,7 @@
 				<seg>Split Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>拆分模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4857,7 +4929,7 @@
 				<seg>Split Offset</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>拆分偏移量</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4865,7 +4937,7 @@
 				<seg>Split Factor</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>拆分系数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4905,7 +4977,7 @@
 				<seg>Lane Position</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>通道位置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4913,7 +4985,7 @@
 				<seg>Fill Lane</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>填充通道</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4921,7 +4993,7 @@
 				<seg>Stack Fill Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>堆栈填充模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4929,7 +5001,7 @@
 				<seg>Stack Fit Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>堆栈适应模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4937,7 +5009,7 @@
 				<seg>Wrappable</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可自动换行</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4945,7 +5017,7 @@
 				<seg>Has Hidden Items</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>具有隐藏条目</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4977,7 +5049,7 @@
 				<seg>Reopen Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>重新打开模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4985,7 +5057,7 @@
 				<seg>Floating Anchor</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>浮动锚点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4993,7 +5065,7 @@
 				<seg>Floating Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>浮动宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5001,7 +5073,7 @@
 				<seg>Refloat Location</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>重新浮动位置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5009,7 +5081,7 @@
 				<seg>Redock Lane Ref</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>重新停靠通道引用</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5017,7 +5089,7 @@
 				<seg>Redock Lane Position</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>重新停靠通道位置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5025,7 +5097,7 @@
 				<seg>Has Opened Popup</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>具有打开的弹窗</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5033,7 +5105,7 @@
 				<seg>Open Popups on Mouse in</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>鼠标移入时打开弹窗</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5041,7 +5113,7 @@
 				<seg>Close Popups on Mouse out</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>鼠标移出时关闭弹窗</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5097,7 +5169,7 @@
 				<seg>Show Transparency Picker</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示透明度拾取器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5233,7 +5305,7 @@
 				<seg>Preview Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预览大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5241,7 +5313,7 @@
 				<seg>Preview Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预览描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5249,7 +5321,7 @@
 				<seg>Preview Margins</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预览边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5257,7 +5329,7 @@
 				<seg>Has More Colors Button</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>具有其他颜色按钮</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5273,7 +5345,7 @@
 				<seg>Drop down Button Position</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>下拉按钮位置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5345,7 +5417,7 @@
 				<seg>Default Size Measure Value</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>默认尺寸测量值</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5369,7 +5441,7 @@
 				<seg>Is Mouse over Symbol</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>鼠标悬停在了符号上</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5513,7 +5585,7 @@
 				<seg>Current Color</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>当前颜色</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5809,7 +5881,7 @@
 				<seg>Widget</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>小部件</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5817,7 +5889,7 @@
 				<seg>Close on Mouse down</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>按下鼠标时关闭</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5825,7 +5897,7 @@
 				<seg>Show on Disabled</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>禁用时显示</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5833,7 +5905,7 @@
 				<seg>Show Duration</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示时长</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5841,7 +5913,7 @@
 				<seg>First Show Delay</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>首次延迟显示</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5849,7 +5921,7 @@
 				<seg>Next Show Delay</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>下一次延迟显示</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5857,7 +5929,7 @@
 				<seg>Follow Mouse</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>跟随鼠标</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -5865,7 +5937,7 @@
 				<seg>Hot Spot Padding</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>热点填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6329,7 +6401,7 @@
 				<seg>Default Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>默认宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6377,7 +6449,7 @@
 				<seg>Focus Decorator</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>焦点装饰器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6513,7 +6585,7 @@
 				<seg>Left Top Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左上角</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6521,7 +6593,7 @@
 				<seg>Top Left Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左上角</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6529,7 +6601,7 @@
 				<seg>Right Top Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>右上角</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6537,7 +6609,7 @@
 				<seg>Top Right Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>右上角</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6545,7 +6617,7 @@
 				<seg>Left Bottom Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左下角</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6553,7 +6625,7 @@
 				<seg>Bottom Left Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左下角</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6561,7 +6633,7 @@
 				<seg>Right Bottom Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>右下角</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6569,7 +6641,7 @@
 				<seg>Bottom Right Corner</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>右下角</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6577,7 +6649,7 @@
 				<seg>Background Outline</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>背景轮廓</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6585,7 +6657,7 @@
 				<seg>Hit Test Outline</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>命中测试轮廓</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6817,7 +6889,7 @@
 				<seg>Preview Dock Area</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预览停靠区域</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6825,7 +6897,7 @@
 				<seg>Preview Horizontal Placement</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预览水平放置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6833,7 +6905,7 @@
 				<seg>Preview Vertical Placement</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预览垂直放置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6886,14 +6958,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show Preview</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>显示预览</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Control Embedding</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -6922,6 +6986,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>显示标签</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Value Control Horizontal Placement</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7025,7 +7097,7 @@
 				<seg>Inherit Resolution</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>继承分辨率</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7049,7 +7121,7 @@
 				<seg>Resolution</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>分辨率</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7065,7 +7137,7 @@
 				<seg>Id</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>Id</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7345,7 +7417,7 @@
 				<seg>Error Correction</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>误差校正</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7353,7 +7425,7 @@
 				<seg>Symbology</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>符号</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7369,7 +7441,7 @@
 				<seg>Size Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>大小模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7441,7 +7513,7 @@
 				<seg>Axis Orientation</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>轴方向</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7881,7 +7953,7 @@
 				<seg>Min Margin</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最小边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -7889,7 +7961,7 @@
 				<seg>Max Margin</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8009,7 +8081,7 @@
 				<seg>Up Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>向上描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8017,7 +8089,7 @@
 				<seg>Down Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>向下描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8025,7 +8097,7 @@
 				<seg>Up Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>向上填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8033,7 +8105,7 @@
 				<seg>Down Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>向下填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8065,7 +8137,7 @@
 				<seg>High Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>高描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8073,7 +8145,7 @@
 				<seg>Low Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>低描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8081,7 +8153,7 @@
 				<seg>High Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>高填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8089,7 +8161,7 @@
 				<seg>Low Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>低填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8097,7 +8169,7 @@
 				<seg>Show Drop Lines</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示垂直线</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8105,7 +8177,7 @@
 				<seg>Appearance Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>外观模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8113,7 +8185,7 @@
 				<seg>High Legend Name</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>高图例名称</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8121,7 +8193,7 @@
 				<seg>Low Legend Name</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>低图例名称</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8273,7 +8345,7 @@
 				<seg>Average Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>均值描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8281,7 +8353,7 @@
 				<seg>Median Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>中值描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8289,7 +8361,7 @@
 				<seg>Outlier Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>离群值描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8297,7 +8369,7 @@
 				<seg>Outlier Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>离群值填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8329,7 +8401,7 @@
 				<seg>Whisker Width Percent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>线宽百分比</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8337,7 +8409,7 @@
 				<seg>Outlier Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>离群值大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8345,7 +8417,7 @@
 				<seg>Show Average</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示均值</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8353,7 +8425,7 @@
 				<seg>Show Median</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示中值</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8401,7 +8473,7 @@
 				<seg>Show Lower X Error</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示下X向误差</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8409,7 +8481,7 @@
 				<seg>Show Upper X Error</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示上X向误差</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8417,7 +8489,7 @@
 				<seg>Show Lower Y Error</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示下Y向误差</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8425,7 +8497,7 @@
 				<seg>Show Upper Y Error</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示上Y向误差</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8433,7 +8505,7 @@
 				<seg>Y Error Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>Y向误差大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8441,7 +8513,7 @@
 				<seg>X Error Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>X向误差大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8465,7 +8537,7 @@
 				<seg>Reversal Amount</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>逆转数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8473,7 +8545,7 @@
 				<seg>Reversal Amount in Percents</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>逆转数（百分比）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8665,7 +8737,7 @@
 				<seg>Multi Area Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>多区域模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8673,7 +8745,7 @@
 				<seg>Multi Bar Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>多栏模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8689,7 +8761,7 @@
 				<seg>Vertical Margin Inflate</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直边距扩大</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8697,7 +8769,7 @@
 				<seg>Min Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最小尺寸</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8705,7 +8777,7 @@
 				<seg>Max Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大尺寸</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8801,7 +8873,7 @@
 				<seg>Candle Shape</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>烛台形状</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8809,7 +8881,7 @@
 				<seg>Candle Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>烛台宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8817,7 +8889,7 @@
 				<seg>Show Open</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示打开</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8825,7 +8897,7 @@
 				<seg>Show Close</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示关闭</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8833,7 +8905,7 @@
 				<seg>Show High Low</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示高低</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8841,7 +8913,7 @@
 				<seg>Up High Low Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>向上高低描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8849,7 +8921,7 @@
 				<seg>Down High Low Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>向下高低描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8857,7 +8929,7 @@
 				<seg>Scale Candle Width when Zooming</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>当放缩时缩放烛台宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -8921,7 +8993,7 @@
 				<seg>Inflate Margins</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>扩大边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9121,7 +9193,7 @@
 				<seg>Horizontal Line Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平线描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9129,7 +9201,7 @@
 				<seg>Vertical Line Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直线描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9137,7 +9209,7 @@
 				<seg>Update on Mouse Move</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>鼠标移动时更新</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9145,7 +9217,7 @@
 				<seg>Update Mouse Button Events</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>更新鼠标按钮事件</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9153,7 +9225,7 @@
 				<seg>Update Mouse Buttons</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>更新鼠标按钮</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9233,7 +9305,7 @@
 				<seg>Alignment Guidelines</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>对齐栅格线</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9393,7 +9465,7 @@
 				<seg>Allow Dragging</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行拖动</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9401,7 +9473,7 @@
 				<seg>Paint Order</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>绘画顺序</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9409,7 +9481,7 @@
 				<seg>Offset Origin Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>偏移量起点模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9417,7 +9489,7 @@
 				<seg>Offset from Scale</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>缩放比例偏移量</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -9425,7 +9497,7 @@
 				<seg>Value Snapper</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>值投影器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11137,7 +11209,7 @@
 				<seg>Uniform Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>统一填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11145,7 +11217,7 @@
 				<seg>Minimum Value</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最小值</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11153,7 +11225,7 @@
 				<seg>Maximum Value</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大值</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11385,7 +11457,7 @@
 				<seg>Match Case</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>区分大小写</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11465,7 +11537,7 @@
 				<seg>Desired Top Adorner Height</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所需顶部装饰器高度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11473,7 +11545,7 @@
 				<seg>Desired Left Adorner Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所需左侧装饰器宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11481,7 +11553,7 @@
 				<seg>Top Adorner Arrange Slot</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>顶部装饰器排列槽</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11489,7 +11561,7 @@
 				<seg>Left Adorner Arrange Slot</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左侧装饰器排列槽</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11497,7 +11569,7 @@
 				<seg>Integral H Scroll</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>整体水平滚动</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11505,7 +11577,7 @@
 				<seg>Viewport Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>视窗大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11513,7 +11585,7 @@
 				<seg>Row Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>行背景填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11521,7 +11593,7 @@
 				<seg>Selected Row Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所选行背景填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11529,7 +11601,7 @@
 				<seg>Level Indent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>级缩进</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11545,7 +11617,7 @@
 				<seg>Alternating Rows Interval</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>交替行间隔</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11553,7 +11625,7 @@
 				<seg>Alternating Rows Length</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>交替行长度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11561,7 +11633,7 @@
 				<seg>Alternating Row Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>交替行背景填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11585,7 +11657,7 @@
 				<seg>Auto Create Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>自动创建列</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11593,7 +11665,7 @@
 				<seg>Default Data Row Height</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>默认数据行高度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11601,7 +11673,7 @@
 				<seg>Left Frozen Columns End X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左冻结列尾（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11609,7 +11681,7 @@
 				<seg>Left Frozen Columns Count</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左冻结列数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11617,7 +11689,7 @@
 				<seg>Right Frozen Columns Begin X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>右冻结列开始处（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11625,7 +11697,7 @@
 				<seg>Right Frozen Columns Count</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>右冻结列数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11633,7 +11705,7 @@
 				<seg>Frozen Rows End Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>冻结行尾（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11641,7 +11713,7 @@
 				<seg>Frozen Rows</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>冻结行</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11649,7 +11721,7 @@
 				<seg>Allow Sort Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可排序列</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11657,7 +11729,7 @@
 				<seg>Allow Filter Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可过滤列</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11665,7 +11737,7 @@
 				<seg>Allow Reorder Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可重新排序列</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11673,7 +11745,7 @@
 				<seg>Allow Resize Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可调整列大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11681,7 +11753,7 @@
 				<seg>Allow Best Fit Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可对列进行最佳适应</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11689,7 +11761,7 @@
 				<seg>Allow Format Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可格式化列</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11697,7 +11769,7 @@
 				<seg>Allow Resize Rows</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可调整行大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11705,7 +11777,7 @@
 				<seg>Allow Best Fit Rows</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可对行进行最佳适应</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11713,7 +11785,7 @@
 				<seg>Allow Delete Rows</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行删除行</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11721,7 +11793,7 @@
 				<seg>Allow Edit</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行编辑</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11865,7 +11937,7 @@
 				<seg>Allow Group Columns</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可组合列</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11897,7 +11969,7 @@
 				<seg>Create Columns for Service Field Names</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>创建服务域名列</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11929,7 +12001,7 @@
 				<seg>Freeze Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>冻结模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11945,7 +12017,7 @@
 				<seg>Is Auto Created</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已自动创建</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11953,7 +12025,7 @@
 				<seg>Has Filters</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>具有过滤器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11961,7 +12033,7 @@
 				<seg>Display Index</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示索引</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11969,7 +12041,7 @@
 				<seg>Allow Filter</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行过滤</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11977,7 +12049,7 @@
 				<seg>Allow Sort</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行排序</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11985,7 +12057,7 @@
 				<seg>Allow Group</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行组合</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -11993,7 +12065,7 @@
 				<seg>Allow Format</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行格式化</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12001,7 +12073,7 @@
 				<seg>Allow Reorder</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行重新排序</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12009,7 +12081,7 @@
 				<seg>Allow Resize</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可调整大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12017,7 +12089,7 @@
 				<seg>Fixed Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>固定宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12025,7 +12097,7 @@
 				<seg>Width Percent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>宽度百分比</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12313,7 +12385,7 @@
 				<seg>Show Grid Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示栅格菜单</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12321,7 +12393,7 @@
 				<seg>Show Column Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示列菜单</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12329,7 +12401,7 @@
 				<seg>Show Data Cell Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示数据单元格菜单</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12337,7 +12409,7 @@
 				<seg>Show Row Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示行菜单</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12665,7 +12737,7 @@
 				<seg>Selected Template</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所选模版</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -12673,7 +12745,7 @@
 				<seg>Show Back Button</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示后退按钮</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13390,14 +13462,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Load Drawing Scale</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>加载绘图比例</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Select Drawing Scale</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -13458,14 +13522,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Page Orientation</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg>纸张方向</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13785,7 +13841,7 @@
 				<seg>Status Pane</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>状态窗格</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13881,7 +13937,7 @@
 				<seg>Replace with</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>替换为</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13889,7 +13945,7 @@
 				<seg>Find what</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>查找内容</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13897,7 +13953,7 @@
 				<seg>Search in</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>搜索</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13905,7 +13961,7 @@
 				<seg>Search Direction</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>搜索方向</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13913,7 +13969,7 @@
 				<seg>Normalization</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>归一化</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13921,7 +13977,7 @@
 				<seg>Whole Words Only</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>适合全字</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14409,7 +14465,7 @@
 				<seg>Stop Force</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>止动力</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14417,7 +14473,7 @@
 				<seg>Min Delta</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最小增量(Δ)</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14425,7 +14481,7 @@
 				<seg>Max Iterations</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大迭代次数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14433,7 +14489,7 @@
 				<seg>Max Time</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大时间</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14705,7 +14761,7 @@
 				<seg>Begin Command</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>开始命令</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14713,7 +14769,7 @@
 				<seg>End Command</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束命令</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14769,7 +14825,7 @@
 				<seg>Gender</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>性别</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14777,7 +14833,7 @@
 				<seg>First Name</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>名称</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14785,7 +14841,7 @@
 				<seg>Last Name</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>姓氏</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14793,7 +14849,7 @@
 				<seg>Married Name</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>婚后姓名</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14801,7 +14857,7 @@
 				<seg>Email</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>电子邮箱</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14809,7 +14865,7 @@
 				<seg>Photo</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>照片</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14817,7 +14873,7 @@
 				<seg>Birth</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>生日</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14841,7 +14897,7 @@
 				<seg>Part Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>部件类型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -14977,7 +15033,7 @@
 				<seg>Connector Actions</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>连接器动作</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15001,7 +15057,7 @@
 				<seg>Horizontal Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15073,7 +15129,7 @@
 				<seg>Is Dead</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已死亡</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15081,7 +15137,7 @@
 				<seg>Is Adopted</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>被收养</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15089,7 +15145,7 @@
 				<seg>Is Foster</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>是收养的</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15097,7 +15153,7 @@
 				<seg>Twin</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>孪生</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15105,7 +15161,7 @@
 				<seg>Is Twin</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>是孪生的</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15113,7 +15169,7 @@
 				<seg>Attribute Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>属性类型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15153,7 +15209,7 @@
 				<seg>Identified</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>被识别的</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15241,7 +15297,7 @@
 				<seg>Is Compensation</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>存在补偿</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15273,7 +15329,7 @@
 				<seg>Wrap Flow Break</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>隐藏流断点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15281,7 +15337,7 @@
 				<seg>Tip over Children Placement</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>翻倒子级放置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15289,7 +15345,7 @@
 				<seg>Index in Layer</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>按层索引</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15297,7 +15353,7 @@
 				<seg>Layer Index</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>层索引</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15305,7 +15361,7 @@
 				<seg>X Moveable</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>X向可移动</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15313,7 +15369,7 @@
 				<seg>Y Moveable</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>Y向可移动</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15321,7 +15377,7 @@
 				<seg>Electrical Charge</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>电荷</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15329,7 +15385,7 @@
 				<seg>Mass</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>质量</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15457,7 +15513,7 @@
 				<seg>Resize Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>调整大小模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15505,7 +15561,7 @@
 				<seg>Loc Pin Relative</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>相关定位针</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15513,7 +15569,7 @@
 				<seg>Loc Pin X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>定位针（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15521,7 +15577,7 @@
 				<seg>Loc Pin Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>定位针（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15529,7 +15585,7 @@
 				<seg>Keep Upward</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>保持向上</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15614,10 +15670,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Show Mini Tool Bar</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Show Guideline Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示辅助线菜单</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15625,7 +15689,7 @@
 				<seg>Show Shape Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示形状菜单</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15633,7 +15697,7 @@
 				<seg>Show Page Menu</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示页面菜单</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15646,10 +15710,18 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Mini Diagram Formatting</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Model</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>模型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15657,7 +15729,7 @@
 				<seg>Reroute Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>重新路由</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15665,7 +15737,7 @@
 				<seg>Allow Layouts Reroute</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行布局的重新路由</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15785,7 +15857,7 @@
 				<seg>Tool Bar on Top</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>顶部工具栏</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15897,7 +15969,7 @@
 				<seg>Min Text Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最小文本宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15905,7 +15977,7 @@
 				<seg>Max Text Height</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大文本高度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15913,7 +15985,7 @@
 				<seg>Min Text Height</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最小文本高度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15921,7 +15993,7 @@
 				<seg>Horizontal Text Alignment</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平文本对齐</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15929,7 +16001,7 @@
 				<seg>Vertical Text Alignment</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直文本对齐</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15937,7 +16009,7 @@
 				<seg>Preview Text Spacing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预览文本间距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15945,7 +16017,7 @@
 				<seg>Text below Preview</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预览下方文本</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15953,7 +16025,7 @@
 				<seg>Item Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>条目边框粗细</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -15961,7 +16033,7 @@
 				<seg>Item Padding</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>条目填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16065,7 +16137,7 @@
 				<seg>Show Box Trackers</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示框跟踪器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16073,7 +16145,7 @@
 				<seg>Show Pin Rotation Trackers</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示针旋转跟踪器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16081,7 +16153,7 @@
 				<seg>Show End Points Trackers</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示结束点跟踪器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16089,7 +16161,7 @@
 				<seg>Show Controls Trackers</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示控件跟踪器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16097,7 +16169,7 @@
 				<seg>Show Geometry Trackers</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示几何图形跟踪器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16113,7 +16185,7 @@
 				<seg>Rotator Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>旋转器手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16121,7 +16193,7 @@
 				<seg>Pin Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>针手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16129,7 +16201,7 @@
 				<seg>Begin Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>起始点手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16137,7 +16209,7 @@
 				<seg>End Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束点手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16145,7 +16217,7 @@
 				<seg>Port Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>端点手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16153,7 +16225,7 @@
 				<seg>Control Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>控制手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16161,7 +16233,7 @@
 				<seg>Geometry Base Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>几何图形基点手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16169,7 +16241,7 @@
 				<seg>Geometry Bend Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>几何图形弯曲点手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16177,7 +16249,7 @@
 				<seg>Geometry Mid Point Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>几何图形中间点手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16185,7 +16257,7 @@
 				<seg>Geometry Control Handle Style</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>几何图形控制手柄样式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16193,7 +16265,7 @@
 				<seg>Selected Guidelines Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所选辅助线描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16201,7 +16273,7 @@
 				<seg>Hide Disabled Handles</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>隐藏禁用的手柄</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16217,7 +16289,7 @@
 				<seg>Glued Handle Color</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>粘连的手柄颜色</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16225,7 +16297,7 @@
 				<seg>Rotator Handle Distance</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>旋转器手柄距离</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16241,7 +16313,7 @@
 				<seg>Closed Figures Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已关闭[图命中测试加宽]</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16249,7 +16321,7 @@
 				<seg>Open Figures Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>打开[图命中测试加宽]</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16257,7 +16329,7 @@
 				<seg>Guidelines Hit Test Widen</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>辅助线命中测试加宽</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16265,7 +16337,7 @@
 				<seg>Paste Position Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>粘贴位置模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16273,7 +16345,7 @@
 				<seg>Paste Offset X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>粘贴偏移量（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16281,7 +16353,7 @@
 				<seg>Paste Offset Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>粘贴偏移量（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16289,7 +16361,7 @@
 				<seg>Max Previewed Items</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大可预览条目</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16297,7 +16369,7 @@
 				<seg>Nudge Step</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>微调梯级</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16305,7 +16377,7 @@
 				<seg>Rotation Step</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>旋转梯级</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16313,7 +16385,7 @@
 				<seg>Horizontal Spacing Step</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平间距梯级</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16321,7 +16393,7 @@
 				<seg>Vertical Spacing Step</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直间距梯级</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16329,7 +16401,7 @@
 				<seg>Merge Point Distance</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>合并点距离</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -16622,6 +16694,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Fishbone Shapes</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Floor Plan Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
@@ -16698,14 +16778,6 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>天气形状</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Fishbone Shapes</seg>
-			</tuv>
-			<tuv xml:lang="zh-CN">
-				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -26030,7 +26102,15 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Open Arrow End" + "", "" + NLoc.Get("Close Arrow End</seg>
+				<seg>Open Arrow End</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Close Arrow End</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg></seg>
@@ -28753,7 +28833,7 @@
 				<seg>X Step Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>X向梯级模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28761,7 +28841,7 @@
 				<seg>Fixed X Step</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>固定X向梯级</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28769,7 +28849,7 @@
 				<seg>Y Step Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>Y向梯级模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28777,7 +28857,7 @@
 				<seg>Fixed Y Step</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>固定Y向梯级</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28785,7 +28865,7 @@
 				<seg>Minor Ticks Count</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>次Tick数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28857,7 +28937,7 @@
 				<seg>Snap to Ports</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>对齐端点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28865,7 +28945,7 @@
 				<seg>Snap to Geometries</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>对齐几何图形</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28873,7 +28953,7 @@
 				<seg>Snap to Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>对齐形状</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28905,7 +28985,7 @@
 				<seg>Glue to Ports</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>粘连端点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28913,7 +28993,7 @@
 				<seg>Glue to Geometries</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>粘连几何图形</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28921,7 +29001,7 @@
 				<seg>Glue to Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>粘连形状</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28929,7 +29009,7 @@
 				<seg>Ports Strength</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>端点强度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28937,7 +29017,7 @@
 				<seg>Geometry Strength</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>几何图形强度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28945,7 +29025,7 @@
 				<seg>Geometry Vertices Strength</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>几何顶点强度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28953,7 +29033,7 @@
 				<seg>Guidelines Strength</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>栅格线强度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28961,7 +29041,7 @@
 				<seg>Grid Strength</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>栅格强度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28969,7 +29049,7 @@
 				<seg>Rulers Strength</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>标尺强度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -28985,7 +29065,7 @@
 				<seg>Rotation Tolerance</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>旋转公差</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29041,7 +29121,7 @@
 				<seg>Dir X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>方向（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29049,7 +29129,7 @@
 				<seg>Dir Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>方向（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29057,7 +29137,7 @@
 				<seg>Glue Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>粘连模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -29065,7 +29145,7 @@
 				<seg>Flow Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>流模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30465,7 +30545,7 @@
 				<seg>End Arrowhead</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束箭头</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30473,7 +30553,7 @@
 				<seg>Begin Direction</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>开始方向</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30481,7 +30561,7 @@
 				<seg>End Direction</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束方向</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30489,7 +30569,7 @@
 				<seg>Clip with Text Block</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>剪切文本块</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30521,7 +30601,7 @@
 				<seg>Can Glue</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可粘连</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30529,7 +30609,7 @@
 				<seg>X Behavior</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>X向行为</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30537,7 +30617,7 @@
 				<seg>Y Behavior</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>Y向行为</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30553,7 +30633,7 @@
 				<seg>Viewport Padding</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>视窗填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30561,7 +30641,7 @@
 				<seg>Find Text Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>查找文本设置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30569,7 +30649,7 @@
 				<seg>Replace Text Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>替换文本设置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -30577,7 +30657,7 @@
 				<seg>Spell Checker</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>拼写检查</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32209,7 +32289,7 @@
 				<seg>Display Length</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示长度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32249,7 +32329,7 @@
 				<seg>Selection Edit Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>选择编辑模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32305,7 +32385,7 @@
 				<seg>Resize Shapes</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>调整形状大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32313,7 +32393,7 @@
 				<seg>Selection Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>选择模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32321,7 +32401,7 @@
 				<seg>Elements Z Order</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>元素的Z轴次序</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32337,7 +32417,7 @@
 				<seg>Shape Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>形状类型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32345,7 +32425,7 @@
 				<seg>Edit Height In 1D</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>编辑一维高度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32353,7 +32433,7 @@
 				<seg>Graph Part</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>图形部分</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32361,7 +32441,7 @@
 				<seg>Resize in Group</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>按组调整大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32369,7 +32449,7 @@
 				<seg>Move Slaves</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>移动从元素</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32377,7 +32457,7 @@
 				<seg>Default Shape Glue</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>默认形状粘连</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32385,7 +32465,7 @@
 				<seg>Show Shape Handles</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示形状手柄</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32393,7 +32473,7 @@
 				<seg>Show Control Handles</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>显示控制手柄</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32401,7 +32481,7 @@
 				<seg>Begin X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>开始（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32409,7 +32489,7 @@
 				<seg>Begin Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>开始（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32417,7 +32497,7 @@
 				<seg>End X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束（X）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32425,7 +32505,7 @@
 				<seg>End Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束（Y）</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32433,7 +32513,7 @@
 				<seg>Allow Resize X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可调整X向大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32441,7 +32521,7 @@
 				<seg>Allow Resize Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可调整Y向大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32449,7 +32529,7 @@
 				<seg>Allow Change Aspect Ratio</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可更改宽高比</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32457,7 +32537,7 @@
 				<seg>Allow Move X</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可移动X轴</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32465,7 +32545,7 @@
 				<seg>Allow Move Y</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可移动Y轴</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32473,7 +32553,7 @@
 				<seg>Allow Rotate</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行旋转</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32481,7 +32561,7 @@
 				<seg>Allow Change Pin Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可更改固定点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32489,7 +32569,7 @@
 				<seg>Allow Change Begin Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可更改起始点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32497,7 +32577,7 @@
 				<seg>Allow Change End Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可更改结束点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32505,7 +32585,7 @@
 				<seg>Allow Geometry Edit</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可进行几何图形编辑</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32513,7 +32593,7 @@
 				<seg>Allow Inplace Edit</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可当场编辑</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32521,7 +32601,7 @@
 				<seg>Allow Update Bounds</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可更新边界</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32529,7 +32609,7 @@
 				<seg>Allow Layouts Reglue Begin Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>允许布局重新粘连起始点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32537,7 +32617,7 @@
 				<seg>Allow Layouts Reglue End Point</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>允许布局重新粘连结束点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32545,7 +32625,7 @@
 				<seg>Route through Horizontally</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平经过路线</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32553,7 +32633,7 @@
 				<seg>Route through Vertically</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直经过路线</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32641,7 +32721,7 @@
 				<seg>Data Object Adaptors</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>数据对象适配器</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32649,7 +32729,7 @@
 				<seg>View Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>视图类型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32657,7 +32737,7 @@
 				<seg>Text Block Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>文本块大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32665,7 +32745,7 @@
 				<seg>Arrange Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>排列宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32713,7 +32793,7 @@
 				<seg>Flip Angle</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>翻转角度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -32721,7 +32801,7 @@
 				<seg>Stroke Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>描边模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33609,7 +33689,7 @@
 				<seg>Cloud Service Provider</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>云服务供应商</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33721,7 +33801,7 @@
 				<seg>Start Date</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>开始日期</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33729,7 +33809,7 @@
 				<seg>End Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33737,7 +33817,7 @@
 				<seg>End Date</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束日期</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33745,7 +33825,7 @@
 				<seg>Max Occurrences</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大发生事件数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -33753,7 +33833,7 @@
 				<seg>Excluded Dates</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>排除日期</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34065,7 +34145,7 @@
 				<seg>Border Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>边框描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34073,7 +34153,7 @@
 				<seg>Appointment Marks Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预约标记大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34081,7 +34161,7 @@
 				<seg>Appointment Marks Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>预约标记填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34169,7 +34249,7 @@
 				<seg>Notification</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>通知</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34177,7 +34257,7 @@
 				<seg>Dismissed</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已排除</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34185,7 +34265,7 @@
 				<seg>Start Time Zone</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>开始时区</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34193,7 +34273,7 @@
 				<seg>End Time Zone</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>结束时区</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34241,7 +34321,7 @@
 				<seg>Highlighted Cell Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>已高亮单元格的填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34249,7 +34329,7 @@
 				<seg>Selected Cell Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所选单元格填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34273,7 +34353,7 @@
 				<seg>Minor Lines Count</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>次行数</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34633,7 +34713,7 @@
 				<seg>Notification Check Interval</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>通知检查间隔</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34737,7 +34817,7 @@
 				<seg>Label Padding</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>标签填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -34922,6 +35002,14 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>更改字体大小给内联</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Set Shadow To Inlines</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35225,7 +35313,7 @@
 				<seg>Column Format</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>列格式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35241,7 +35329,7 @@
 				<seg>Line Format</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>行格式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35257,7 +35345,7 @@
 				<seg>Page Format</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面格式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35825,7 +35913,7 @@
 				<seg>Bullet Text</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>项目符号文本</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35833,7 +35921,7 @@
 				<seg>Start Number</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>起始编号</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35841,7 +35929,7 @@
 				<seg>Bullet Follow Char</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>项目符号跟随字符</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35873,7 +35961,7 @@
 				<seg>Document Type</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>文档类型</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35945,7 +36033,7 @@
 				<seg>Clear Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>清除模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35953,7 +36041,7 @@
 				<seg>Allow Overlap</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可重叠</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35961,7 +36049,7 @@
 				<seg>Horizontal Block Alignment</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平块对齐</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35969,7 +36057,7 @@
 				<seg>Vertical Block Alignment</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直块对齐</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35977,7 +36065,7 @@
 				<seg>Horizontal Anchor</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平锚点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35985,7 +36073,7 @@
 				<seg>Vertical Anchor</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直锚点</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -35993,7 +36081,7 @@
 				<seg>X Offset</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>X向偏移量</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36001,7 +36089,7 @@
 				<seg>Y Offset</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>Y向偏移量</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36009,7 +36097,7 @@
 				<seg>Allow Anchored Descendant Blocks</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可固定后代块</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36017,7 +36105,7 @@
 				<seg>Intrinsic Min Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>固有最小宽度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36025,7 +36113,7 @@
 				<seg>Intrinsic Min Height</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>固有最小高度</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36057,7 +36145,7 @@
 				<seg>Copy Range Containment</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>复制范围控制</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36065,7 +36153,7 @@
 				<seg>First Line Indent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>首行缩进</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36073,7 +36161,7 @@
 				<seg>Hanging Indent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>悬挂缩进</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36097,7 +36185,7 @@
 				<seg>Paragraph Direction</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>段落方向</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36105,7 +36193,7 @@
 				<seg>Allow Spacing between Cells</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>可使用单元格间的间距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36113,7 +36201,7 @@
 				<seg>Table Cell Horizontal Spacing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>表格单元格水平间距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36121,7 +36209,7 @@
 				<seg>Table Cell Vertical Spacing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>表格单元格垂直间距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36169,7 +36257,7 @@
 				<seg>Tab Stops</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>制表位</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36225,7 +36313,7 @@
 				<seg>Page Max Insets Percent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面最大嵌入百分比</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36233,7 +36321,7 @@
 				<seg>Page Padding</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36241,7 +36329,7 @@
 				<seg>Page Border Thickness</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面边框粗细</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36249,7 +36337,7 @@
 				<seg>Gutter Margin</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>装订线边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36257,7 +36345,7 @@
 				<seg>Gutter Position</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>装订线位置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36265,7 +36353,7 @@
 				<seg>Page Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36281,7 +36369,7 @@
 				<seg>Page Border Surrounds Header</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面边框环绕页眉</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36289,7 +36377,7 @@
 				<seg>Page Border Surrounds Footer</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面边框环绕页脚</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36297,7 +36385,7 @@
 				<seg>Header Offset</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页眉偏移量</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36305,7 +36393,7 @@
 				<seg>Footer Offset</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页脚偏移量</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36313,7 +36401,7 @@
 				<seg>Max Header Percent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大页眉百分比</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36321,7 +36409,7 @@
 				<seg>Max Footer Percent</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>最大页脚百分比</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36329,7 +36417,7 @@
 				<seg>Different Left Right Headers and Footers</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页眉页脚左右不同</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36337,7 +36425,7 @@
 				<seg>Different First Header and Footer</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>首个页眉页脚不同</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36345,7 +36433,7 @@
 				<seg>Pages Document</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>页面文档</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36353,7 +36441,7 @@
 				<seg>Logical Pages Document</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>逻辑页面文档</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36369,7 +36457,7 @@
 				<seg>Column Spacing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>列间距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36377,7 +36465,7 @@
 				<seg>Column Separator Stroke</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>列分隔符描边</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36457,7 +36545,7 @@
 				<seg>Data Field</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>数据域</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36497,7 +36585,7 @@
 				<seg>Before</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>之前</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36505,7 +36593,7 @@
 				<seg>After</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>之后</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36569,7 +36657,7 @@
 				<seg>Target</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>目标</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36609,7 +36697,7 @@
 				<seg>Find Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>查找设置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36617,7 +36705,7 @@
 				<seg>Goto Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>定位设置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36625,7 +36713,7 @@
 				<seg>Replace Settings</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>替换设置</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -36633,7 +36721,7 @@
 				<seg>Content Background Fill</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>内容背景填充</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37633,7 +37721,7 @@
 				<seg>Table Border Mode</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>表格边框模式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37641,7 +37729,7 @@
 				<seg>Cell Margins Left</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>左单元格边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37649,7 +37737,7 @@
 				<seg>Cell Margins Top</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>上单元格边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37657,7 +37745,7 @@
 				<seg>Cell Margins Right</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>右单元格边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37665,7 +37753,7 @@
 				<seg>Cell Margins Bottom</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>下单元格边距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37673,7 +37761,7 @@
 				<seg>Horizontal Cell Spacing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>水平单元格间距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37681,7 +37769,7 @@
 				<seg>Vertical Cell Spacing</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>垂直单元格间距</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37697,7 +37785,7 @@
 				<seg>Update Automatically</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>自动更新</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37753,7 +37841,7 @@
 				<seg>Part</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>部分</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37777,7 +37865,7 @@
 				<seg>Suffix</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>后缀</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37785,7 +37873,7 @@
 				<seg>Auto Size</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>自动调整大小</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37793,7 +37881,7 @@
 				<seg>Fixed Column Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>固定列宽</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37801,7 +37889,7 @@
 				<seg>Percent Column Width</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>百分比列宽</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -37921,7 +38009,7 @@
 				<seg>Scope</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>范围</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -38354,6 +38442,22 @@
 			</tuv>
 			<tuv xml:lang="zh-CN">
 				<seg>列宽</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mini Text Formatting</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Justify</seg>
+			</tuv>
+			<tuv xml:lang="zh-CN">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -38937,7 +39041,7 @@
 				<seg>Tab Stop Alignment</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>制表位对齐方式</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -39113,7 +39217,7 @@
 				<seg>Selected Character</seg>
 			</tuv>
 			<tuv xml:lang="zh-CN">
-				<seg>所选字符</seg>
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>

@@ -702,6 +702,22 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Developer Mode</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg>Mode développeur</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Contextual Help</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Auto Save Interval</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
@@ -950,6 +966,62 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Page Width</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page Height</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Page Orientation</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Left Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Top Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom Page Margins</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Paging Mode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
@@ -998,18 +1070,42 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Page Size and Margins</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg>Taille et marges de page</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Print Layout</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg>Layout d'impression</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Left</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg>Gauche</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Top</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg>Haut</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Right</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg>Droite</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Bottom</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg>Bas</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1222,34 +1318,10 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Left</seg>
+				<seg>Show Preview</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
-				<seg>Gauche</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Top</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg>Haut</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Right</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg>Droite</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Bottom</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg>Bas</seg>
+				<seg>Montre aperçu</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -1546,14 +1618,6 @@
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg>Nom culturel IU</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Developer Mode</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg>Mode développeur</seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -4082,6 +4146,14 @@
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg>Zone de travail</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Show Box Preview</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -6886,14 +6958,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Show Preview</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg>Montre aperçu</seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Control Embedding</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
@@ -6922,6 +6986,14 @@
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg>Montre titre</seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Value Control Horizontal Placement</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
 			</tuv>
 		</tu>
 		<tu>
@@ -13390,14 +13462,6 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Load Drawing Scale</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
 				<seg>Select Drawing Scale</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
@@ -13455,14 +13519,6 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Abstract Drawing</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Page Orientation</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg></seg>
@@ -15614,6 +15670,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Show Mini Tool Bar</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Show Guideline Menu</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
@@ -15639,6 +15703,14 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Select</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mini Diagram Formatting</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg></seg>
@@ -16622,6 +16694,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Fishbone Shapes</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Floor Plan Shapes</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
@@ -16695,14 +16775,6 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Weather Shapes</seg>
-			</tuv>
-			<tuv xml:lang="fr-FR">
-				<seg></seg>
-			</tuv>
-		</tu>
-		<tu>
-			<tuv xml:lang="en-US">
-				<seg>Fishbone Shapes</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg></seg>
@@ -26030,7 +26102,15 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
-				<seg>Open Arrow End" + "", "" + NLoc.Get("Close Arrow End</seg>
+				<seg>Open Arrow End</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Close Arrow End</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg></seg>
@@ -34926,6 +35006,14 @@
 		</tu>
 		<tu>
 			<tuv xml:lang="en-US">
+				<seg>Set Shadow To Inlines</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
 				<seg>Insert Linear Barcode</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
@@ -38351,6 +38439,22 @@
 		<tu>
 			<tuv xml:lang="en-US">
 				<seg>Columns Width</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Mini Text Formatting</seg>
+			</tuv>
+			<tuv xml:lang="fr-FR">
+				<seg></seg>
+			</tuv>
+		</tu>
+		<tu>
+			<tuv xml:lang="en-US">
+				<seg>Justify</seg>
 			</tuv>
 			<tuv xml:lang="fr-FR">
 				<seg></seg>
